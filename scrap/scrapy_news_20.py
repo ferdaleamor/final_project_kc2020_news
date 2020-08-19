@@ -12,13 +12,13 @@ write_path = './data/' + str(date.today()) + '_news_20min.csv'
 class veinte_minutos_noticia_spider(scrapy.Spider):
     name = 'blogspider'
     start_urls = urls
-    def parse(self, response):
+    allowed_domains = ['20minutos.es']
 
-        for article in response.css('main'):
-            headline = article.css('section div h1 ::text').extract_first().strip()
-            extract_text = article.css('section article div p ::text').getall()
-            extract_text = " ".join(extract_text)
-            print(f"\"{headline}\",\"{extract_text}\"", file=filep)
+    def parse(self, response):
+        headline = response.css('main section div h1 ::text').extract_first().strip()
+        extract_text = response.css('section article div p ::text').getall()
+        extract_text = " ".join(extract_text)
+        print(f"\"{response.url}\",\"{headline}\",\"{extract_text}\"", file=filep)
 
 
 process = CrawlerProcess({
