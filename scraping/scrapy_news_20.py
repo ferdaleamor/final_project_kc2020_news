@@ -16,7 +16,7 @@ class veinte_minutos_noticia_spider(scrapy.Spider):
     allowed_domains = ['20minutos.es']
 
     def __init__(self):
-        print(f"scraping_date, url, headline, text", file=filep)
+        print(f"scraping_date,url,headline,text", file=filep)
 
     def parse(self, response):
         list_replace = ['\n', '"', ',']

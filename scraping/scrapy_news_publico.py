@@ -20,7 +20,7 @@ class el_mundo_spider(scrapy.Spider):
     start_urls = urls
     
     def __init__(self):
-        print(f"scraping_date, url, headline, text", file=filep)
+        print(f"scraping_date,url,headline,text", file=filep)
 
     def parse(self, response):
         list_replace = ['\n', '"', ',']
