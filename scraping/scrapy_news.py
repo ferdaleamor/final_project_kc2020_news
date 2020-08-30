@@ -32,7 +32,7 @@ class news_spider(scrapy.Spider):
     def parse(self, response):
 
         list_replace = ['\n', '"', ',']
-
+        extract_text = ""
         if response.url.startswith('https://www.publico.es/'):
             headline = response.css('h1').get()
             # Elimina las etiquetas span y su contenido
