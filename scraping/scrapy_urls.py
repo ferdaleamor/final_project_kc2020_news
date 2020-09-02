@@ -1,7 +1,6 @@
 import scrapy
 from scrapy.crawler import CrawlerProcess
 import json
-from datetime import date
 import os
 import string
 import pandas as pd
@@ -18,7 +17,10 @@ class url_spider(scrapy.Spider):
     start_urls = [
         'https://www.20minutos.es/',
         'https://www.larazon.es/',
-        'https://www.publico.es/'
+        'https://www.publico.es/',
+        'https://www.abc.es/',
+        'https://www.lesoir.be/',
+        'https://www.news.com.au/'
     ]
     scraped_urls = []
     df_urls = pd.DataFrame(columns=['url','date'])
@@ -56,6 +58,31 @@ class url_spider(scrapy.Spider):
                     url = 'https://www.publico.es' + str(url)
                     if url not in self.scraped_urls:
                         urls.append(url)
+                        
+        elif response.url.startswith('https://www.abc.es/'):
+            for article in response.css('article'):
+                url = article.css('span h3 a::attr(href)').extract_first()
+                if url is not None:
+                  if not url.startswith('http'):
+                    url = 'https://www.abc.es' + str(url)
+                  urls.append(url)
+                  
+        elif response.url.startswith('https://www.lesoir.be/'):
+            for article in response.css('h4.media-heading'):
+                url = article.css('a::attr(href)').extract_first()
+                if url is not None:
+                  if not url.startswith('http'):
+                    url = 'https://www.lesoir.be' + str(url)
+                  urls.append(url)
+                  
+        elif response.url.startswith('https://www.news.com.au/'):
+            for article in response.css('h4.heading'):
+                url = article.css('a::attr(href)').extract_first()
+                if url is not None:
+                  if not url.startswith('http'):
+                    url = 'https://www.news.com.au/' + str(url)
+                  urls.append(url)
+            
 
         for url in urls:
             self.df_urls = self.df_urls.append({'url' : url , 'date' : today} , ignore_index=True)

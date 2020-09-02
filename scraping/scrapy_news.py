@@ -46,6 +46,19 @@ class news_spider(scrapy.Spider):
         elif response.url.startswith('https://www.larazon.es/'):
             headline = response.css('h1.headline').get()
             extract_text = response.css('p.body-components__text').getall()
+            
+        elif response.url.startswith('https://www.abc.es/'):
+            headline = response.css('span.titular::text').get()
+            extract_text = response.css('p').getall()
+            
+        elif response.url.startswith('https://www.lesoir.be/'):
+            headline = response.css('article h1::text').get()
+            extract_text = response.css('p').getall()
+            
+        elif response.url.startswith('https://www.news.com.au/'):
+            headline = response.css('h1.story-headline::text').get()
+            extract_text = response.css('p').getall()
+            
 
         extract_text = " ".join(extract_text)
         # Elimina todas las etiquetas
