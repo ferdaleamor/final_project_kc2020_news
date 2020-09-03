@@ -64,7 +64,7 @@ class news_spider(scrapy.Spider):
         # Elimina todas las etiquetas
         headline = BeautifulSoup(headline, "lxml").text
         clean_text = BeautifulSoup(extract_text, "lxml").text
-        # Elimina caractesres problemáticos
+        # Elimina caracteres problemáticos
         for char in list_replace:
             clean_text = clean_text.replace(char, "").strip()
             headline = headline.replace(char, "").strip()

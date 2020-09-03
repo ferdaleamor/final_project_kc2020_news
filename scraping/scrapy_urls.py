@@ -63,25 +63,25 @@ class url_spider(scrapy.Spider):
             for article in response.css('article'):
                 url = article.css('span h3 a::attr(href)').extract_first()
                 if url is not None:
-                  if not url.startswith('http'):
-                    url = 'https://www.abc.es' + str(url)
-                  urls.append(url)
+                    if not url.startswith('http'):
+                        url = 'https://www.abc.es' + str(url)
+                    urls.append(url)
                   
         elif response.url.startswith('https://www.lesoir.be/'):
             for article in response.css('h4.media-heading'):
                 url = article.css('a::attr(href)').extract_first()
                 if url is not None:
-                  if not url.startswith('http'):
-                    url = 'https://www.lesoir.be' + str(url)
-                  urls.append(url)
+                    if not url.startswith('http'):
+                        url = 'https://www.lesoir.be' + str(url)
+                urls.append(url)
                   
         elif response.url.startswith('https://www.news.com.au/'):
             for article in response.css('h4.heading'):
                 url = article.css('a::attr(href)').extract_first()
                 if url is not None:
-                  if not url.startswith('http'):
-                    url = 'https://www.news.com.au/' + str(url)
-                  urls.append(url)
+                    if not url.startswith('http'):
+                        url = 'https://www.news.com.au/' + str(url)
+                    urls.append(url)
             
 
         for url in urls:
