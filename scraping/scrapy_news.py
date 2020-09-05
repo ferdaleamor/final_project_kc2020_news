@@ -33,6 +33,8 @@ class news_spider(scrapy.Spider):
 
         list_replace = ['\n', '"', ',']
         extract_text = ""
+        lang = 'es'
+
         if response.url.startswith('https://www.publico.es/'):
             headline = response.css('h1').get()
             # Elimina las etiquetas span y su contenido
@@ -50,6 +52,7 @@ class news_spider(scrapy.Spider):
         elif response.url.startswith('https://time.com'):
             headline = response.css('h1.headline').get()
             extract_text = response.css('p').getall()
+            lang = 'en'
             
         elif response.url.startswith('https://www.abc.es/'):
             headline = response.css('span.titular::text').get()
@@ -58,12 +61,13 @@ class news_spider(scrapy.Spider):
         elif response.url.startswith('https://www.lesoir.be/'):
             headline = response.css('article h1::text').get()
             extract_text = response.css('p').getall()
+            lang = 'fr'
             
         elif response.url.startswith('https://www.news.com.au/'):
             headline = response.css('h1.story-headline::text').get()
             extract_text = response.css('p').getall()
+            lang = 'en'
             
-
         extract_text = " ".join(extract_text)
         # Elimina todas las etiquetas
         headline = BeautifulSoup(headline, "lxml").text
@@ -72,7 +76,7 @@ class news_spider(scrapy.Spider):
         for char in list_replace:
             clean_text = clean_text.replace(char, "").strip()
             headline = headline.replace(char, "").strip()
-        print(f"\"{today}\",\"{response.url}\",\"{headline}\",\"{clean_text}\"", file=filep)
+        print(f"\"{today}\",\"{response.url}\",\"{headline}\",\"{clean_text}\",\"{lang}\"", file=filep)
 
 process = CrawlerProcess({
     'USER_AGENT': 'Google SEO Bot'
