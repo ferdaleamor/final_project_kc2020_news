@@ -28,7 +28,8 @@ class url_spider(scrapy.Spider):
         'https://www.publico.es/',
         'https://www.abc.es/',
         'https://www.lesoir.be/',
-        'https://www.news.com.au/'
+        'https://www.news.com.au/',
+        'https://time.com/'
     ]
 
     
@@ -64,7 +65,7 @@ class url_spider(scrapy.Spider):
                 url = str(article.css('a::attr(href)').extract_first())
                 if not url.startswith('https:'):
                     url = 'https://time.com/' + url
-                if url not in scraped_urls:
+                if url.startswith('https://time.com') and url not in scraped_urls:
                     urls.append(url)
                         
         elif response.url.startswith('https://www.abc.es/'):
