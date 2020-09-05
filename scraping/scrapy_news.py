@@ -46,6 +46,10 @@ class news_spider(scrapy.Spider):
         elif response.url.startswith('https://www.larazon.es/'):
             headline = response.css('h1.headline').get()
             extract_text = response.css('p.body-components__text').getall()
+
+        elif response.url.startswith('https://time.com'):
+            headline = response.css('h1.headline').get()
+            extract_text = response.css('p').getall()
             
         elif response.url.startswith('https://www.abc.es/'):
             headline = response.css('span.titular::text').get()
