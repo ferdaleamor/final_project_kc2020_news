@@ -12,13 +12,18 @@ from num2words import num2words
 from stop_words import get_stop_words
 
 from datetime import datetime, date, time, timedelta
-
+import numpy as np
 import os.path
 
 #CARGA DE DATOS
 
 df = pd.read_csv('./data/news.csv')
 df.dropna(inplace=True)
+today = np.datetime64(date.today())
+df['scraping_date'] = pd.to_datetime(df['scraping_date'], format="%Y/%m/%d")
+dates = df['scraping_date']
+keep = dates == today
+df = df[keep]
 df_es = df.drop(df[df.lang != 'es'].index)
 df_es = df_es['headline']
 
