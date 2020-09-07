@@ -11,13 +11,20 @@ warnings.filterwarnings('ignore')
 from num2words import num2words
 from stop_words import get_stop_words
 
+from datetime import datetime, date, time, timedelta
+
+import os.path
+
 #CARGA DE DATOS
 
-df = pd.read_csv('./data/news.csv', encoding='latin-1')
+df = pd.read_csv('./data/news.csv')
 df.dropna(inplace=True)
 df_es = df.drop(df[df.lang != 'es'].index)
 df_es = df_es['headline']
+
 processed_texts = []
+sw_list = get_stop_words('es')
+
 for text in df_es:
     processed_text = []
     
@@ -32,8 +39,6 @@ for text in df_es:
     
     # Segmentar texto en frases
     sentences = text.split('.')
-    
-    sw_list = get_stop_words('es')
        
     prev_word = ""
     prev_word_2 = ""
@@ -57,7 +62,6 @@ for text in df_es:
 #MODELO LDA
 
 dictionary = Dictionary(processed_texts)
-list(dictionary.items())
 
 corpus = [dictionary.doc2bow(doc) for doc in processed_texts]
 
@@ -72,8 +76,25 @@ lda_model = LdaModel(
     alpha='auto'
 )
 
-word_dict = {};
+#DESCARGA DE DATOS A FICHEROS
+
+word_dict = {}
+today = date.today()
+
 for i in range(num_topics):
     words = lda_model.show_topic(i, topn = 20)
+    word_dict['date'] = today
     word_dict['Topic #' + '{:02d}'.format(i+1)] = [i[0] for i in words]
-pd.DataFrame(word_dict)
+
+topic_today = pd.DataFrame(word_dict)
+topic_today.to_csv('./data/topic_today.csv', index=False)
+
+if os.path.isfile('./data/topic_history.csv'):
+    topic_hist = pd.read_csv('./data/topic_history.csv')
+    topic_hist = pd.concat([topic_hist, topic_today])
+    topic_hist.to_csv('./data/topic_history.csv', index=False)
+else:
+    topic_today.to_csv('./data/topic_history.csv', index=False)
+
+
+
