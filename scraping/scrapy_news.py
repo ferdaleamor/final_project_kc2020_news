@@ -9,8 +9,8 @@ import string
 import numpy as np
 import os
 
-write_path = './data/news.csv'
-read_path = './data/urls.csv'
+write_path = '../data/news.csv'
+read_path = '../data/urls.csv'
 
 today = np.datetime64(date.today())
 df_urls = pd.read_csv(read_path)

@@ -7,7 +7,7 @@ import pandas as pd
 from datetime import datetime, date, time, timedelta
 import numpy as np
 
-path = './data/urls.csv'
+path = '../data/urls.csv'
 today = str(date.today())
 days_number = 10
 scraped_urls = []
