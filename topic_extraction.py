@@ -21,9 +21,7 @@ df = pd.read_csv('./data/news.csv')
 df.dropna(inplace=True)
 today = np.datetime64(date.today())
 df['scraping_date'] = pd.to_datetime(df['scraping_date'], format="%Y/%m/%d")
-dates = df['scraping_date']
-keep = dates == today
-df = df[keep]
+df = df.loc[df.loc[:, 'scraping_date'] == today]
 df_es = df.drop(df[df.lang != 'es'].index)
 df_es = df_es['headline']
 
@@ -85,6 +83,8 @@ lda_model = LdaModel(
 
 word_dict = {}
 today = date.today()
+today_path = './data/topic_today.csv'
+hist_path = './data/topic_history.csv'
 
 for i in range(num_topics):
     words = lda_model.show_topic(i, topn = 20)
@@ -92,14 +92,14 @@ for i in range(num_topics):
     word_dict['Topic #' + '{:02d}'.format(i+1)] = [i[0] for i in words]
 
 topic_today = pd.DataFrame(word_dict)
-topic_today.to_csv('./data/topic_today.csv', index=False)
+topic_today.to_csv(today_path, index=False)
 
-if os.path.isfile('./data/topic_history.csv'):
-    topic_hist = pd.read_csv('./data/topic_history.csv')
+if os.path.isfile(hist_path):
+    topic_hist = pd.read_csv(hist_path)
     topic_hist = pd.concat([topic_hist, topic_today])
-    topic_hist.to_csv('./data/topic_history.csv', index=False)
+    topic_hist.to_csv(hist_path, index=False)
 else:
-    topic_today.to_csv('./data/topic_history.csv', index=False)
+    topic_today.to_csv(hist_path, index=False)
 
 
 
