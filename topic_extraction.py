@@ -89,7 +89,7 @@ hist_path = './data/topic_history.csv'
 for i in range(num_topics):
     words = lda_model.show_topic(i, topn = 20)
     word_dict['date'] = today
-    word_dict['Topic #' + '{:02d}'.format(i+1)] = [i[0] for i in words]
+    word_dict['Topic'] = [i[0] for i in words]
 
 topic_today = pd.DataFrame(word_dict)
 topic_today.to_csv(today_path, index=False)
