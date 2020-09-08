@@ -49,6 +49,14 @@ class news_spider(scrapy.Spider):
             headline = response.css('h1.headline').get()
             extract_text = response.css('p.body-components__text').getall()
 
+        elif response.url.startswith('https://elpais.com/'):
+            headline = response.css('h1.a_t ::text').get()
+            extract_text = 'Suscripción'
+
+        elif response.url.startswith('https://www.elmundo.es/'):
+            headline = response.css('h1.ue-c-article__headline ::text').get()
+            extract_text = 'Suscripción'
+
         elif response.url.startswith('https://time.com'):
             headline = response.css('h1.headline').get()
             extract_text = response.css('p').getall()
