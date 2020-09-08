@@ -18,7 +18,7 @@ import os.path
 #CARGA DE DATOS
 
 language = 'fr'
-df = pd.read_csv('./scraping/data/news.csv', encoding='latin-1')
+df = pd.read_csv('../data/news.csv')
 df.dropna(inplace=True)
 today = np.datetime64(date.today())
 df['scraping_date'] = pd.to_datetime(df['scraping_date'], format="%Y/%m/%d")
