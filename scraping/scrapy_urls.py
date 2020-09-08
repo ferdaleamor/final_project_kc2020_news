@@ -29,7 +29,9 @@ class url_spider(scrapy.Spider):
         'https://www.abc.es/',
         'https://www.lesoir.be/',
         'https://www.news.com.au/',
-        'https://time.com/'
+        'https://time.com/',
+        'https://elpais.com/',
+        'https://www.elmundo.es/'
     ]
 
     
@@ -59,6 +61,24 @@ class url_spider(scrapy.Spider):
                     url = 'https://www.publico.es' + str(url)
                     if url not in scraped_urls:
                         urls.append(url)
+
+        elif response.url.startswith('https://www.elmundo.es'):
+            urls_mundo = set(response.css('a.ue-c-cover-content__link::attr(href)').getall())
+            for url in urls_mundo:
+                if url is not None:
+                    if not url.startswith('http'):
+                        url = 'https://www.elmundo.es' + str(url)
+                    if url.startswith('https://www.elmundo.es') and url not in scraped_urls:
+                        urls.append(url)
+        
+        elif response.url.startswith('https://elpais.com'):
+            for article in response.css('h2.headline'):
+                url = article.css('a::attr(href)').extract_first()
+                if url is not None:
+                    if not url.startswith('http'):
+                        url = 'https://elpais.com' + str(url)
+                        if url not in scraped_urls:
+                            urls.append(url)
 
         elif response.url.startswith('https://time.com'):
             for article in response.css('h2.title'):
