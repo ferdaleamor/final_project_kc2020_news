@@ -84,8 +84,8 @@ lda_model = LdaModel(
 
 word_dict = {}
 today = date.today()
-today_path = './scraping/data/topic_today_EN.csv'
-hist_path = './scraping/data/topic_history_EN.csv'
+today_path = '../data/topic_today_EN.csv'
+hist_path = '../data/topic_history_EN.csv'
 
 for i in range(num_topics):
     words = lda_model.show_topic(i, topn = 20)
