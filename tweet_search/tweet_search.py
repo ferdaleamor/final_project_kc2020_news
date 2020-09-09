@@ -94,7 +94,7 @@ tweet_dataset = pd.DataFrame(columns = my_columns)
 topic_words = pd.read_csv('../data/topic_today.csv')
 query = list(topic_words['Topic'])
 
-num_tweets = 20
+num_tweets = 1000
 language = 'es'
 num_topic = 0
 for topic in query:
