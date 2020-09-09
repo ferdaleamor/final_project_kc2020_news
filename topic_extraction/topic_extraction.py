@@ -87,7 +87,7 @@ today_path = '../data/topic_today.csv'
 hist_path = '../data/topic_history.csv'
 
 for i in range(num_topics):
-    words = lda_model.show_topic(i, topn = 20)
+    words = lda_model.show_topic(i, topn = 10)
     word_dict['date'] = today
     word_dict['Topic'] = [i[0] for i in words]
 
