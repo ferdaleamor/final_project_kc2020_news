@@ -101,13 +101,8 @@ for topic in query:
     num_topic += 1
     tweet_dataset = tweet_dataset.append(readTweeter(topic,num_tweets,language, num_topic), ignore_index=True)
 
-tweet_dataset_to_save = tweet_dataset.drop(['text'], axis = 'columns')       
-tweet_dataset_to_save.to_csv('../data/tweet_dataset.csv', index=False)
-
-
 for keyword in query:
     remove(keyword + '.txt')
-
 
 analyzer = SentimentIntensityAnalyzer()
 tweet_dataset['compound'] = [analyzer.polarity_scores(x)['compound'] for x in tweet_dataset['text']]
@@ -124,11 +119,16 @@ size_pos = ((len(pos)*100)/len(tweet_dataset))*10
 size_neg = ((len(neg)*100)/len(tweet_dataset))*10
 size_neu = ((len(neu)*100)/len(tweet_dataset))*10
 
-labels = 'Positive', 'Negative', 'Neutral'
-sizes = [size_pos, size_neg, size_neu]
-colors = ['gold', 'yellowgreen', 'lightcoral']
-explode = (0.1, 0, 0)  # explode 1st slice
-plt.pie(sizes, explode=explode, labels=labels, colors=colors, autopct='%1.1f%%', shadow=True, startangle=140)
-plt.title("Análisis de sentimiento por el total de tweets descargados")
-plt.axis('equal')
-plt.savefig("sentiment_analysis.jpg")
+def remove_pattern(input_txt, pattern):
+    r = re.findall(pattern, input_txt)
+    for i in r:
+        input_txt = re.sub(i, '', input_txt)
+     
+    return input_txt 
+
+tweet_dataset['text'] = np.vectorize(remove_pattern)(tweet_dataset['text'], "@[\w]*")
+
+tweet_dataset_to_save = tweet_dataset.drop(['text'], axis = 'columns')
+
+tweet_dataset_to_save.to_csv('../data/tweet_dataset.csv')
+
