@@ -10,6 +10,7 @@ from nltk.corpus import stopwords
 import nltk
 from wordcloud import WordCloud
 from collections import Counter
+from os import remove
 
 nltk.download('stopwords')
 
@@ -81,7 +82,7 @@ def readTweeter(keyword,max_tweets,idiom, num):
 
                     
     #Writing tweet dataset ti csv file for future reference
-    tweet_dataset.to_csv(keyword + '_tweet_data.csv',sep=';')
+    #tweet_dataset.to_csv(keyword + '_tweet_data.csv',sep=';')
     return tweet_dataset
 
 my_columns = ['num_topic','topic','user', 'location', 'language', 'text', 'retweet_count', 'followers_count', 'geo_location', 'created_at']
@@ -89,12 +90,8 @@ tweet_dataset = pd.DataFrame(columns = my_columns)
 
 #Defining Search keyword and number of tweets and searching tweets
 
-# ESTA SERIA LA LISTA DE LA QUE BUSCARIA (faltaria ver como lo enlazamos)
-
-topic_words = pd.read_csv('./data/topic_today.csv')
+topic_words = pd.read_csv('../data/topic_today.csv')
 query = list(topic_words['Topic'])
-
-# query = ['caixa bankia', 'vuelta cole', 'Messi', 'covid19']
 
 num_tweets = 20
 language = 'es'
@@ -102,5 +99,10 @@ num_topic = 0
 for topic in query:
     num_topic += 1
     tweet_dataset = tweet_dataset.append(readTweeter(topic,num_tweets,language, num_topic), ignore_index=True)
-       
-print(tweet_dataset.head())
+
+tweet_dataset_to_save = tweet_dataset.drop(['text'], axis = 'columns')       
+tweet_dataset_to_save.to_csv('../data/tweet_dataset.csv', index=False)
+
+for keyword in query:
+    remove(keyword + '.txt')
+
