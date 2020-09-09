@@ -50,6 +50,7 @@ def readTweeter(keyword,max_tweets,idiom, num):
 
     my_demo_list = []
     with open(keyword + '.txt', encoding='utf-8') as json_file:  
+        global tweet_dataset
         all_data = json.load(json_file)
         for each_dictionary in all_data:
             user = each_dictionary['user']['screen_name']
@@ -103,6 +104,31 @@ for topic in query:
 tweet_dataset_to_save = tweet_dataset.drop(['text'], axis = 'columns')       
 tweet_dataset_to_save.to_csv('../data/tweet_dataset.csv', index=False)
 
+
 for keyword in query:
     remove(keyword + '.txt')
 
+
+analyzer = SentimentIntensityAnalyzer()
+tweet_dataset['compound'] = [analyzer.polarity_scores(x)['compound'] for x in tweet_dataset['text']]
+tweet_dataset['neg'] = [analyzer.polarity_scores(x)['neg'] for x in tweet_dataset['text']]
+tweet_dataset['neu'] = [analyzer.polarity_scores(x)['neu'] for x in tweet_dataset['text']]
+tweet_dataset['pos'] = [analyzer.polarity_scores(x)['pos'] for x in tweet_dataset['text']]
+
+pos = [j for i, j in enumerate(tweet_dataset['text']) if tweet_dataset['compound'][i] > 0.15]
+neu = [j for i, j in enumerate(tweet_dataset['text']) if 0.15>= tweet_dataset['compound'][i] >= -0.15]
+neg = [j for i, j in enumerate(tweet_dataset['text']) if tweet_dataset['compound'][i] < -0.15]
+
+#calculamos el tamañao del cada porcion del pie
+size_pos = ((len(pos)*100)/len(tweet_dataset))*10
+size_neg = ((len(neg)*100)/len(tweet_dataset))*10
+size_neu = ((len(neu)*100)/len(tweet_dataset))*10
+
+labels = 'Positive', 'Negative', 'Neutral'
+sizes = [size_pos, size_neg, size_neu]
+colors = ['gold', 'yellowgreen', 'lightcoral']
+explode = (0.1, 0, 0)  # explode 1st slice
+plt.pie(sizes, explode=explode, labels=labels, colors=colors, autopct='%1.1f%%', shadow=True, startangle=140)
+plt.title("Análisis de sentimiento por el total de tweets descargados")
+plt.axis('equal')
+plt.savefig("sentiment_analysis.jpg")
