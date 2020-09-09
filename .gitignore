@@ -1,4 +1,5 @@
 data
 notebook
+lemmatization_lists
 .DS_Store
 *.ipynb
