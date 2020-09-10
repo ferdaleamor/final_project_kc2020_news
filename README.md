@@ -17,6 +17,9 @@ Contenido del repositorio:
 		- scripts para la búsqueda de tweets (uno por cada idioma).
 		- notebook explicativo.
 
+	- Tableau:
+		-libros de trabajo de tableau.
+
 	- data:
 		- todos los ficheros csv obtenidos en cada una de las fases del proceso.
 		
