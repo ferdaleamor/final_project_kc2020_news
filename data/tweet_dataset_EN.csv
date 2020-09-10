@@ -1,368 +1,581 @@
 ,num_topic,topic,user,location,language,retweet_count,followers_count,geo_location,created_at,compound,neg,neu,pos
-0,1,covid19 vaccine,yagbebi,Über Cool Home Counties-Europe,en,0,4441,,2020-09-10 08:03:21,0.8625,0.041,0.747,0.213
-1,1,covid19 vaccine,MsReady1,,en,45,137,,2020-09-10 08:03:19,-0.2732,0.091,0.909,0.0
-2,1,covid19 vaccine,billmaybed,Kent,en,1,12,,2020-09-10 08:03:04,-0.8625,0.236,0.764,0.0
-3,1,covid19 vaccine,sylvielogean,"Lausanne, Suisse",en,1,834,,2020-09-10 08:02:51,-0.0387,0.071,0.929,0.0
-4,1,covid19 vaccine,john_castledine,"Leeds, England",en,0,672,,2020-09-10 08:02:27,0.8213,0.0,0.823,0.177
-5,1,covid19 vaccine,alfiansibarani,,en,0,962,,2020-09-10 08:02:25,0.0,0.0,1.0,0.0
-6,1,covid19 vaccine,isaket__,up India,en,13,715,,2020-09-10 08:02:17,0.8402,0.0,0.645,0.355
-7,1,covid19 vaccine,janmajit007,,en,13,2050,,2020-09-10 08:02:01,0.8402,0.0,0.645,0.355
-8,1,covid19 vaccine,apazvilar,,en,572,21,,2020-09-10 08:01:50,0.8807,0.0,0.641,0.359
-9,1,covid19 vaccine,KalyanDevi,,en,38,833,,2020-09-10 08:01:49,0.0,0.0,1.0,0.0
-10,1,covid19 vaccine,sincerely_epic,India,en,13,3707,,2020-09-10 08:01:48,0.8402,0.0,0.645,0.355
-11,1,covid19 vaccine,syawal,,en,3,2743,,2020-09-10 08:01:17,0.0,0.0,1.0,0.0
-12,1,covid19 vaccine,NKTSci,"Newmarket, England",en,3,203,,2020-09-10 08:01:05,0.0,0.0,1.0,0.0
-13,1,covid19 vaccine,Labiotech_eu,"Berlin, Germany",en,0,31569,,2020-09-10 08:01:04,-0.6956,0.134,0.84,0.026
-14,1,covid19 vaccine,SomersetBlue,More than 1m from you!,en,0,995,,2020-09-10 08:00:56,-0.7269,0.165,0.757,0.077
-15,1,covid19 vaccine,_Ben_Franklin1,"Philadelphia, London, Paris, ",en,494,4796,,2020-09-10 08:00:55,-0.126,0.073,0.876,0.051
-16,1,covid19 vaccine,PhilDeCarolis,"Southern California, U.S.",en,25,3654,,2020-09-10 08:00:26,0.0,0.0,1.0,0.0
-17,1,covid19 vaccine,LunaSafwan,Currently Lebanon - Beirut,en,0,19124,,2020-09-10 08:00:18,-0.4215,0.104,0.851,0.045
-18,1,covid19 vaccine,thecornerdoteu,Global,en,0,1683,,2020-09-10 08:00:00,-0.3818,0.067,0.933,0.0
-19,1,covid19 vaccine,theTiser,"Adelaide, South Australia",en,0,140214,,2020-09-10 08:00:00,-0.3612,0.094,0.906,0.0
-20,1,covid19 vaccine,iainwithtwois,"London, England",en,403,85,,2020-09-10 07:59:53,0.0,0.0,1.0,0.0
-21,1,covid19 vaccine,raghvendra82,भारत  के दिल से.. ,en,13,4176,,2020-09-10 07:59:50,0.8402,0.0,0.645,0.355
-22,1,covid19 vaccine,Vidyaa_Saagar,"Pauri, India",en,13,1264,,2020-09-10 07:59:49,0.8402,0.0,0.645,0.355
-23,1,covid19 vaccine,RRITools,Europe,en,3,5251,,2020-09-10 07:59:32,0.128,0.0,0.936,0.064
-24,1,covid19 vaccine,iamfahd,On Hubble Telescope,en,0,174,,2020-09-10 07:59:30,0.5859,0.0,0.902,0.098
-25,1,covid19 vaccine,UNDP_Pakistan,Islamabad,en,39,82515,,2020-09-10 07:59:08,0.5719,0.0,0.812,0.188
-26,1,covid19 vaccine,RichClarkePsy,London (UK),en,3,560,,2020-09-10 07:59:07,0.0,0.0,1.0,0.0
-27,1,covid19 vaccine,divyachowdhury,"Mumbai, India",en,0,4857,,2020-09-10 07:58:29,-0.4019,0.065,0.935,0.0
-28,1,covid19 vaccine,_JNMishra,भारत ,en,13,10011,,2020-09-10 07:58:21,0.8402,0.0,0.645,0.355
-29,1,covid19 vaccine,sadhvi_pandey,India 🇮🇳,en,13,3846,,2020-09-10 07:58:20,0.8402,0.0,0.645,0.355
-30,1,covid19 vaccine,mariom,Manchester,en,494,449,,2020-09-10 07:58:19,-0.126,0.073,0.876,0.051
-31,1,covid19 vaccine,surly958,Argyll Scotland.,en,45,949,,2020-09-10 07:58:05,-0.2732,0.091,0.909,0.0
-32,1,covid19 vaccine,tech2eets,"Mumbai, India",en,0,75405,,2020-09-10 07:57:58,0.0,0.0,1.0,0.0
-33,1,covid19 vaccine,claireldonald,"Glasgow, Scotland",en,22,965,,2020-09-10 07:57:49,0.0,0.0,1.0,0.0
-34,1,covid19 vaccine,BenjiSeitlhamo,South Africa,en,109,5924,,2020-09-10 07:57:49,0.2023,0.0,0.921,0.079
-35,1,covid19 vaccine,AndreaDS0909,"London, England",en,2129,2290,,2020-09-10 07:57:42,0.5367,0.0,0.869,0.131
-36,1,covid19 vaccine,martinbarr3,Scotland,en,6,361,,2020-09-10 07:57:41,0.4767,0.0,0.89,0.11
-37,1,covid19 vaccine,StavrosTousios,Cyprus,en,0,188,,2020-09-10 07:57:17,0.1027,0.0,0.964,0.036
-38,1,covid19 vaccine,wordsofreason_1,"Oviedo, FL",en,186,496,,2020-09-10 07:57:07,0.368,0.0,0.892,0.108
-39,1,covid19 vaccine,GrumpybaldProf,Scotland,en,3,530,,2020-09-10 07:56:56,0.0,0.0,1.0,0.0
-40,1,covid19 vaccine,TaiChi_John,Earth,en,0,5217,,2020-09-10 07:56:43,0.0,0.0,1.0,0.0
-41,1,covid19 vaccine,maritaAS27,"Oakville, ON",en,38,59,,2020-09-10 07:56:28,0.0,0.0,1.0,0.0
-42,1,covid19 vaccine,TerryWh20999529,,en,45,166,,2020-09-10 07:55:54,-0.2732,0.091,0.909,0.0
-43,1,covid19 vaccine,pbtx,"Lisbon, PORTUGAL",en,109,125,,2020-09-10 07:55:35,0.2023,0.0,0.921,0.079
-44,1,covid19 vaccine,Luvstoospooj,England,en,45,3035,,2020-09-10 07:55:29,-0.2732,0.091,0.909,0.0
-45,1,covid19 vaccine,RUTHPANTOJA3,,en,18,194,,2020-09-10 07:55:19,0.2144,0.0,0.911,0.089
-46,1,covid19 vaccine,KUNWAR_RUDRA_,,en,13,3190,,2020-09-10 07:55:18,0.8402,0.0,0.645,0.355
-47,1,covid19 vaccine,kristenjmeagher,"London, England",en,2,159,,2020-09-10 07:55:10,0.0,0.0,1.0,0.0
-48,1,covid19 vaccine,AlisonAdam99,Gtr Manchester via Edinburgh,en,572,60,,2020-09-10 07:55:08,0.8807,0.0,0.641,0.359
-49,1,covid19 vaccine,r4hcmena,"London, Beirut, Amman, Birzeit & Ankara",en,2,632,,2020-09-10 07:55:06,0.0,0.0,1.0,0.0
-50,2,make victims,JadeLevell,"England, United Kingdom",en,20,1440,,2020-09-10 08:03:27,-0.8555,0.29,0.71,0.0
-51,2,make victims,DrHennaKarhapaa,Suomi,en,20,139,,2020-09-10 08:01:14,-0.8555,0.29,0.71,0.0
-52,2,make victims,goddemian,,en,6,70,,2020-09-10 08:00:09,-0.34,0.091,0.909,0.0
-53,2,make victims,peggyuwu,Probably somewhere loving bkdk,en,3,285,,2020-09-10 07:58:46,-0.7885,0.304,0.618,0.078
-54,2,make victims,CaitlinKrum,Cornwall,en,20,1119,,2020-09-10 07:58:32,-0.8555,0.29,0.71,0.0
-55,2,make victims,taegutiger,Texas,en,166,752,,2020-09-10 07:58:11,-0.8841,0.33,0.67,0.0
-56,2,make victims,bego_vilanova,C. Valenciana!,en,30,155,,2020-09-10 07:57:57,-0.4215,0.181,0.748,0.071
-57,2,make victims,TwinFlameNetwrk,"Oklahoma, USA",en,0,721,,2020-09-10 07:57:28,-0.7364,0.286,0.636,0.078
-58,2,make victims,rokarljosef,,en,6,45,,2020-09-10 07:56:17,0.6486,0.1,0.568,0.332
-59,2,make victims,emmsimpson__,,en,20,622,,2020-09-10 07:55:53,-0.8555,0.29,0.71,0.0
-60,2,make victims,theleechskiss,,en,20,226,,2020-09-10 07:53:43,-0.8555,0.29,0.71,0.0
-61,2,make victims,Unavailss,"Cape Town, South Africa",en,11,1052,,2020-09-10 07:53:01,-0.8225,0.334,0.573,0.092
-62,2,make victims,realllllllaziee,Inseocityy  (◍•ᴗ•◍)❤️,en,243,221,,2020-09-10 07:52:45,-0.4588,0.115,0.885,0.0
-63,2,make victims,G_tharmaratnam,,en,0,973,,2020-09-10 07:52:05,-0.4215,0.096,0.863,0.041
-64,2,make victims,SandyMartung,"Macaé, BR / Portsmouth, UK",en,20,824,,2020-09-10 07:51:47,-0.8555,0.29,0.71,0.0
-65,2,make victims,wellingtoneLivn,,en,19,268,,2020-09-10 07:51:09,-0.7096,0.339,0.447,0.214
-66,2,make victims,Yumbaldeh1,,en,1,27,,2020-09-10 07:50:27,-0.6908,0.137,0.821,0.042
-67,2,make victims,Fiesty_Filly,⭐ Gallifrey ⭐,en,271,1576,,2020-09-10 07:49:51,-0.1027,0.211,0.592,0.197
-68,2,make victims,99_ykh,きらめく beach そよぐ tree 甘くなる phrase 夢みたい 夢じゃない ねぇ C'mon! C'mon! (hey!),en,0,90,,2020-09-10 07:49:39,-0.7177,0.139,0.822,0.039
-69,2,make victims,2ManyAustriches,Ostralia,en,1,727,,2020-09-10 07:49:12,0.7964,0.0,0.747,0.253
-70,2,make victims,AnneTay96516075,,en,20,270,,2020-09-10 07:48:45,-0.8555,0.29,0.71,0.0
-71,2,make victims,Bvgare,"Exeter, UK",en,20,1620,,2020-09-10 07:48:38,-0.8555,0.29,0.71,0.0
-72,2,make victims,julz_valentine,London,en,20,371,,2020-09-10 07:47:48,-0.8555,0.29,0.71,0.0
-73,2,make victims,catrubens,"London, England",en,20,627,,2020-09-10 07:47:03,-0.8555,0.29,0.71,0.0
-74,2,make victims,HannahPopsy,"Leeds, England",en,20,17775,,2020-09-10 07:46:43,-0.8555,0.29,0.71,0.0
-75,2,make victims,TropDeJambes,Transylvania,en,20,222,,2020-09-10 07:45:55,-0.8555,0.29,0.71,0.0
-76,2,make victims,urfavegurlKiki,In this bangtan shit for life,en,87,234,,2020-09-10 07:44:55,-0.6896,0.174,0.826,0.0
-77,2,make victims,anneelizzie,"Ponteland, England",en,20,101,,2020-09-10 07:44:38,-0.8555,0.29,0.71,0.0
-78,2,make victims,ProfMaxLintern,Birmingham,en,20,693,,2020-09-10 07:44:34,-0.8555,0.29,0.71,0.0
-79,2,make victims,bedsdv,Bedfordshire,en,20,642,,2020-09-10 07:44:33,-0.8555,0.29,0.71,0.0
-80,2,make victims,Mightymouth5413,"Florida, USA",en,423,3636,,2020-09-10 07:44:05,-0.4019,0.204,0.68,0.117
-81,2,make victims,ZainaErhaim,United Kingdom,en,0,34325,,2020-09-10 07:43:59,-0.6369,0.162,0.76,0.078
-82,2,make victims,LordOrk,"Lake District, England.",en,20,1092,,2020-09-10 07:43:55,-0.8555,0.29,0.71,0.0
-83,2,make victims,suecramptonhill,,en,20,678,,2020-09-10 07:43:37,-0.8555,0.29,0.71,0.0
-84,2,make victims,chirping_cake,"Норильск, Красноярский край",en,3,468,,2020-09-10 07:43:31,-0.7885,0.304,0.618,0.078
-85,2,make victims,jjaeyeonz,,en,0,23,,2020-09-10 07:42:05,-0.449,0.259,0.639,0.102
-86,2,make victims,WEP_UK,Nationwide - UK,en,20,82866,,2020-09-10 07:40:58,-0.9607,0.338,0.662,0.0
-87,2,make victims,ZoieFt,,en,0,21,,2020-09-10 07:38:28,-0.8844,0.359,0.467,0.174
-88,2,make victims,daniel_ogwang,Kalangala,en,29,54,,2020-09-10 07:37:47,0.1027,0.091,0.803,0.106
-89,2,make victims,needysell,in your eyes ,en,0,484,,2020-09-10 07:37:14,-0.5187,0.197,0.689,0.114
-90,2,make victims,NigelBell19,"Brisbane, Queensland",en,0,762,,2020-09-10 07:36:23,-0.9632,0.35,0.595,0.055
-91,2,make victims,jinniesoup,s/h 15 ,en,2436,11,,2020-09-10 07:35:44,-0.8957,0.421,0.515,0.064
-92,2,make victims,asgard0rion,she/elle | minor,en,124,234,,2020-09-10 07:33:16,0.1877,0.084,0.805,0.111
-93,2,make victims,Nique_NiqueBrwn,,en,56,3,,2020-09-10 07:33:03,-0.5624,0.197,0.742,0.062
-94,2,make victims,bethmysoul,nc,en,11,3020,,2020-09-10 07:32:41,0.5267,0.057,0.732,0.211
-95,2,make victims,Theflashist2,,en,271,86,,2020-09-10 07:28:10,-0.1027,0.211,0.592,0.197
-96,2,make victims,PtranL,soso,en,99,46,,2020-09-10 07:27:27,-0.8553,0.363,0.573,0.064
-97,2,make victims,glitterchild69,"16, she/her, bisexual ",en,11,235,,2020-09-10 07:26:15,-0.5187,0.165,0.835,0.0
-98,2,make victims,sunarinchuu,kiss kiss falling in love ,en,11,352,,2020-09-10 07:25:05,-0.5187,0.165,0.835,0.0
-99,2,make victims,owo_matt,𝚋𝚎𝚝𝚝𝚢'𝚜 𝚐𝚊𝚛𝚍𝚎𝚗,en,28,690,,2020-09-10 07:24:47,-0.3182,0.095,0.905,0.0
-100,3,leichhardt oval farewell,steveascension2,,en,0,5,,2020-09-10 07:49:10,-0.1027,0.099,0.833,0.068
-101,3,leichhardt oval farewell,newsinnerwest,"Marrickville, Sydney",en,0,581,,2020-09-10 07:04:44,0.0,0.0,1.0,0.0
-102,3,leichhardt oval farewell,FOXNRL,Australia,en,0,117208,,2020-09-10 06:40:20,-0.6249,0.254,0.746,0.0
-103,3,leichhardt oval farewell,1STOPSP0RT,"Oklahoma, USA",en,0,1434,,2020-09-10 06:34:21,-0.296,0.196,0.804,0.0
-104,3,leichhardt oval farewell,world_news_eng,,en,2,816,,2020-09-10 05:40:02,-0.3818,0.191,0.709,0.099
-105,3,leichhardt oval farewell,mrchrisnico,"Sydney, Australia",en,2,5053,,2020-09-10 05:39:46,-0.3818,0.191,0.709,0.099
-106,3,leichhardt oval farewell,smh,"Sydney, Australia",en,2,817214,,2020-09-10 05:36:44,0.4019,0.086,0.752,0.162
-107,3,leichhardt oval farewell,The81stMinute,Sydney,en,3,5942,,2020-09-03 09:14:03,-0.2263,0.091,0.909,0.0
-108,3,leichhardt oval farewell,beges007,Sydney,en,3,1248,,2020-09-03 01:19:39,-0.2263,0.091,0.909,0.0
-109,3,leichhardt oval farewell,havinagasbag,"Queensland, Australia",en,3,253,,2020-09-03 00:59:31,-0.2263,0.091,0.909,0.0
-110,3,leichhardt oval farewell,The81stMinute,Sydney,en,3,5942,,2020-09-03 00:52:22,-0.2263,0.095,0.905,0.0
-111,3,leichhardt oval farewell,Ryan899732008,,en,1,325,,2020-09-02 23:10:27,0.0,0.0,1.0,0.0
-112,3,leichhardt oval farewell,AndyGrundy10,West lancashire ,en,1,2827,,2020-09-02 22:57:23,0.0,0.0,1.0,0.0
-113,3,leichhardt oval farewell,NZStuffSport,New Zealand,en,0,11795,,2020-09-02 19:12:33,0.0,0.0,1.0,0.0
-114,3,leichhardt oval farewell,r_NRL,Australia and New Zealand,en,0,370,,2020-09-02 14:22:35,0.0,0.0,1.0,0.0
-115,4,burglar jordan constable,TianXia1357Z,"Perth, Western Australia",en,0,258,,2020-09-10 07:22:26,-0.8176,0.484,0.516,0.0
-116,5,scott footage,JelisaApps,Sydney,en,0,4552,,2020-09-10 07:58:09,0.0785,0.17,0.654,0.176
-117,5,scott footage,thefirstcaveman,,en,1,52,,2020-09-10 07:37:08,0.1027,0.088,0.809,0.103
-118,5,scott footage,angusbacon21,"Brisbane City, Brisbane",en,0,228,,2020-09-10 07:30:55,-0.6214,0.311,0.689,0.0
-119,5,scott footage,v93557158,,en,2,2,,2020-09-10 07:27:51,-0.6908,0.241,0.759,0.0
-120,5,scott footage,wayne2xx,up north,en,1,4731,,2020-09-10 07:24:40,-0.5106,0.155,0.845,0.0
-121,5,scott footage,r_NRL,Australia and New Zealand,en,0,370,,2020-09-10 07:22:36,-0.2732,0.149,0.851,0.0
-122,5,scott footage,7Sport,Australia,en,1,61534,,2020-09-10 07:16:46,-0.0772,0.064,0.936,0.0
-123,5,scott footage,Eamonn_Tiernan,"Sydney, New South Wales",en,1,776,,2020-09-10 07:16:30,-0.0772,0.056,0.944,0.0
-124,5,scott footage,occupy_now,"Sydney, NSW",en,0,1659,,2020-09-10 07:10:26,-0.34,0.128,0.807,0.065
-125,5,scott footage,ScooobyDoh,3rd Stone from the Sun,en,0,99,,2020-09-10 07:10:15,-0.8885,0.334,0.528,0.138
-126,5,scott footage,JamesSilver3,,en,1,1469,,2020-09-10 07:10:03,-0.0387,0.159,0.686,0.155
-127,5,scott footage,NRLRaidersNews,Canberra Raiders Territory,en,1,1831,,2020-09-10 07:06:46,-0.6908,0.213,0.787,0.0
-128,5,scott footage,Medicayy,,en,0,997,,2020-09-10 07:06:32,0.1027,0.085,0.813,0.102
-129,5,scott footage,TheGHRaiders,"Canberra, ACT",en,0,4654,,2020-09-10 07:06:31,-0.6908,0.213,0.787,0.0
-130,5,scott footage,SparkyDenied,Australia,en,2,212,,2020-09-10 07:02:03,-0.6908,0.241,0.759,0.0
-131,5,scott footage,FOXNRL,Australia,en,2,117208,,2020-09-10 07:00:00,-0.6908,0.263,0.737,0.0
-132,5,scott footage,Butchwalker4170,"Sydney, New South Wales",en,0,248,,2020-09-10 06:52:35,-0.8783,0.223,0.726,0.051
-133,5,scott footage,bbiiianncaa,"Los Angeles, CA",en,9,125,,2020-09-10 06:41:11,0.0,0.0,1.0,0.0
-134,5,scott footage,FitToPrint,Australia,en,0,5693,,2020-09-10 06:39:36,0.7303,0.104,0.67,0.225
-135,5,scott footage,gretastonehouse,,en,0,526,,2020-09-10 06:19:56,0.1779,0.058,0.836,0.106
-136,5,scott footage,smolteenylou,everywhere,en,9,2361,,2020-09-10 06:19:24,0.0,0.0,1.0,0.0
-137,5,scott footage,matt4w,"Sydney, Australia",en,0,200,,2020-09-10 06:15:45,-0.8718,0.272,0.68,0.048
-138,5,scott footage,heath_parkes,"Sydney, New South Wales",en,0,612,,2020-09-10 06:11:02,0.0,0.0,1.0,0.0
-139,5,scott footage,leasfamilyshow,"Central Islip, NY",en,9,269,,2020-09-10 06:06:05,0.0,0.0,1.0,0.0
-140,5,scott footage,patriciaastyles,(She/her),en,9,1108,,2020-09-10 06:06:00,0.0,0.0,1.0,0.0
-141,5,scott footage,ITSZOUISMFO,Joined september 2010 ,en,9,876,,2020-09-10 06:05:16,0.0,0.0,1.0,0.0
-142,5,scott footage,louxhazzah,princess park • minor,en,9,245,,2020-09-10 06:04:46,0.0,0.0,1.0,0.0
-143,5,scott footage,allaround1Dstan,she/her || ot5,en,9,1838,,2020-09-10 06:04:36,0.0,0.0,1.0,0.0
-144,5,scott footage,mj_lynch,Australia,en,0,372,,2020-09-10 06:04:03,-0.2732,0.116,0.884,0.0
-145,5,scott footage,Grassburn1,,en,9,49,,2020-09-10 06:01:55,0.4588,0.0,0.833,0.167
-146,5,scott footage,SMHsport,Sydney,en,0,32617,,2020-09-10 06:01:08,-0.2732,0.149,0.851,0.0
-147,5,scott footage,GOLDNIMPRNT,she/her | 05 | multi?,en,9,672,,2020-09-10 06:00:06,0.0,0.0,1.0,0.0
-148,5,scott footage,onlyapaprmoon,"arrivederci, frog",en,0,849,,2020-09-10 05:59:59,0.765,0.0,0.233,0.767
-149,5,scott footage,tiaynako,,en,0,74,,2020-09-10 05:57:05,0.4215,0.0,0.859,0.141
-150,5,scott footage,SydneyReddit,"Sydney, Australia",en,0,558,,2020-09-10 05:56:13,-0.2732,0.139,0.861,0.0
-151,5,scott footage,lrhesny,,en,0,6833,,2020-09-10 05:29:00,0.7506,0.0,0.838,0.162
-152,5,scott footage,L_A_Scott_,,en,0,95,,2020-09-10 05:20:33,-0.128,0.051,0.949,0.0
-153,5,scott footage,finelineniall,missing tour,en,0,3541,,2020-09-10 05:01:31,0.0,0.0,1.0,0.0
-154,5,scott footage,CitizenSnitch,hiding inside a dark rathole,en,0,11,,2020-09-10 04:07:03,-0.7717,0.391,0.609,0.0
-155,5,scott footage,7NewsSydney,Sydney,en,5,338812,,2020-09-10 03:40:06,-0.2732,0.095,0.905,0.0
-156,5,scott footage,7NewsBrisbane,"Queensland, Australia",en,5,109472,,2020-09-10 03:40:04,-0.2732,0.095,0.905,0.0
-157,5,scott footage,7NewsAustralia,Australia,en,5,178059,,2020-09-10 03:40:02,-0.2732,0.095,0.905,0.0
-158,5,scott footage,7Sport,Australia,en,5,61534,,2020-09-10 03:39:45,-0.2732,0.151,0.769,0.08
-159,5,scott footage,scott_squires,Los Angeles,en,1005,9451,,2020-09-10 03:36:21,-0.128,0.067,0.933,0.0
-160,5,scott footage,alexanderchard,"Los Angeles, CA",en,0,189,,2020-09-10 02:49:55,0.9357,0.0,0.678,0.322
-161,5,scott footage,BigSportsBrekky,"Sydney, Australia",en,0,20524,,2020-09-10 02:39:00,0.0,0.0,1.0,0.0
-162,5,scott footage,1STOPSP0RT,"Oklahoma, USA",en,0,1434,,2020-09-10 02:33:23,-0.5106,0.202,0.798,0.0
-163,5,scott footage,heath_parkes,"Sydney, New South Wales",en,0,612,,2020-09-10 02:31:21,0.0772,0.051,0.892,0.058
-164,5,scott footage,timbobulate,sydney,en,0,109,,2020-09-10 02:29:35,-0.6331,0.148,0.852,0.0
-165,5,scott footage,FOXNRL,Australia,en,0,117208,,2020-09-10 02:25:13,-0.5106,0.148,0.852,0.0
-166,6,marshall leichhardt oval,steveascension2,,en,0,5,,2020-09-10 07:49:10,-0.1027,0.099,0.833,0.068
-167,6,marshall leichhardt oval,FOXNRL,Australia,en,0,117208,,2020-09-10 06:40:20,-0.6249,0.254,0.746,0.0
-168,6,marshall leichhardt oval,1STOPSP0RT,"Oklahoma, USA",en,0,1434,,2020-09-10 06:34:21,-0.296,0.196,0.804,0.0
-169,6,marshall leichhardt oval,world_news_eng,,en,2,816,,2020-09-10 05:40:02,-0.3818,0.191,0.709,0.099
-170,6,marshall leichhardt oval,mrchrisnico,"Sydney, Australia",en,2,5053,,2020-09-10 05:39:46,-0.3818,0.191,0.709,0.099
-171,6,marshall leichhardt oval,smh,"Sydney, Australia",en,2,817214,,2020-09-10 05:36:44,0.4019,0.086,0.752,0.162
-172,6,marshall leichhardt oval,sos_so_gucci,POM/PNG/NSW/SYD,en,2,166,,2020-09-02 23:53:05,0.0,0.0,1.0,0.0
-173,6,marshall leichhardt oval,LoAllen1998,sydney,en,2,185,,2020-09-02 23:29:47,0.0,0.0,1.0,0.0
-174,6,marshall leichhardt oval,FOXNRL,Australia,en,2,117208,,2020-09-02 23:20:27,0.0,0.0,1.0,0.0
-175,6,marshall leichhardt oval,Ryan899732008,,en,1,325,,2020-09-02 23:10:27,0.0,0.0,1.0,0.0
-176,6,marshall leichhardt oval,AndyGrundy10,West lancashire ,en,1,2827,,2020-09-02 22:57:23,0.0,0.0,1.0,0.0
-177,6,marshall leichhardt oval,NZStuffSport,New Zealand,en,0,11795,,2020-09-02 19:12:33,0.0,0.0,1.0,0.0
-178,6,marshall leichhardt oval,r_NRL,Australia and New Zealand,en,0,370,,2020-09-02 14:22:35,0.0,0.0,1.0,0.0
-179,7,revealed charges,thefirstcaveman,,en,1,52,,2020-09-10 07:37:08,0.1027,0.088,0.809,0.103
-180,7,revealed charges,JamesSilver3,,en,1,1469,,2020-09-10 07:10:03,-0.0387,0.159,0.686,0.155
-181,7,revealed charges,FitToPrint,Australia,en,0,5693,,2020-09-10 06:39:36,0.7303,0.104,0.67,0.225
-182,7,revealed charges,heath_parkes,"Sydney, New South Wales",en,0,612,,2020-09-10 06:11:02,0.0,0.0,1.0,0.0
-183,7,revealed charges,ChristineToft1,Hertfordshire,en,3,2046,,2020-09-10 06:05:11,-0.7096,0.255,0.688,0.057
-184,7,revealed charges,mj_lynch,Australia,en,0,372,,2020-09-10 06:04:03,-0.2732,0.116,0.884,0.0
-185,7,revealed charges,Grassburn1,,en,9,49,,2020-09-10 06:01:55,0.4588,0.0,0.833,0.167
-186,7,revealed charges,pigsinspace3,"South East, England",en,3,878,,2020-09-10 05:54:00,-0.7096,0.255,0.688,0.057
-187,7,revealed charges,FiLiA_charity,United Kingdom,en,3,17134,,2020-09-10 05:49:31,-0.7096,0.227,0.722,0.051
-188,7,revealed charges,DaveCrabtree4,,en,0,0,,2020-09-10 01:45:59,-0.9238,0.274,0.726,0.0
-189,7,revealed charges,firsttakes,,en,0,98,,2020-09-10 00:58:01,-0.128,0.176,0.634,0.19
-190,7,revealed charges,JD332,"Northern, VA.",en,0,37,,2020-09-09 23:18:02,-0.784,0.196,0.752,0.052
-191,7,revealed charges,RayChellOh,,en,0,5,,2020-09-09 22:40:27,-0.4404,0.17,0.711,0.12
-192,7,revealed charges,NarendraKulatu2,Sri Lanka,en,0,589,,2020-09-09 21:24:21,0.4501,0.145,0.666,0.189
-193,7,revealed charges,mencheve,,en,9,11,,2020-09-09 21:04:13,0.4588,0.0,0.833,0.167
-194,7,revealed charges,PeaceOnEarth222,Beautiful Wales,en,345,1863,,2020-09-09 20:39:30,-0.3818,0.098,0.902,0.0
-195,7,revealed charges,pattiniful,,en,9,19,,2020-09-09 19:27:03,0.4588,0.0,0.833,0.167
-196,7,revealed charges,SpaldingVoice,"Spalding, Lincolnshire",en,0,3523,,2020-09-09 19:00:00,-0.2732,0.07,0.93,0.0
-197,7,revealed charges,blay_franck,,en,9,3,,2020-09-09 17:28:26,0.4588,0.0,0.833,0.167
-198,7,revealed charges,Valkgurl,,en,0,990,,2020-09-09 16:51:34,-0.9329,0.297,0.703,0.0
-199,7,revealed charges,ListenUpCash,,en,4,763,,2020-09-09 15:57:15,0.0,0.0,1.0,0.0
-200,7,revealed charges,Lookmeinmyeyes1,,en,1,100,,2020-09-09 15:18:42,-0.5994,0.305,0.543,0.152
-201,7,revealed charges,boltladypls,United States,en,4,9099,,2020-09-09 14:45:35,0.0,0.0,1.0,0.0
-202,7,revealed charges,PlastiksurgeonE,"Pennsylvania, USA",en,4,9427,,2020-09-09 14:44:09,0.0,0.0,1.0,0.0
-203,7,revealed charges,MollyNotreally,"Pennsylvania, USA",en,4,2582,,2020-09-09 14:43:54,-0.7777,0.159,0.841,0.0
-204,7,revealed charges,amazesin_,NY ,en,0,407,,2020-09-09 14:31:51,-0.9042,0.248,0.752,0.0
-205,7,revealed charges,EliSeeney,Avatar State,en,1,17102,,2020-09-09 14:30:48,-0.5994,0.224,0.664,0.112
-206,7,revealed charges,DennyLee54,Western Kentucky,en,0,161,,2020-09-09 12:41:38,-0.8996,0.243,0.702,0.055
-207,7,revealed charges,xit_king,"Papua New Guinea, PG",en,9,378,,2020-09-09 12:21:46,0.4588,0.0,0.833,0.167
-208,7,revealed charges,AssangeScotland,,en,0,682,,2020-09-09 11:55:04,-0.0124,0.129,0.71,0.161
-209,7,revealed charges,Glenwelsh55,Hawick,en,9,331,,2020-09-09 09:57:36,0.4588,0.0,0.833,0.167
-210,7,revealed charges,Pawan_Mishra7,,en,0,10,,2020-09-09 09:54:07,-0.2732,0.087,0.913,0.0
-211,7,revealed charges,aussiechic81,"Melbourne, Victoria",en,9,751,,2020-09-09 09:49:16,0.4588,0.0,0.833,0.167
-212,7,revealed charges,TaxNerdOz,"Sydney, New South Wales",en,0,52,,2020-09-09 09:41:04,-0.6369,0.222,0.677,0.102
-213,7,revealed charges,SandraEckersley,Sydney/South Coast AUSTRALIA,en,0,4562,,2020-09-09 09:05:14,-0.4767,0.15,0.796,0.054
-214,7,revealed charges,Red_Dawn_RISING,,en,3,3019,,2020-09-09 08:26:58,-0.5574,0.135,0.865,0.0
-215,7,revealed charges,AlkaAnand14,,en,0,577,,2020-09-09 08:09:38,0.2263,0.044,0.873,0.083
-216,7,revealed charges,KJshashi,"Mumbai, India",en,1,1222,,2020-09-09 07:36:03,0.1027,0.079,0.827,0.094
-217,7,revealed charges,percussiveprc,"Manchester, England",en,9,6,,2020-09-09 06:54:52,0.4588,0.0,0.833,0.167
-218,7,revealed charges,kristyhayward,,en,9,675,,2020-09-09 06:25:11,0.4588,0.0,0.833,0.167
-219,7,revealed charges,FOXNRL,Australia,en,9,117208,,2020-09-09 05:54:03,0.4588,0.0,0.818,0.182
-220,7,revealed charges,action_advocate,,en,0,0,,2020-09-09 04:05:07,-0.8807,0.25,0.701,0.049
-221,7,revealed charges,action_advocate,,en,0,0,,2020-09-09 04:03:17,-0.9169,0.279,0.721,0.0
-222,7,revealed charges,action_advocate,,en,0,0,,2020-09-09 04:03:04,-0.9169,0.279,0.721,0.0
-223,7,revealed charges,action_advocate,,en,0,0,,2020-09-09 04:02:05,-0.9169,0.284,0.716,0.0
-224,7,revealed charges,action_advocate,,en,0,0,,2020-09-09 04:01:53,-0.9169,0.29,0.71,0.0
-225,7,revealed charges,SybilWilkes,,en,0,27529,,2020-09-09 03:13:42,-0.7579,0.146,0.854,0.0
-226,7,revealed charges,mfidler02,"Boston, MA",en,0,20,,2020-09-09 03:07:44,-0.2732,0.123,0.775,0.103
-227,7,revealed charges,T1TaN1uM4_22,,en,53,38,,2020-09-09 03:02:43,-0.7184,0.263,0.633,0.104
-228,7,revealed charges,yiayia1234,United States,en,2,13267,,2020-09-09 02:34:10,-0.5267,0.167,0.833,0.0
-229,8,footage star,AmalikaGMA,,en,1,820,,2020-09-10 07:56:08,-0.5574,0.122,0.878,0.0
-230,8,footage star,CallumEakins1,"Liverpool, England",en,0,106,,2020-09-10 07:52:09,0.4939,0.0,0.868,0.132
-231,8,footage star,LambertThierr11,"Paris, France",en,23,40,,2020-09-10 07:48:12,-0.2502,0.217,0.667,0.116
-232,8,footage star,thefirstcaveman,,en,1,52,,2020-09-10 07:37:08,0.1027,0.088,0.809,0.103
-233,8,footage star,JamesSilver3,,en,1,1469,,2020-09-10 07:10:03,-0.0387,0.159,0.686,0.155
-234,8,footage star,hmashwinkumar,,en,0,11,,2020-09-10 06:57:07,0.0,0.0,1.0,0.0
-235,8,footage star,FitToPrint,Australia,en,0,5693,,2020-09-10 06:39:36,0.7303,0.104,0.67,0.225
-236,8,footage star,lota_star,,en,59,54,,2020-09-10 06:19:42,-0.128,0.167,0.687,0.146
-237,8,footage star,heath_parkes,"Sydney, New South Wales",en,0,612,,2020-09-10 06:11:02,0.0,0.0,1.0,0.0
-238,8,footage star,mj_lynch,Australia,en,0,372,,2020-09-10 06:04:03,-0.2732,0.116,0.884,0.0
-239,8,footage star,WJHL11,Johnson City,en,1,25530,,2020-09-10 04:13:15,0.0,0.0,1.0,0.0
-240,8,footage star,CitizenSnitch,hiding inside a dark rathole,en,0,11,,2020-09-10 04:07:03,-0.7717,0.391,0.609,0.0
-241,8,footage star,MichaelEppsWJHL,"Johnson City, TN",en,1,669,,2020-09-10 04:04:56,0.7184,0.0,0.88,0.12
-242,8,footage star,lukesbucketha1,she/her,en,0,55,,2020-09-10 03:58:38,-0.4019,0.053,0.947,0.0
-243,8,footage star,lota_star,,en,118,54,,2020-09-10 03:55:50,-0.4215,0.113,0.887,0.0
-244,8,footage star,Shwetaaa_10,,en,1,535,,2020-09-10 03:44:22,0.0,0.0,1.0,0.0
-245,8,footage star,heymuskann,,en,1,314,,2020-09-10 03:40:19,-0.3313,0.086,0.914,0.0
-246,8,footage star,Louiswalls944,she/her 🇮🇳 ,en,0,924,,2020-09-10 02:40:34,0.3182,0.0,0.924,0.076
-247,8,footage star,heath_parkes,"Sydney, New South Wales",en,0,612,,2020-09-10 02:31:21,0.0772,0.051,0.892,0.058
-248,8,footage star,ArtofDuarte,killer whales ,en,0,1282,,2020-09-10 01:42:15,-0.4404,0.271,0.602,0.128
-249,8,footage star,lota_star,,en,778,54,,2020-09-10 01:35:27,0.7003,0.0,0.736,0.264
-250,8,footage star,Dusty990,"Geelong, Australia",en,0,17,,2020-09-10 00:18:49,-0.9118,0.231,0.748,0.022
-251,8,footage star,GayndalftheGrey,"Isabel, 20, She/They/He",en,0,41,,2020-09-10 00:07:02,-0.1027,0.061,0.884,0.054
-252,8,footage star,76foges,,en,2,298,,2020-09-09 23:59:23,0.0,0.0,1.0,0.0
-253,8,footage star,The_Hero_Star,The dumpster behind Taco Bell.,en,507,415,,2020-09-09 23:22:27,-0.7184,0.545,0.455,0.0
-254,8,footage star,theuberfan,instagram.com/_theuberfan_/,en,15,2681,,2020-09-09 22:20:34,0.0,0.0,1.0,0.0
-255,8,footage star,calracefan,,en,0,30,,2020-09-09 22:15:10,0.6696,0.0,0.809,0.191
-256,8,footage star,Roxywells3,"Northampton, MA",en,0,4780,,2020-09-09 22:00:26,0.9107,0.0,0.708,0.292
-257,8,footage star,ThePopTopic,"Connecticut, USA",en,0,90,,2020-09-09 21:50:34,0.0,0.0,1.0,0.0
-258,8,footage star,DrFancyPlants,St Paul MN,en,23,158,,2020-09-09 21:36:43,-0.2502,0.217,0.667,0.116
-259,8,footage star,JaredLaurie,gloucester nsw,en,23,997,,2020-09-09 21:26:47,-0.2502,0.217,0.667,0.116
-260,8,footage star,astroasis,,en,23,255,,2020-09-09 21:17:18,-0.2502,0.217,0.667,0.116
-261,8,footage star,leddy124,,en,9,158,,2020-09-09 21:10:55,-0.6486,0.247,0.693,0.061
-262,8,footage star,ETGShado,,en,0,87,,2020-09-09 21:10:26,-0.7438,0.186,0.756,0.058
-263,8,footage star,JackalopeJamie,,en,23,2519,,2020-09-09 21:08:45,-0.2502,0.217,0.667,0.116
-264,8,footage star,FanthaTracks,GFFA,en,0,5124,,2020-09-09 21:08:08,-0.802,0.247,0.753,0.0
-265,8,footage star,OccupyDuvet,Europe,en,23,754,,2020-09-09 20:53:25,-0.2502,0.217,0.667,0.116
-266,8,footage star,Alissa_Moen,"Sydney, Australia",en,9,620,,2020-09-09 20:52:05,-0.6486,0.247,0.693,0.061
-267,8,footage star,bill_dobell,Highways of Australia,en,9,4230,,2020-09-09 20:50:48,-0.6486,0.247,0.693,0.061
-268,8,footage star,adams_catherine,,en,23,793,,2020-09-09 20:46:53,-0.2502,0.217,0.667,0.116
-269,8,footage star,_franktanjeh,,en,23,131,,2020-09-09 20:41:10,-0.2502,0.217,0.667,0.116
-270,8,footage star,DarionHunter13,"Indianapolis, Indiana",en,23,174,,2020-09-09 20:20:27,-0.2502,0.217,0.667,0.116
-271,8,footage star,shehulkx3,,en,23,34,,2020-09-09 20:18:03,-0.2502,0.217,0.667,0.116
-272,8,footage star,nineroyalexo,"Wellington, New Zealand",en,23,397,,2020-09-09 20:13:17,-0.2502,0.217,0.667,0.116
-273,8,footage star,danfust,Sant Celoni,en,23,444,,2020-09-09 20:11:01,-0.2502,0.217,0.667,0.116
-274,8,footage star,zara_saurus_rex,she • her,en,23,267,,2020-09-09 20:10:55,-0.2502,0.217,0.667,0.116
-275,8,footage star,rhodmeetsworld,"Orlando, FL",en,23,229,,2020-09-09 20:10:43,-0.2502,0.217,0.667,0.116
-276,8,footage star,shelo9,"Dubai, UAE and UK",en,23,5117,,2020-09-09 20:09:31,-0.2502,0.217,0.667,0.116
-277,8,footage star,UwU_Me_Daddy,15 he/him 🏳️‍🌈 🇲🇽,en,23,440,,2020-09-09 20:06:19,-0.2502,0.217,0.667,0.116
-278,8,footage star,cho_2004,Staying at home,en,23,81,,2020-09-09 20:05:10,-0.2502,0.217,0.667,0.116
-279,9,police revealed charges,thefirstcaveman,,en,1,52,,2020-09-10 07:37:08,0.1027,0.088,0.809,0.103
-280,9,police revealed charges,JamesSilver3,,en,1,1469,,2020-09-10 07:10:03,-0.0387,0.159,0.686,0.155
-281,9,police revealed charges,FitToPrint,Australia,en,0,5693,,2020-09-10 06:39:36,0.7303,0.104,0.67,0.225
-282,9,police revealed charges,heath_parkes,"Sydney, New South Wales",en,0,612,,2020-09-10 06:11:02,0.0,0.0,1.0,0.0
-283,9,police revealed charges,mj_lynch,Australia,en,0,372,,2020-09-10 06:04:03,-0.2732,0.116,0.884,0.0
-284,9,police revealed charges,NarendraKulatu2,Sri Lanka,en,0,589,,2020-09-09 21:24:21,0.4501,0.145,0.666,0.189
-285,9,police revealed charges,amazesin_,NY ,en,0,407,,2020-09-09 14:31:51,-0.9042,0.248,0.752,0.0
-286,9,police revealed charges,TaxNerdOz,"Sydney, New South Wales",en,0,52,,2020-09-09 09:41:04,-0.6369,0.222,0.677,0.102
-287,9,police revealed charges,SybilWilkes,,en,0,27529,,2020-09-09 03:13:42,-0.7579,0.146,0.854,0.0
-288,9,police revealed charges,VisnjasB,Melbourne,en,4,74,,2020-09-07 02:32:02,-0.8925,0.317,0.683,0.0
-289,9,police revealed charges,JIEXU7,"The loneliest city in the world, AUSTRALIA",en,4,1526,,2020-09-07 02:12:31,-0.8925,0.317,0.683,0.0
-290,9,police revealed charges,sammiiitaylor,Sydney / Melbourne / Jakarta,en,4,882,,2020-09-06 23:39:08,-0.8925,0.317,0.683,0.0
-291,9,police revealed charges,katiebecker16,"Victoria, Australia",en,4,965,,2020-09-06 22:36:54,-0.8925,0.317,0.683,0.0
-292,9,police revealed charges,60Mins,Australia,en,4,171230,,2020-09-06 22:30:00,-0.9255,0.282,0.675,0.043
-293,9,police revealed charges,DustinMock3,,en,0,9,,2020-09-05 17:29:19,-0.276,0.084,0.877,0.039
-294,9,police revealed charges,JohnF135,,en,3,570,,2020-09-05 04:00:44,0.5423,0.12,0.601,0.279
-295,9,police revealed charges,justadavo,"Melbourne, Victoria",en,3,265,,2020-09-05 02:57:59,0.5423,0.12,0.601,0.279
-296,9,police revealed charges,jonnysmith1991,Melbourne,en,3,685,,2020-09-05 02:54:25,0.5423,0.12,0.601,0.279
-297,9,police revealed charges,ODonohueMLC,,en,3,3128,,2020-09-05 02:51:42,0.2815,0.135,0.68,0.185
-298,9,police revealed charges,KangGaming,TheKangGaming@Gmail.com,en,0,9455,,2020-09-04 23:41:42,-0.0165,0.065,0.871,0.063
-299,9,police revealed charges,WBTV_News,Charlotte & surrounding areas,en,0,220350,,2020-09-04 18:13:00,-0.4263,0.105,0.895,0.0
-300,9,police revealed charges,NCPTF8,,en,0,442,,2020-09-03 17:14:00,0.0,0.0,1.0,0.0
-301,9,police revealed charges,miiiitchplease,,en,14,221,,2020-09-02 23:26:14,-0.6486,0.194,0.806,0.0
-302,9,police revealed charges,redpillrights,United Kingdom,en,0,539,,2020-09-02 21:36:27,-0.8442,0.28,0.665,0.055
-303,9,police revealed charges,Rosemarie_OC,"Richmond, VA",en,14,78,,2020-09-02 16:10:25,-0.6486,0.194,0.806,0.0
-304,9,police revealed charges,jaymesueHoo,"Richmond, Virginia ",en,14,869,,2020-09-02 16:10:11,-0.6486,0.194,0.806,0.0
-305,9,police revealed charges,AlexBroening,"Richmond, VA",en,14,56,,2020-09-02 14:21:13,-0.6486,0.194,0.806,0.0
-306,9,police revealed charges,ternary_logic,Richmond VA,en,14,2485,,2020-09-02 14:17:31,-0.6486,0.194,0.806,0.0
-307,9,police revealed charges,mmgtrnnn,"Richmond, VA",en,14,175,,2020-09-02 13:48:32,-0.6486,0.194,0.806,0.0
-308,9,police revealed charges,roaddtripping,Virginia,en,14,69,,2020-09-02 13:40:36,-0.6486,0.194,0.806,0.0
-309,9,police revealed charges,geoyapti,"Virginia, USA",en,14,624,,2020-09-02 13:40:23,-0.6486,0.194,0.806,0.0
-310,9,police revealed charges,Bi0nicgeek,"Richmond, VA",en,14,74,,2020-09-02 13:30:00,-0.6486,0.194,0.806,0.0
-311,9,police revealed charges,patrickmwilson,"Richmond, Va.",en,14,8100,,2020-09-02 13:28:43,-0.6486,0.194,0.806,0.0
-312,9,police revealed charges,Megan__Pauly,"Richmond, VA",en,14,1454,,2020-09-02 13:03:07,-0.6486,0.194,0.806,0.0
-313,9,police revealed charges,ClaiborneY,"Virginia, USA",en,14,652,,2020-09-02 13:02:41,-0.6486,0.194,0.806,0.0
-314,9,police revealed charges,myVPM,Central Virginia & Beyond,en,14,9869,,2020-09-02 12:57:08,-0.7506,0.159,0.841,0.0
-315,9,police revealed charges,LisaAbeyta,"Albuquerque, New Mexico, USA",en,0,4720,,2020-09-02 01:49:17,-0.9001,0.283,0.661,0.056
-316,9,police revealed charges,CHEXNewswatch,"Peterborough, Ontario, Canada",en,0,20817,,2020-09-01 17:40:54,-0.4019,0.101,0.899,0.0
-317,10,ronald khalis bell,keelee231,,en,50,359,,2020-09-10 08:03:59,-0.5574,0.184,0.816,0.0
-318,10,ronald khalis bell,cellmavin,"Indiana, USA",en,46,1730,,2020-09-10 08:03:51,0.0,0.0,1.0,0.0
-319,10,ronald khalis bell,ana_captures,"London, England",en,27,1883,,2020-09-10 08:03:48,0.0,0.0,1.0,0.0
-320,10,ronald khalis bell,Davej0hnson0k,UK,en,294,664,,2020-09-10 08:03:47,-0.5574,0.126,0.874,0.0
-321,10,ronald khalis bell,elizabethtoni,"Leicester Square, London",en,63,2457,,2020-09-10 08:03:19,0.0,0.0,1.0,0.0
-322,10,ronald khalis bell,DerfNerraw,,en,50,10,,2020-09-10 08:02:43,-0.5574,0.184,0.816,0.0
-323,10,ronald khalis bell,ifunanya_ileka,,en,44,590,,2020-09-10 08:02:30,0.0,0.0,1.0,0.0
-324,10,ronald khalis bell,chocolatbelge1,中途半端な北国,en,27,252,,2020-09-10 08:02:13,0.0,0.0,1.0,0.0
-325,10,ronald khalis bell,phendricks71,,en,2,5002,,2020-09-10 08:01:48,-0.6486,0.235,0.765,0.0
-326,10,ronald khalis bell,GillJeffery13,Southampton,en,0,6015,,2020-09-10 08:01:13,0.0,0.0,1.0,0.0
-327,10,ronald khalis bell,timmedcraft,london,en,0,757,,2020-09-10 08:01:11,0.0,0.0,1.0,0.0
-328,10,ronald khalis bell,bozduful,,en,27,70,,2020-09-10 08:00:45,0.0,0.0,1.0,0.0
-329,10,ronald khalis bell,tehndrc,"Arizona, USA",en,294,1590,,2020-09-10 08:00:38,-0.5574,0.126,0.874,0.0
-330,10,ronald khalis bell,LanceDaly,U - S - A,en,0,686,,2020-09-10 08:00:37,0.0,0.0,1.0,0.0
-331,10,ronald khalis bell,Acton_Mainline,...on the dock of the bay,en,1,571,,2020-09-10 08:00:11,0.0,0.0,1.0,0.0
-332,10,ronald khalis bell,witch_cass,"Cape Town, South Africa",en,27,1523,,2020-09-10 08:00:07,0.6249,0.0,0.823,0.177
-333,10,ronald khalis bell,6NewsCTX,Central Texas,en,0,44095,,2020-09-10 08:00:00,0.25,0.0,0.926,0.074
-334,10,ronald khalis bell,RJamarama,,en,27,31,,2020-09-10 07:59:42,0.0,0.0,1.0,0.0
-335,10,ronald khalis bell,MTakeshisan,,en,27,164,,2020-09-10 07:59:30,0.0,0.0,1.0,0.0
-336,10,ronald khalis bell,NGoetham,"Johannesburg, South Africa",en,8,2741,,2020-09-10 07:59:24,0.4215,0.053,0.833,0.113
-337,10,ronald khalis bell,timmedcraft,london,en,27,757,,2020-09-10 07:59:19,0.6249,0.0,0.823,0.177
-338,10,ronald khalis bell,dahmirsnana,slidell lousiana,en,0,10,,2020-09-10 07:58:51,0.0,0.0,1.0,0.0
-339,10,ronald khalis bell,BoxallMary,worthing england,en,0,1216,,2020-09-10 07:58:36,0.0,0.0,1.0,0.0
-340,10,ronald khalis bell,funkybeebop, france,en,40,4,,2020-09-10 07:58:24,0.93,0.0,0.575,0.425
-341,10,ronald khalis bell,HorsepowerProd,GLOBAL,en,0,4358,,2020-09-10 07:57:51,0.0,0.0,1.0,0.0
-342,10,ronald khalis bell,RestinPeace2018,,en,294,0,,2020-09-10 07:57:41,-0.5574,0.126,0.874,0.0
-343,10,ronald khalis bell,Newsic1,,en,0,300,,2020-09-10 07:57:23,0.0,0.0,1.0,0.0
-344,10,ronald khalis bell,Phillip70856934,"New York City & New Jersey & Washington, D.C",en,46,267,,2020-09-10 07:57:15,0.0,0.0,1.0,0.0
-345,10,ronald khalis bell,Phillip70856934,"New York City & New Jersey & Washington, D.C",en,63,267,,2020-09-10 07:56:51,0.0,0.0,1.0,0.0
-346,10,ronald khalis bell,Phillip70856934,"New York City & New Jersey & Washington, D.C",en,12,267,,2020-09-10 07:56:36,0.0,0.0,1.0,0.0
-347,10,ronald khalis bell,nekotch,北海道,en,10,752,,2020-09-10 07:56:30,-0.6486,0.223,0.777,0.0
-348,10,ronald khalis bell,Phillip70856934,"New York City & New Jersey & Washington, D.C",en,20,267,,2020-09-10 07:56:28,-0.5904,0.434,0.566,0.0
-349,10,ronald khalis bell,NOTHlNGFAlLS,deep in my daydreams,en,294,832,,2020-09-10 07:55:48,-0.5574,0.126,0.874,0.0
-350,10,ronald khalis bell,Phillip70856934,"New York City & New Jersey & Washington, D.C",en,28,267,,2020-09-10 07:55:38,0.0,0.0,1.0,0.0
-351,10,ronald khalis bell,Phillip70856934,"New York City & New Jersey & Washington, D.C",en,62,267,,2020-09-10 07:55:20,-0.5574,0.184,0.816,0.0
-352,10,ronald khalis bell,THE49THZONE,559 2pac ifornia,en,50,955,,2020-09-10 07:55:15,-0.5574,0.184,0.816,0.0
-353,10,ronald khalis bell,carlosivan65,"Guayaquil, Ecuador",en,1,265,,2020-09-10 07:54:56,-0.6486,0.212,0.788,0.0
-354,10,ronald khalis bell,LaurenceRHarvey,United Kingdom,en,27,5434,,2020-09-10 07:54:35,0.6249,0.0,0.823,0.177
-355,10,ronald khalis bell,cmac2020,Northern Ireland,en,27,415,,2020-09-10 07:54:34,0.0,0.0,1.0,0.0
-356,10,ronald khalis bell,Phillip70856934,"New York City & New Jersey & Washington, D.C",en,14,267,,2020-09-10 07:54:31,0.1613,0.11,0.761,0.129
-357,10,ronald khalis bell,Phillip70856934,"New York City & New Jersey & Washington, D.C",en,294,267,,2020-09-10 07:54:27,-0.5574,0.126,0.874,0.0
-358,10,ronald khalis bell,OrthoMvelo,🇿🇦,en,44,170,,2020-09-10 07:54:27,0.0,0.0,1.0,0.0
-359,10,ronald khalis bell,Phillip70856934,"New York City & New Jersey & Washington, D.C",en,42,267,,2020-09-10 07:54:19,-0.5574,0.141,0.859,0.0
-360,10,ronald khalis bell,Phillip70856934,"New York City & New Jersey & Washington, D.C",en,225,267,,2020-09-10 07:54:12,-0.5574,0.126,0.874,0.0
-361,10,ronald khalis bell,Hound_sounds,"London, England",en,4,34,,2020-09-10 07:54:07,0.0,0.0,1.0,0.0
-362,10,ronald khalis bell,CRose2u,United States,en,2,11430,,2020-09-10 07:54:04,-0.6486,0.235,0.765,0.0
-363,10,ronald khalis bell,PaulWatsonUK1,"London, England",en,4,2928,,2020-09-10 07:53:54,0.0,0.0,1.0,0.0
-364,10,ronald khalis bell,Miss_Mogapi_,South Africa,en,8,923,,2020-09-10 07:53:47,0.4215,0.053,0.833,0.113
-365,10,ronald khalis bell,HeadlinerHub,London,en,4,12317,,2020-09-10 07:53:42,0.0,0.0,1.0,0.0
-366,10,ronald khalis bell,richardjourney2,"Sioux Falls, SD",en,3,2102,,2020-09-10 07:53:31,-0.5267,0.172,0.75,0.078
+0,1,border restrictions,GayeFreeman8,Townsville. North Queensland ,en,91,1021,,2020-09-09 20:32:15,-0.3566,0.09,0.91,0.0
+1,1,border restrictions,PreAmpPlus,,en,91,269,,2020-09-09 20:29:38,-0.3566,0.09,0.91,0.0
+2,1,border restrictions,Jasonsmumr,Redcliffe  QLD   Australia,en,91,1594,,2020-09-09 20:29:17,-0.3566,0.09,0.91,0.0
+3,1,border restrictions,bkbaguley,"Newcastle, New South Wales",en,91,3891,,2020-09-09 20:28:13,-0.3566,0.09,0.91,0.0
+4,1,border restrictions,RussiaUN,"New York, USA",en,0,53881,,2020-09-09 20:26:55,0.7845,0.038,0.773,0.19
+5,1,border restrictions,Mikel70965005,"Regina, Saskatchewan",en,2,338,,2020-09-09 20:25:15,0.5859,0.0,0.769,0.231
+6,1,border restrictions,jftalbot6,"Ontario, Canada",en,62,177,,2020-09-09 20:24:29,0.0,0.0,1.0,0.0
+7,1,border restrictions,giannam08134578,"Melbourne, Victoria",en,4,20,,2020-09-09 20:24:00,0.0,0.0,1.0,0.0
+8,1,border restrictions,JafariMreza,,en,5,7,,2020-09-09 20:21:35,-0.0346,0.192,0.62,0.188
+9,1,border restrictions,kfanani,,en,0,1,,2020-09-09 20:21:27,0.0,0.0,1.0,0.0
+10,1,border restrictions,yellowb97536670,"Sunny Coast, Queensland ",en,91,396,,2020-09-09 20:19:01,-0.3566,0.09,0.91,0.0
+11,1,border restrictions,CouplesRe,,en,8,124,,2020-09-09 20:19:00,0.0,0.0,1.0,0.0
+12,1,border restrictions,BrobergMatthew,"Oklahoma City, OK",en,12,7915,,2020-09-09 20:14:39,0.4926,0.0,0.873,0.127
+13,1,border restrictions,interfaithimm,"Washington, DC",en,11,1610,,2020-09-09 20:12:49,0.0,0.0,1.0,0.0
+14,1,border restrictions,DclemDeborah,"Harrison, TN",en,49,1979,,2020-09-09 20:12:43,-0.4404,0.162,0.838,0.0
+15,1,border restrictions,trstdtravlr,,en,0,36,,2020-09-09 20:09:13,0.0,0.0,1.0,0.0
+16,1,border restrictions,triefus,,en,91,71,,2020-09-09 20:05:44,-0.3566,0.09,0.91,0.0
+17,1,border restrictions,katenola,"New Orleans, LA",en,8,140,,2020-09-09 20:05:27,0.0,0.0,1.0,0.0
+18,1,border restrictions,Jr1Ken,,en,1,226,,2020-09-09 20:05:19,-0.4767,0.186,0.814,0.0
+19,1,border restrictions,familiatqlm,,en,11,3491,,2020-09-09 20:03:52,0.0,0.0,1.0,0.0
+20,2,confirm atrocities,Khizer91208947,المملكة الأردنية الهاشمية,en,372,88,,2020-09-09 20:12:28,0.0,0.0,1.0,0.0
+21,2,confirm atrocities,mehmets78719817,"Kızıltepe, Türkiye",en,0,1,,2020-09-09 20:02:17,0.0,0.0,1.0,0.0
+22,2,confirm atrocities,RedBullPapa,,en,372,2,,2020-09-09 19:57:26,0.0,0.0,1.0,0.0
+23,2,confirm atrocities,PoliticalTom,Southeast Texas,en,0,2521,,2020-09-09 19:50:52,-0.4975,0.167,0.833,0.0
+24,2,confirm atrocities,Indian047396771, India,en,372,95,,2020-09-09 19:31:53,0.0,0.0,1.0,0.0
+25,2,confirm atrocities,NasirMa29819242,,en,372,165,,2020-09-09 19:23:27,0.0,0.0,1.0,0.0
+26,2,confirm atrocities,RetrospectWhat,,en,372,39,,2020-09-09 19:14:21,0.0,0.0,1.0,0.0
+27,2,confirm atrocities,seculardemocrat,India,en,372,388,,2020-09-09 19:01:56,0.0,0.0,1.0,0.0
+28,2,confirm atrocities,matiullahjan222,"Khyber Pakhtunkhwa, Pakistan",en,372,32,,2020-09-09 18:59:01,0.0,0.0,1.0,0.0
+29,2,confirm atrocities,orthopsia,The Pleiades,en,6,1888,,2020-09-09 18:55:54,0.0,0.0,1.0,0.0
+30,2,confirm atrocities,osamalek,Theater Near You,en,372,168,,2020-09-09 18:39:57,0.0,0.0,1.0,0.0
+31,2,confirm atrocities,SMHoosayn,on the Edge of #HinduIsrael,en,8,275,,2020-09-09 18:39:12,0.0,0.0,1.0,0.0
+32,2,confirm atrocities,NadirrKhan,"New Delhi, India",en,372,7,,2020-09-09 18:38:54,0.0,0.0,1.0,0.0
+33,2,confirm atrocities,crimsonxskies,,en,6,69,,2020-09-09 18:25:43,0.0,0.0,1.0,0.0
+34,2,confirm atrocities,IamUmar_Farooq,"Laylpur, Pakistan ",en,372,476,,2020-09-09 18:17:49,0.0,0.0,1.0,0.0
+35,2,confirm atrocities,EtherealKashmir,US,en,372,69,,2020-09-09 18:12:44,0.0,0.0,1.0,0.0
+36,2,confirm atrocities,EzeakioDarmey,,en,6,49,,2020-09-09 18:09:55,0.0,0.0,1.0,0.0
+37,2,confirm atrocities,hasan27fahad,,en,372,11,,2020-09-09 18:05:51,0.0,0.0,1.0,0.0
+38,2,confirm atrocities,kanishka369,"Ghaziabad, India",en,372,37,,2020-09-09 18:05:51,0.0,0.0,1.0,0.0
+39,2,confirm atrocities,InfoSuch1,"Punjab, Pakistan",en,372,161,,2020-09-09 17:48:32,0.0,0.0,1.0,0.0
+40,3,california breathing feels,BassSonia,El universo,en,0,717,,2020-09-09 19:14:23,0.0258,0.173,0.647,0.18
+41,3,california breathing feels,StoneAlex4U,,en,0,192,,2020-09-09 16:44:32,0.0258,0.173,0.647,0.18
+42,3,california breathing feels,SafetyPinDaily,,en,1,149965,,2020-09-09 16:25:02,0.0258,0.142,0.71,0.148
+43,3,california breathing feels,hdmaher,"Santa Barbara, Ca",en,0,84,,2020-09-09 15:25:14,0.0258,0.173,0.647,0.18
+44,3,california breathing feels,AlexJamesFitz,New Jersey,en,5,29786,,2020-09-09 13:27:31,0.3612,0.0,0.894,0.106
+45,3,california breathing feels,aaltman82,"Washington, DC",en,5,5927,,2020-09-09 13:27:10,0.3612,0.0,0.894,0.106
+46,3,california breathing feels,LoriFradkin,"Brooklyn, NY",en,5,7640,,2020-09-09 13:25:00,0.3612,0.0,0.894,0.106
+47,3,california breathing feels,JohnLGoodman,Tuckahoe NY,en,0,796,,2020-09-09 13:06:11,0.0258,0.161,0.671,0.168
+48,3,california breathing feels,feinberg_linda,,en,11,438,,2020-09-09 09:05:21,0.0258,0.151,0.692,0.157
+49,3,california breathing feels,s_goding,"Southwest, Georgia 🍑🥜",en,0,2903,,2020-09-09 08:10:39,0.0258,0.142,0.71,0.148
+50,3,california breathing feels,mitagator,"Pine, Colorado",en,0,9,,2020-09-09 08:03:07,0.0258,0.121,0.754,0.126
+51,3,california breathing feels,thaitvnews,,en,0,32687,,2020-09-09 07:03:21,0.0258,0.173,0.647,0.18
+52,3,california breathing feels,tomwhy1,,en,11,319,,2020-09-09 01:28:05,0.0258,0.151,0.692,0.157
+53,3,california breathing feels,Newsdialy2,"Memphis, TN",en,0,3,,2020-09-09 00:51:14,0.0258,0.173,0.647,0.18
+54,3,california breathing feels,msnweather,,en,0,7192,,2020-09-09 00:07:22,0.0258,0.173,0.647,0.18
+55,3,california breathing feels,biobaby19,,en,11,821,,2020-09-08 23:57:00,0.0258,0.151,0.692,0.157
+56,3,california breathing feels,Krickette01,,en,11,541,,2020-09-08 23:31:34,0.0258,0.151,0.692,0.157
+57,3,california breathing feels,ActivistHat,,en,11,435,,2020-09-08 23:24:24,0.0258,0.151,0.692,0.157
+58,3,california breathing feels,chadterhune,Los Angeles,en,5,10138,,2020-09-08 23:19:03,0.3612,0.0,0.894,0.106
+59,3,california breathing feels,Calling_Belva,"Washington, DC",en,11,103,,2020-09-08 23:13:38,0.0258,0.151,0.692,0.157
+60,4,pironkova open quarterfinal,Dspark9ja,Occupy Till i Come!!!,en,32,735,,2020-09-09 20:31:32,-0.1531,0.109,0.803,0.088
+61,4,pironkova open quarterfinal,Ngcebor3,"Durban, South Africa",en,32,277,,2020-09-09 20:28:25,-0.1531,0.109,0.803,0.088
+62,4,pironkova open quarterfinal,StadiumAndy,"Boston, MA",en,0,974,,2020-09-09 20:07:45,0.4588,0.042,0.845,0.113
+63,4,pironkova open quarterfinal,LyfeStrange,,en,4,31,,2020-09-09 19:43:05,0.1027,0.098,0.789,0.113
+64,4,pironkova open quarterfinal,Bartzy14,"Medicine Hat, Alberta",en,4,482,,2020-09-09 19:42:07,0.1027,0.098,0.789,0.113
+65,4,pironkova open quarterfinal,nutyynys,joburg,en,32,603,,2020-09-09 19:30:44,-0.1531,0.109,0.803,0.088
+66,4,pironkova open quarterfinal,iamalbertkim,Global citizen,en,32,1059,,2020-09-09 19:27:38,-0.1531,0.109,0.803,0.088
+67,4,pironkova open quarterfinal,LVolsetto,"Cape Town, South Africa",en,32,1101,,2020-09-09 19:24:25,-0.1531,0.109,0.803,0.088
+68,4,pironkova open quarterfinal,KagisoMashabela,,en,32,184,,2020-09-09 19:22:00,-0.1531,0.109,0.803,0.088
+69,4,pironkova open quarterfinal,KAHZKAHZ,Around  you,en,32,2319,,2020-09-09 19:21:37,-0.1531,0.109,0.803,0.088
+70,4,pironkova open quarterfinal,inspiredceo1205,,en,32,130,,2020-09-09 19:21:24,-0.1531,0.109,0.803,0.088
+71,4,pironkova open quarterfinal,M____O____B,"Los Angeles, CA",en,32,1412,,2020-09-09 19:19:17,-0.1531,0.109,0.803,0.088
+72,4,pironkova open quarterfinal,Bongi_Kahuga,"Johannesburg, South Africa",en,32,385,,2020-09-09 19:17:25,-0.1531,0.109,0.803,0.088
+73,4,pironkova open quarterfinal,DanOvie_dor,Nigeria,en,32,410,,2020-09-09 19:15:54,-0.1531,0.109,0.803,0.088
+74,4,pironkova open quarterfinal,Xendusdelivery,"Ibadan, Nigeria",en,32,1154,,2020-09-09 19:14:14,-0.1531,0.109,0.803,0.088
+75,4,pironkova open quarterfinal,Nande_3,Windhoek Namibia ,en,32,713,,2020-09-09 19:13:07,-0.1531,0.109,0.803,0.088
+76,4,pironkova open quarterfinal,Rocksta_5,Vaal,en,32,334,,2020-09-09 19:12:36,-0.1531,0.109,0.803,0.088
+77,4,pironkova open quarterfinal,Juliusblety,"Lagos, Nigeria",en,32,221,,2020-09-09 19:11:54,-0.1531,0.109,0.803,0.088
+78,4,pironkova open quarterfinal,lehadimabathong,,en,32,378,,2020-09-09 19:10:42,-0.1531,0.109,0.803,0.088
+79,4,pironkova open quarterfinal,TBolokang,South Africa,en,32,1354,,2020-09-09 19:10:30,-0.1531,0.109,0.803,0.088
+80,5,season california breathing,BassSonia,El universo,en,0,717,,2020-09-09 19:14:23,0.0258,0.173,0.647,0.18
+81,5,season california breathing,INEVEREXISTEDD,"San Francisco, CA",en,0,621,,2020-09-09 17:31:32,-0.4201,0.174,0.826,0.0
+82,5,season california breathing,StoneAlex4U,,en,0,192,,2020-09-09 16:44:32,0.0258,0.173,0.647,0.18
+83,5,season california breathing,SafetyPinDaily,,en,1,149965,,2020-09-09 16:25:02,0.0258,0.142,0.71,0.148
+84,5,season california breathing,George80329642,,en,0,7,,2020-09-09 16:18:48,-0.0516,0.288,0.435,0.277
+85,5,season california breathing,hdmaher,"Santa Barbara, Ca",en,0,84,,2020-09-09 15:25:14,0.0258,0.173,0.647,0.18
+86,5,season california breathing,JohnLGoodman,Tuckahoe NY,en,0,796,,2020-09-09 13:06:11,0.0258,0.161,0.671,0.168
+87,5,season california breathing,feinberg_linda,,en,11,438,,2020-09-09 09:05:21,0.0258,0.151,0.692,0.157
+88,5,season california breathing,s_goding,"Southwest, Georgia 🍑🥜",en,0,2903,,2020-09-09 08:10:39,0.0258,0.142,0.71,0.148
+89,5,season california breathing,mitagator,"Pine, Colorado",en,0,9,,2020-09-09 08:03:07,0.0258,0.121,0.754,0.126
+90,5,season california breathing,thaitvnews,,en,0,32687,,2020-09-09 07:03:21,0.0258,0.173,0.647,0.18
+91,5,season california breathing,tomwhy1,,en,11,319,,2020-09-09 01:28:05,0.0258,0.151,0.692,0.157
+92,5,season california breathing,Newsdialy2,"Memphis, TN",en,0,3,,2020-09-09 00:51:14,0.0258,0.173,0.647,0.18
+93,5,season california breathing,msnweather,,en,0,7192,,2020-09-09 00:07:22,0.0258,0.173,0.647,0.18
+94,5,season california breathing,biobaby19,,en,11,821,,2020-09-08 23:57:00,0.0258,0.151,0.692,0.157
+95,5,season california breathing,Krickette01,,en,11,541,,2020-09-08 23:31:34,0.0258,0.151,0.692,0.157
+96,5,season california breathing,ActivistHat,,en,11,435,,2020-09-08 23:24:24,0.0258,0.151,0.692,0.157
+97,5,season california breathing,Calling_Belva,"Washington, DC",en,11,103,,2020-09-08 23:13:38,0.0258,0.151,0.692,0.157
+98,5,season california breathing,StarkerSusan,,en,11,119,,2020-09-08 23:12:15,0.0258,0.151,0.692,0.157
+99,5,season california breathing,Nathaniel78526,South Texas,en,11,3444,,2020-09-08 23:11:26,0.0258,0.151,0.692,0.157
+100,6,like luxury,GooseP3,The Dro!,en,13,916,,2020-09-09 20:31:33,0.0,0.0,1.0,0.0
+101,6,like luxury,WisNdom,"Nairobi, Kenya",en,3,377,,2020-09-09 20:31:17,0.3612,0.0,0.906,0.094
+102,6,like luxury,ForkMorton,,en,0,14,,2020-09-09 20:30:06,0.6597,0.0,0.828,0.172
+103,6,like luxury,Pred_X26,"Houston, TX",en,402,72,,2020-09-09 20:29:59,0.802,0.0,0.461,0.539
+104,6,like luxury,DevTheCapricorn,"Las Vegas, Nevada 📍",en,402,1056,,2020-09-09 20:29:56,0.802,0.0,0.461,0.539
+105,6,like luxury,KrissiKakes,Memphis Tn On Your Screen,en,402,170,,2020-09-09 20:28:58,0.802,0.0,0.461,0.539
+106,6,like luxury,Too_Luxury,"Wisconsin, USA",en,25,55258,,2020-09-09 20:28:57,0.6908,0.0,0.794,0.206
+107,6,like luxury,rxbyn_berry,"Liverpool, England",en,402,374,,2020-09-09 20:28:32,0.802,0.0,0.461,0.539
+108,6,like luxury,matchafanzz,,en,0,12,,2020-09-09 20:28:27,-0.2849,0.079,0.795,0.126
+109,6,like luxury,bbyfxiry,☉ capricorn ↑ leo ☽ capricorn,en,402,1984,,2020-09-09 20:27:58,0.802,0.0,0.461,0.539
+110,6,like luxury,JordanJSilvia,"Fall River, MA",en,0,825,,2020-09-09 20:27:41,0.7698,0.0,0.73,0.27
+111,6,like luxury,kimoneforbidden,"Jamaica, West Indies.",en,402,3002,,2020-09-09 20:26:59,0.802,0.0,0.461,0.539
+112,6,like luxury,Not_P_The16th,,en,0,68,,2020-09-09 20:25:00,0.2263,0.088,0.789,0.122
+113,6,like luxury,PadawanGene,,en,21,175,,2020-09-09 20:24:30,0.3612,0.0,0.857,0.143
+114,6,like luxury,clambrothglass,,en,0,11,,2020-09-09 20:24:23,0.7973,0.0,0.678,0.322
+115,6,like luxury,halessbloop,,en,402,213,,2020-09-09 20:23:09,0.802,0.0,0.461,0.539
+116,6,like luxury,AnnaRose1684,Earth?,en,0,103,,2020-09-09 20:23:09,0.5267,0.0,0.833,0.167
+117,6,like luxury,burder_z,,en,0,1,,2020-09-09 20:21:01,-0.7351,0.204,0.686,0.111
+118,6,like luxury,_marissaregina,"Chicago, IL",en,0,72,,2020-09-09 20:21:01,0.9022,0.0,0.518,0.482
+119,6,like luxury,xothelovelyleo,303,en,402,483,,2020-09-09 20:20:15,0.802,0.0,0.461,0.539
+120,7,myanmar army,AlexandarPavlov,Waterloo,en,1,304,,2020-09-09 20:30:54,0.0,0.0,1.0,0.0
+121,7,myanmar army,CBCTheNational,,en,1,316372,,2020-09-09 20:30:12,0.0,0.0,1.0,0.0
+122,7,myanmar army,Badrullah7,"Sharjah, United Arab Emirates",en,1,5,,2020-09-09 20:26:03,-0.6249,0.163,0.837,0.0
+123,7,myanmar army,Badrullah7,"Sharjah, United Arab Emirates",en,1,5,,2020-09-09 20:23:50,0.0,0.0,1.0,0.0
+124,7,myanmar army,Badrullah7,"Sharjah, United Arab Emirates",en,613,5,,2020-09-09 20:22:12,0.0,0.0,1.0,0.0
+125,7,myanmar army,userpeur,"Montpellier, France",en,613,68,,2020-09-09 20:14:43,0.0,0.0,1.0,0.0
+126,7,myanmar army,LynTeddy16,"Auckland, New Zealand",en,613,163,,2020-09-09 20:14:00,0.0,0.0,1.0,0.0
+127,7,myanmar army,Khizer91208947,المملكة الأردنية الهاشمية,en,372,88,,2020-09-09 20:12:28,0.0,0.0,1.0,0.0
+128,7,myanmar army,D94Morbid,,en,191,12,,2020-09-09 20:11:52,0.0,0.0,1.0,0.0
+129,7,myanmar army,anti_fascism_,,en,27,16,,2020-09-09 20:10:35,0.0,0.0,1.0,0.0
+130,7,myanmar army,shiberiatora,Vienna,en,613,26,,2020-09-09 20:08:36,0.0,0.0,1.0,0.0
+131,7,myanmar army,ImranGujjar76,,en,7,116,,2020-09-09 20:03:54,-0.7717,0.242,0.758,0.0
+132,7,myanmar army,ImranGujjar76,,en,13,116,,2020-09-09 20:03:42,-0.6249,0.17,0.83,0.0
+133,7,myanmar army,calebow,,en,613,50,,2020-09-09 20:03:40,0.0,0.0,1.0,0.0
+134,7,myanmar army,Masood_4u,"Chennai, India",en,613,93,,2020-09-09 19:57:54,0.0,0.0,1.0,0.0
+135,7,myanmar army,RedBullPapa,,en,372,2,,2020-09-09 19:57:26,0.0,0.0,1.0,0.0
+136,7,myanmar army,PoliticalTom,Southeast Texas,en,0,2521,,2020-09-09 19:50:52,-0.4975,0.167,0.833,0.0
+137,7,myanmar army,MillerOval,,en,73,183,,2020-09-09 19:42:35,0.5106,0.0,0.852,0.148
+138,7,myanmar army,Alisha_hamid1,Ølgod Denmark,en,7,5159,,2020-09-09 19:42:09,0.2732,0.0,0.896,0.104
+139,7,myanmar army,JohnSoe017,Myanmar,en,92,125,,2020-09-09 19:38:18,0.0,0.0,1.0,0.0
+140,1,border restrictions,GayeFreeman8,Townsville. North Queensland ,en,91,1021,,2020-09-09 20:32:15,-0.3566,0.09,0.91,0.0
+141,1,border restrictions,PreAmpPlus,,en,91,269,,2020-09-09 20:29:38,-0.3566,0.09,0.91,0.0
+142,1,border restrictions,Jasonsmumr,Redcliffe  QLD   Australia,en,91,1594,,2020-09-09 20:29:17,-0.3566,0.09,0.91,0.0
+143,1,border restrictions,bkbaguley,"Newcastle, New South Wales",en,91,3891,,2020-09-09 20:28:13,-0.3566,0.09,0.91,0.0
+144,1,border restrictions,RussiaUN,"New York, USA",en,0,53881,,2020-09-09 20:26:55,0.7845,0.038,0.773,0.19
+145,1,border restrictions,Mikel70965005,"Regina, Saskatchewan",en,2,338,,2020-09-09 20:25:15,0.5859,0.0,0.769,0.231
+146,1,border restrictions,jftalbot6,"Ontario, Canada",en,62,177,,2020-09-09 20:24:29,0.0,0.0,1.0,0.0
+147,1,border restrictions,giannam08134578,"Melbourne, Victoria",en,4,20,,2020-09-09 20:24:00,0.0,0.0,1.0,0.0
+148,1,border restrictions,JafariMreza,,en,5,7,,2020-09-09 20:21:35,-0.0346,0.192,0.62,0.188
+149,1,border restrictions,kfanani,,en,0,1,,2020-09-09 20:21:27,0.0,0.0,1.0,0.0
+150,1,border restrictions,yellowb97536670,"Sunny Coast, Queensland ",en,91,396,,2020-09-09 20:19:01,-0.3566,0.09,0.91,0.0
+151,1,border restrictions,CouplesRe,,en,8,124,,2020-09-09 20:19:00,0.0,0.0,1.0,0.0
+152,1,border restrictions,BrobergMatthew,"Oklahoma City, OK",en,12,7915,,2020-09-09 20:14:39,0.4926,0.0,0.873,0.127
+153,1,border restrictions,interfaithimm,"Washington, DC",en,11,1610,,2020-09-09 20:12:49,0.0,0.0,1.0,0.0
+154,1,border restrictions,DclemDeborah,"Harrison, TN",en,49,1979,,2020-09-09 20:12:43,-0.4404,0.162,0.838,0.0
+155,1,border restrictions,trstdtravlr,,en,0,36,,2020-09-09 20:09:13,0.0,0.0,1.0,0.0
+156,1,border restrictions,triefus,,en,91,71,,2020-09-09 20:05:44,-0.3566,0.09,0.91,0.0
+157,1,border restrictions,katenola,"New Orleans, LA",en,8,140,,2020-09-09 20:05:27,0.0,0.0,1.0,0.0
+158,1,border restrictions,Jr1Ken,,en,1,226,,2020-09-09 20:05:19,-0.4767,0.186,0.814,0.0
+159,1,border restrictions,familiatqlm,,en,11,3491,,2020-09-09 20:03:52,0.0,0.0,1.0,0.0
+160,2,confirm atrocities,Khizer91208947,المملكة الأردنية الهاشمية,en,372,88,,2020-09-09 20:12:28,0.0,0.0,1.0,0.0
+161,2,confirm atrocities,mehmets78719817,"Kızıltepe, Türkiye",en,0,1,,2020-09-09 20:02:17,0.0,0.0,1.0,0.0
+162,2,confirm atrocities,RedBullPapa,,en,372,2,,2020-09-09 19:57:26,0.0,0.0,1.0,0.0
+163,2,confirm atrocities,PoliticalTom,Southeast Texas,en,0,2521,,2020-09-09 19:50:52,-0.4975,0.167,0.833,0.0
+164,2,confirm atrocities,Indian047396771, India,en,372,95,,2020-09-09 19:31:53,0.0,0.0,1.0,0.0
+165,2,confirm atrocities,NasirMa29819242,,en,372,165,,2020-09-09 19:23:27,0.0,0.0,1.0,0.0
+166,2,confirm atrocities,RetrospectWhat,,en,372,39,,2020-09-09 19:14:21,0.0,0.0,1.0,0.0
+167,2,confirm atrocities,seculardemocrat,India,en,372,388,,2020-09-09 19:01:56,0.0,0.0,1.0,0.0
+168,2,confirm atrocities,matiullahjan222,"Khyber Pakhtunkhwa, Pakistan",en,372,32,,2020-09-09 18:59:01,0.0,0.0,1.0,0.0
+169,2,confirm atrocities,orthopsia,The Pleiades,en,6,1888,,2020-09-09 18:55:54,0.0,0.0,1.0,0.0
+170,2,confirm atrocities,osamalek,Theater Near You,en,372,168,,2020-09-09 18:39:57,0.0,0.0,1.0,0.0
+171,2,confirm atrocities,SMHoosayn,on the Edge of #HinduIsrael,en,8,275,,2020-09-09 18:39:12,0.0,0.0,1.0,0.0
+172,2,confirm atrocities,NadirrKhan,"New Delhi, India",en,372,7,,2020-09-09 18:38:54,0.0,0.0,1.0,0.0
+173,2,confirm atrocities,crimsonxskies,,en,6,69,,2020-09-09 18:25:43,0.0,0.0,1.0,0.0
+174,2,confirm atrocities,IamUmar_Farooq,"Laylpur, Pakistan ",en,372,476,,2020-09-09 18:17:49,0.0,0.0,1.0,0.0
+175,2,confirm atrocities,EtherealKashmir,US,en,372,69,,2020-09-09 18:12:44,0.0,0.0,1.0,0.0
+176,2,confirm atrocities,EzeakioDarmey,,en,6,49,,2020-09-09 18:09:55,0.0,0.0,1.0,0.0
+177,2,confirm atrocities,hasan27fahad,,en,372,11,,2020-09-09 18:05:51,0.0,0.0,1.0,0.0
+178,2,confirm atrocities,kanishka369,"Ghaziabad, India",en,372,37,,2020-09-09 18:05:51,0.0,0.0,1.0,0.0
+179,2,confirm atrocities,InfoSuch1,"Punjab, Pakistan",en,372,161,,2020-09-09 17:48:32,0.0,0.0,1.0,0.0
+180,3,california breathing feels,BassSonia,El universo,en,0,717,,2020-09-09 19:14:23,0.0258,0.173,0.647,0.18
+181,3,california breathing feels,StoneAlex4U,,en,0,192,,2020-09-09 16:44:32,0.0258,0.173,0.647,0.18
+182,3,california breathing feels,SafetyPinDaily,,en,1,149965,,2020-09-09 16:25:02,0.0258,0.142,0.71,0.148
+183,3,california breathing feels,hdmaher,"Santa Barbara, Ca",en,0,84,,2020-09-09 15:25:14,0.0258,0.173,0.647,0.18
+184,3,california breathing feels,AlexJamesFitz,New Jersey,en,5,29786,,2020-09-09 13:27:31,0.3612,0.0,0.894,0.106
+185,3,california breathing feels,aaltman82,"Washington, DC",en,5,5927,,2020-09-09 13:27:10,0.3612,0.0,0.894,0.106
+186,3,california breathing feels,LoriFradkin,"Brooklyn, NY",en,5,7640,,2020-09-09 13:25:00,0.3612,0.0,0.894,0.106
+187,3,california breathing feels,JohnLGoodman,Tuckahoe NY,en,0,796,,2020-09-09 13:06:11,0.0258,0.161,0.671,0.168
+188,3,california breathing feels,feinberg_linda,,en,11,438,,2020-09-09 09:05:21,0.0258,0.151,0.692,0.157
+189,3,california breathing feels,s_goding,"Southwest, Georgia 🍑🥜",en,0,2903,,2020-09-09 08:10:39,0.0258,0.142,0.71,0.148
+190,3,california breathing feels,mitagator,"Pine, Colorado",en,0,9,,2020-09-09 08:03:07,0.0258,0.121,0.754,0.126
+191,3,california breathing feels,thaitvnews,,en,0,32687,,2020-09-09 07:03:21,0.0258,0.173,0.647,0.18
+192,3,california breathing feels,tomwhy1,,en,11,319,,2020-09-09 01:28:05,0.0258,0.151,0.692,0.157
+193,3,california breathing feels,Newsdialy2,"Memphis, TN",en,0,3,,2020-09-09 00:51:14,0.0258,0.173,0.647,0.18
+194,3,california breathing feels,msnweather,,en,0,7192,,2020-09-09 00:07:22,0.0258,0.173,0.647,0.18
+195,3,california breathing feels,biobaby19,,en,11,821,,2020-09-08 23:57:00,0.0258,0.151,0.692,0.157
+196,3,california breathing feels,Krickette01,,en,11,541,,2020-09-08 23:31:34,0.0258,0.151,0.692,0.157
+197,3,california breathing feels,ActivistHat,,en,11,435,,2020-09-08 23:24:24,0.0258,0.151,0.692,0.157
+198,3,california breathing feels,chadterhune,Los Angeles,en,5,10138,,2020-09-08 23:19:03,0.3612,0.0,0.894,0.106
+199,3,california breathing feels,Calling_Belva,"Washington, DC",en,11,103,,2020-09-08 23:13:38,0.0258,0.151,0.692,0.157
+200,4,pironkova open quarterfinal,Dspark9ja,Occupy Till i Come!!!,en,32,735,,2020-09-09 20:31:32,-0.1531,0.109,0.803,0.088
+201,4,pironkova open quarterfinal,Ngcebor3,"Durban, South Africa",en,32,277,,2020-09-09 20:28:25,-0.1531,0.109,0.803,0.088
+202,4,pironkova open quarterfinal,StadiumAndy,"Boston, MA",en,0,974,,2020-09-09 20:07:45,0.4588,0.042,0.845,0.113
+203,4,pironkova open quarterfinal,LyfeStrange,,en,4,31,,2020-09-09 19:43:05,0.1027,0.098,0.789,0.113
+204,4,pironkova open quarterfinal,Bartzy14,"Medicine Hat, Alberta",en,4,482,,2020-09-09 19:42:07,0.1027,0.098,0.789,0.113
+205,4,pironkova open quarterfinal,nutyynys,joburg,en,32,603,,2020-09-09 19:30:44,-0.1531,0.109,0.803,0.088
+206,4,pironkova open quarterfinal,iamalbertkim,Global citizen,en,32,1059,,2020-09-09 19:27:38,-0.1531,0.109,0.803,0.088
+207,4,pironkova open quarterfinal,LVolsetto,"Cape Town, South Africa",en,32,1101,,2020-09-09 19:24:25,-0.1531,0.109,0.803,0.088
+208,4,pironkova open quarterfinal,KagisoMashabela,,en,32,184,,2020-09-09 19:22:00,-0.1531,0.109,0.803,0.088
+209,4,pironkova open quarterfinal,KAHZKAHZ,Around  you,en,32,2319,,2020-09-09 19:21:37,-0.1531,0.109,0.803,0.088
+210,4,pironkova open quarterfinal,inspiredceo1205,,en,32,130,,2020-09-09 19:21:24,-0.1531,0.109,0.803,0.088
+211,4,pironkova open quarterfinal,M____O____B,"Los Angeles, CA",en,32,1412,,2020-09-09 19:19:17,-0.1531,0.109,0.803,0.088
+212,4,pironkova open quarterfinal,Bongi_Kahuga,"Johannesburg, South Africa",en,32,385,,2020-09-09 19:17:25,-0.1531,0.109,0.803,0.088
+213,4,pironkova open quarterfinal,DanOvie_dor,Nigeria,en,32,410,,2020-09-09 19:15:54,-0.1531,0.109,0.803,0.088
+214,4,pironkova open quarterfinal,Xendusdelivery,"Ibadan, Nigeria",en,32,1154,,2020-09-09 19:14:14,-0.1531,0.109,0.803,0.088
+215,4,pironkova open quarterfinal,Nande_3,Windhoek Namibia ,en,32,713,,2020-09-09 19:13:07,-0.1531,0.109,0.803,0.088
+216,4,pironkova open quarterfinal,Rocksta_5,Vaal,en,32,334,,2020-09-09 19:12:36,-0.1531,0.109,0.803,0.088
+217,4,pironkova open quarterfinal,Juliusblety,"Lagos, Nigeria",en,32,221,,2020-09-09 19:11:54,-0.1531,0.109,0.803,0.088
+218,4,pironkova open quarterfinal,lehadimabathong,,en,32,378,,2020-09-09 19:10:42,-0.1531,0.109,0.803,0.088
+219,4,pironkova open quarterfinal,TBolokang,South Africa,en,32,1354,,2020-09-09 19:10:30,-0.1531,0.109,0.803,0.088
+220,5,season california breathing,BassSonia,El universo,en,0,717,,2020-09-09 19:14:23,0.0258,0.173,0.647,0.18
+221,5,season california breathing,INEVEREXISTEDD,"San Francisco, CA",en,0,621,,2020-09-09 17:31:32,-0.4201,0.174,0.826,0.0
+222,5,season california breathing,StoneAlex4U,,en,0,192,,2020-09-09 16:44:32,0.0258,0.173,0.647,0.18
+223,5,season california breathing,SafetyPinDaily,,en,1,149965,,2020-09-09 16:25:02,0.0258,0.142,0.71,0.148
+224,5,season california breathing,George80329642,,en,0,7,,2020-09-09 16:18:48,-0.0516,0.288,0.435,0.277
+225,5,season california breathing,hdmaher,"Santa Barbara, Ca",en,0,84,,2020-09-09 15:25:14,0.0258,0.173,0.647,0.18
+226,5,season california breathing,JohnLGoodman,Tuckahoe NY,en,0,796,,2020-09-09 13:06:11,0.0258,0.161,0.671,0.168
+227,5,season california breathing,feinberg_linda,,en,11,438,,2020-09-09 09:05:21,0.0258,0.151,0.692,0.157
+228,5,season california breathing,s_goding,"Southwest, Georgia 🍑🥜",en,0,2903,,2020-09-09 08:10:39,0.0258,0.142,0.71,0.148
+229,5,season california breathing,mitagator,"Pine, Colorado",en,0,9,,2020-09-09 08:03:07,0.0258,0.121,0.754,0.126
+230,5,season california breathing,thaitvnews,,en,0,32687,,2020-09-09 07:03:21,0.0258,0.173,0.647,0.18
+231,5,season california breathing,tomwhy1,,en,11,319,,2020-09-09 01:28:05,0.0258,0.151,0.692,0.157
+232,5,season california breathing,Newsdialy2,"Memphis, TN",en,0,3,,2020-09-09 00:51:14,0.0258,0.173,0.647,0.18
+233,5,season california breathing,msnweather,,en,0,7192,,2020-09-09 00:07:22,0.0258,0.173,0.647,0.18
+234,5,season california breathing,biobaby19,,en,11,821,,2020-09-08 23:57:00,0.0258,0.151,0.692,0.157
+235,5,season california breathing,Krickette01,,en,11,541,,2020-09-08 23:31:34,0.0258,0.151,0.692,0.157
+236,5,season california breathing,ActivistHat,,en,11,435,,2020-09-08 23:24:24,0.0258,0.151,0.692,0.157
+237,5,season california breathing,Calling_Belva,"Washington, DC",en,11,103,,2020-09-08 23:13:38,0.0258,0.151,0.692,0.157
+238,5,season california breathing,StarkerSusan,,en,11,119,,2020-09-08 23:12:15,0.0258,0.151,0.692,0.157
+239,5,season california breathing,Nathaniel78526,South Texas,en,11,3444,,2020-09-08 23:11:26,0.0258,0.151,0.692,0.157
+240,6,like luxury,GooseP3,The Dro!,en,13,916,,2020-09-09 20:31:33,0.0,0.0,1.0,0.0
+241,6,like luxury,WisNdom,"Nairobi, Kenya",en,3,377,,2020-09-09 20:31:17,0.3612,0.0,0.906,0.094
+242,6,like luxury,ForkMorton,,en,0,14,,2020-09-09 20:30:06,0.6597,0.0,0.828,0.172
+243,6,like luxury,Pred_X26,"Houston, TX",en,402,72,,2020-09-09 20:29:59,0.802,0.0,0.461,0.539
+244,6,like luxury,DevTheCapricorn,"Las Vegas, Nevada 📍",en,402,1056,,2020-09-09 20:29:56,0.802,0.0,0.461,0.539
+245,6,like luxury,KrissiKakes,Memphis Tn On Your Screen,en,402,170,,2020-09-09 20:28:58,0.802,0.0,0.461,0.539
+246,6,like luxury,Too_Luxury,"Wisconsin, USA",en,25,55258,,2020-09-09 20:28:57,0.6908,0.0,0.794,0.206
+247,6,like luxury,rxbyn_berry,"Liverpool, England",en,402,374,,2020-09-09 20:28:32,0.802,0.0,0.461,0.539
+248,6,like luxury,matchafanzz,,en,0,12,,2020-09-09 20:28:27,-0.2849,0.079,0.795,0.126
+249,6,like luxury,bbyfxiry,☉ capricorn ↑ leo ☽ capricorn,en,402,1984,,2020-09-09 20:27:58,0.802,0.0,0.461,0.539
+250,6,like luxury,JordanJSilvia,"Fall River, MA",en,0,825,,2020-09-09 20:27:41,0.7698,0.0,0.73,0.27
+251,6,like luxury,kimoneforbidden,"Jamaica, West Indies.",en,402,3002,,2020-09-09 20:26:59,0.802,0.0,0.461,0.539
+252,6,like luxury,Not_P_The16th,,en,0,68,,2020-09-09 20:25:00,0.2263,0.088,0.789,0.122
+253,6,like luxury,PadawanGene,,en,21,175,,2020-09-09 20:24:30,0.3612,0.0,0.857,0.143
+254,6,like luxury,clambrothglass,,en,0,11,,2020-09-09 20:24:23,0.7973,0.0,0.678,0.322
+255,6,like luxury,halessbloop,,en,402,213,,2020-09-09 20:23:09,0.802,0.0,0.461,0.539
+256,6,like luxury,AnnaRose1684,Earth?,en,0,103,,2020-09-09 20:23:09,0.5267,0.0,0.833,0.167
+257,6,like luxury,burder_z,,en,0,1,,2020-09-09 20:21:01,-0.7351,0.204,0.686,0.111
+258,6,like luxury,_marissaregina,"Chicago, IL",en,0,72,,2020-09-09 20:21:01,0.9022,0.0,0.518,0.482
+259,6,like luxury,xothelovelyleo,303,en,402,483,,2020-09-09 20:20:15,0.802,0.0,0.461,0.539
+260,7,myanmar army,AlexandarPavlov,Waterloo,en,1,304,,2020-09-09 20:30:54,0.0,0.0,1.0,0.0
+261,7,myanmar army,CBCTheNational,,en,1,316372,,2020-09-09 20:30:12,0.0,0.0,1.0,0.0
+262,7,myanmar army,Badrullah7,"Sharjah, United Arab Emirates",en,1,5,,2020-09-09 20:26:03,-0.6249,0.163,0.837,0.0
+263,7,myanmar army,Badrullah7,"Sharjah, United Arab Emirates",en,1,5,,2020-09-09 20:23:50,0.0,0.0,1.0,0.0
+264,7,myanmar army,Badrullah7,"Sharjah, United Arab Emirates",en,613,5,,2020-09-09 20:22:12,0.0,0.0,1.0,0.0
+265,7,myanmar army,userpeur,"Montpellier, France",en,613,68,,2020-09-09 20:14:43,0.0,0.0,1.0,0.0
+266,7,myanmar army,LynTeddy16,"Auckland, New Zealand",en,613,163,,2020-09-09 20:14:00,0.0,0.0,1.0,0.0
+267,7,myanmar army,Khizer91208947,المملكة الأردنية الهاشمية,en,372,88,,2020-09-09 20:12:28,0.0,0.0,1.0,0.0
+268,7,myanmar army,D94Morbid,,en,191,12,,2020-09-09 20:11:52,0.0,0.0,1.0,0.0
+269,7,myanmar army,anti_fascism_,,en,27,16,,2020-09-09 20:10:35,0.0,0.0,1.0,0.0
+270,7,myanmar army,shiberiatora,Vienna,en,613,26,,2020-09-09 20:08:36,0.0,0.0,1.0,0.0
+271,7,myanmar army,ImranGujjar76,,en,7,116,,2020-09-09 20:03:54,-0.7717,0.242,0.758,0.0
+272,7,myanmar army,ImranGujjar76,,en,13,116,,2020-09-09 20:03:42,-0.6249,0.17,0.83,0.0
+273,7,myanmar army,calebow,,en,613,50,,2020-09-09 20:03:40,0.0,0.0,1.0,0.0
+274,7,myanmar army,Masood_4u,"Chennai, India",en,613,93,,2020-09-09 19:57:54,0.0,0.0,1.0,0.0
+275,7,myanmar army,RedBullPapa,,en,372,2,,2020-09-09 19:57:26,0.0,0.0,1.0,0.0
+276,7,myanmar army,PoliticalTom,Southeast Texas,en,0,2521,,2020-09-09 19:50:52,-0.4975,0.167,0.833,0.0
+277,7,myanmar army,MillerOval,,en,73,183,,2020-09-09 19:42:35,0.5106,0.0,0.852,0.148
+278,7,myanmar army,Alisha_hamid1,Ølgod Denmark,en,7,5159,,2020-09-09 19:42:09,0.2732,0.0,0.896,0.104
+279,7,myanmar army,JohnSoe017,Myanmar,en,92,125,,2020-09-09 19:38:18,0.0,0.0,1.0,0.0
+280,1,border restrictions,GayeFreeman8,Townsville. North Queensland ,en,91,1021,,2020-09-09 20:32:15,-0.3566,0.09,0.91,0.0
+281,1,border restrictions,PreAmpPlus,,en,91,269,,2020-09-09 20:29:38,-0.3566,0.09,0.91,0.0
+282,1,border restrictions,Jasonsmumr,Redcliffe  QLD   Australia,en,91,1594,,2020-09-09 20:29:17,-0.3566,0.09,0.91,0.0
+283,1,border restrictions,bkbaguley,"Newcastle, New South Wales",en,91,3891,,2020-09-09 20:28:13,-0.3566,0.09,0.91,0.0
+284,1,border restrictions,RussiaUN,"New York, USA",en,0,53881,,2020-09-09 20:26:55,0.7845,0.038,0.773,0.19
+285,1,border restrictions,Mikel70965005,"Regina, Saskatchewan",en,2,338,,2020-09-09 20:25:15,0.5859,0.0,0.769,0.231
+286,1,border restrictions,jftalbot6,"Ontario, Canada",en,62,177,,2020-09-09 20:24:29,0.0,0.0,1.0,0.0
+287,1,border restrictions,giannam08134578,"Melbourne, Victoria",en,4,20,,2020-09-09 20:24:00,0.0,0.0,1.0,0.0
+288,1,border restrictions,JafariMreza,,en,5,7,,2020-09-09 20:21:35,-0.0346,0.192,0.62,0.188
+289,1,border restrictions,kfanani,,en,0,1,,2020-09-09 20:21:27,0.0,0.0,1.0,0.0
+290,1,border restrictions,yellowb97536670,"Sunny Coast, Queensland ",en,91,396,,2020-09-09 20:19:01,-0.3566,0.09,0.91,0.0
+291,1,border restrictions,CouplesRe,,en,8,124,,2020-09-09 20:19:00,0.0,0.0,1.0,0.0
+292,1,border restrictions,BrobergMatthew,"Oklahoma City, OK",en,12,7915,,2020-09-09 20:14:39,0.4926,0.0,0.873,0.127
+293,1,border restrictions,interfaithimm,"Washington, DC",en,11,1610,,2020-09-09 20:12:49,0.0,0.0,1.0,0.0
+294,1,border restrictions,DclemDeborah,"Harrison, TN",en,49,1979,,2020-09-09 20:12:43,-0.4404,0.162,0.838,0.0
+295,1,border restrictions,trstdtravlr,,en,0,36,,2020-09-09 20:09:13,0.0,0.0,1.0,0.0
+296,1,border restrictions,triefus,,en,91,71,,2020-09-09 20:05:44,-0.3566,0.09,0.91,0.0
+297,1,border restrictions,katenola,"New Orleans, LA",en,8,140,,2020-09-09 20:05:27,0.0,0.0,1.0,0.0
+298,1,border restrictions,Jr1Ken,,en,1,226,,2020-09-09 20:05:19,-0.4767,0.186,0.814,0.0
+299,1,border restrictions,familiatqlm,,en,11,3491,,2020-09-09 20:03:52,0.0,0.0,1.0,0.0
+300,2,confirm atrocities,Khizer91208947,المملكة الأردنية الهاشمية,en,372,88,,2020-09-09 20:12:28,0.0,0.0,1.0,0.0
+301,2,confirm atrocities,mehmets78719817,"Kızıltepe, Türkiye",en,0,1,,2020-09-09 20:02:17,0.0,0.0,1.0,0.0
+302,2,confirm atrocities,RedBullPapa,,en,372,2,,2020-09-09 19:57:26,0.0,0.0,1.0,0.0
+303,2,confirm atrocities,PoliticalTom,Southeast Texas,en,0,2521,,2020-09-09 19:50:52,-0.4975,0.167,0.833,0.0
+304,2,confirm atrocities,Indian047396771, India,en,372,95,,2020-09-09 19:31:53,0.0,0.0,1.0,0.0
+305,2,confirm atrocities,NasirMa29819242,,en,372,165,,2020-09-09 19:23:27,0.0,0.0,1.0,0.0
+306,2,confirm atrocities,RetrospectWhat,,en,372,39,,2020-09-09 19:14:21,0.0,0.0,1.0,0.0
+307,2,confirm atrocities,seculardemocrat,India,en,372,388,,2020-09-09 19:01:56,0.0,0.0,1.0,0.0
+308,2,confirm atrocities,matiullahjan222,"Khyber Pakhtunkhwa, Pakistan",en,372,32,,2020-09-09 18:59:01,0.0,0.0,1.0,0.0
+309,2,confirm atrocities,orthopsia,The Pleiades,en,6,1888,,2020-09-09 18:55:54,0.0,0.0,1.0,0.0
+310,2,confirm atrocities,osamalek,Theater Near You,en,372,168,,2020-09-09 18:39:57,0.0,0.0,1.0,0.0
+311,2,confirm atrocities,SMHoosayn,on the Edge of #HinduIsrael,en,8,275,,2020-09-09 18:39:12,0.0,0.0,1.0,0.0
+312,2,confirm atrocities,NadirrKhan,"New Delhi, India",en,372,7,,2020-09-09 18:38:54,0.0,0.0,1.0,0.0
+313,2,confirm atrocities,crimsonxskies,,en,6,69,,2020-09-09 18:25:43,0.0,0.0,1.0,0.0
+314,2,confirm atrocities,IamUmar_Farooq,"Laylpur, Pakistan ",en,372,476,,2020-09-09 18:17:49,0.0,0.0,1.0,0.0
+315,2,confirm atrocities,EtherealKashmir,US,en,372,69,,2020-09-09 18:12:44,0.0,0.0,1.0,0.0
+316,2,confirm atrocities,EzeakioDarmey,,en,6,49,,2020-09-09 18:09:55,0.0,0.0,1.0,0.0
+317,2,confirm atrocities,hasan27fahad,,en,372,11,,2020-09-09 18:05:51,0.0,0.0,1.0,0.0
+318,2,confirm atrocities,kanishka369,"Ghaziabad, India",en,372,37,,2020-09-09 18:05:51,0.0,0.0,1.0,0.0
+319,2,confirm atrocities,InfoSuch1,"Punjab, Pakistan",en,372,161,,2020-09-09 17:48:32,0.0,0.0,1.0,0.0
+320,3,california breathing feels,BassSonia,El universo,en,0,717,,2020-09-09 19:14:23,0.0258,0.173,0.647,0.18
+321,3,california breathing feels,StoneAlex4U,,en,0,192,,2020-09-09 16:44:32,0.0258,0.173,0.647,0.18
+322,3,california breathing feels,SafetyPinDaily,,en,1,149965,,2020-09-09 16:25:02,0.0258,0.142,0.71,0.148
+323,3,california breathing feels,hdmaher,"Santa Barbara, Ca",en,0,84,,2020-09-09 15:25:14,0.0258,0.173,0.647,0.18
+324,3,california breathing feels,AlexJamesFitz,New Jersey,en,5,29786,,2020-09-09 13:27:31,0.3612,0.0,0.894,0.106
+325,3,california breathing feels,aaltman82,"Washington, DC",en,5,5927,,2020-09-09 13:27:10,0.3612,0.0,0.894,0.106
+326,3,california breathing feels,LoriFradkin,"Brooklyn, NY",en,5,7640,,2020-09-09 13:25:00,0.3612,0.0,0.894,0.106
+327,3,california breathing feels,JohnLGoodman,Tuckahoe NY,en,0,796,,2020-09-09 13:06:11,0.0258,0.161,0.671,0.168
+328,3,california breathing feels,feinberg_linda,,en,11,438,,2020-09-09 09:05:21,0.0258,0.151,0.692,0.157
+329,3,california breathing feels,s_goding,"Southwest, Georgia 🍑🥜",en,0,2903,,2020-09-09 08:10:39,0.0258,0.142,0.71,0.148
+330,3,california breathing feels,mitagator,"Pine, Colorado",en,0,9,,2020-09-09 08:03:07,0.0258,0.121,0.754,0.126
+331,3,california breathing feels,thaitvnews,,en,0,32687,,2020-09-09 07:03:21,0.0258,0.173,0.647,0.18
+332,3,california breathing feels,tomwhy1,,en,11,319,,2020-09-09 01:28:05,0.0258,0.151,0.692,0.157
+333,3,california breathing feels,Newsdialy2,"Memphis, TN",en,0,3,,2020-09-09 00:51:14,0.0258,0.173,0.647,0.18
+334,3,california breathing feels,msnweather,,en,0,7192,,2020-09-09 00:07:22,0.0258,0.173,0.647,0.18
+335,3,california breathing feels,biobaby19,,en,11,821,,2020-09-08 23:57:00,0.0258,0.151,0.692,0.157
+336,3,california breathing feels,Krickette01,,en,11,541,,2020-09-08 23:31:34,0.0258,0.151,0.692,0.157
+337,3,california breathing feels,ActivistHat,,en,11,435,,2020-09-08 23:24:24,0.0258,0.151,0.692,0.157
+338,3,california breathing feels,chadterhune,Los Angeles,en,5,10138,,2020-09-08 23:19:03,0.3612,0.0,0.894,0.106
+339,3,california breathing feels,Calling_Belva,"Washington, DC",en,11,103,,2020-09-08 23:13:38,0.0258,0.151,0.692,0.157
+340,4,pironkova open quarterfinal,Dspark9ja,Occupy Till i Come!!!,en,32,735,,2020-09-09 20:31:32,-0.1531,0.109,0.803,0.088
+341,4,pironkova open quarterfinal,Ngcebor3,"Durban, South Africa",en,32,277,,2020-09-09 20:28:25,-0.1531,0.109,0.803,0.088
+342,4,pironkova open quarterfinal,StadiumAndy,"Boston, MA",en,0,974,,2020-09-09 20:07:45,0.4588,0.042,0.845,0.113
+343,4,pironkova open quarterfinal,LyfeStrange,,en,4,31,,2020-09-09 19:43:05,0.1027,0.098,0.789,0.113
+344,4,pironkova open quarterfinal,Bartzy14,"Medicine Hat, Alberta",en,4,482,,2020-09-09 19:42:07,0.1027,0.098,0.789,0.113
+345,4,pironkova open quarterfinal,nutyynys,joburg,en,32,603,,2020-09-09 19:30:44,-0.1531,0.109,0.803,0.088
+346,4,pironkova open quarterfinal,iamalbertkim,Global citizen,en,32,1059,,2020-09-09 19:27:38,-0.1531,0.109,0.803,0.088
+347,4,pironkova open quarterfinal,LVolsetto,"Cape Town, South Africa",en,32,1101,,2020-09-09 19:24:25,-0.1531,0.109,0.803,0.088
+348,4,pironkova open quarterfinal,KagisoMashabela,,en,32,184,,2020-09-09 19:22:00,-0.1531,0.109,0.803,0.088
+349,4,pironkova open quarterfinal,KAHZKAHZ,Around  you,en,32,2319,,2020-09-09 19:21:37,-0.1531,0.109,0.803,0.088
+350,4,pironkova open quarterfinal,inspiredceo1205,,en,32,130,,2020-09-09 19:21:24,-0.1531,0.109,0.803,0.088
+351,4,pironkova open quarterfinal,M____O____B,"Los Angeles, CA",en,32,1412,,2020-09-09 19:19:17,-0.1531,0.109,0.803,0.088
+352,4,pironkova open quarterfinal,Bongi_Kahuga,"Johannesburg, South Africa",en,32,385,,2020-09-09 19:17:25,-0.1531,0.109,0.803,0.088
+353,4,pironkova open quarterfinal,DanOvie_dor,Nigeria,en,32,410,,2020-09-09 19:15:54,-0.1531,0.109,0.803,0.088
+354,4,pironkova open quarterfinal,Xendusdelivery,"Ibadan, Nigeria",en,32,1154,,2020-09-09 19:14:14,-0.1531,0.109,0.803,0.088
+355,4,pironkova open quarterfinal,Nande_3,Windhoek Namibia ,en,32,713,,2020-09-09 19:13:07,-0.1531,0.109,0.803,0.088
+356,4,pironkova open quarterfinal,Rocksta_5,Vaal,en,32,334,,2020-09-09 19:12:36,-0.1531,0.109,0.803,0.088
+357,4,pironkova open quarterfinal,Juliusblety,"Lagos, Nigeria",en,32,221,,2020-09-09 19:11:54,-0.1531,0.109,0.803,0.088
+358,4,pironkova open quarterfinal,lehadimabathong,,en,32,378,,2020-09-09 19:10:42,-0.1531,0.109,0.803,0.088
+359,4,pironkova open quarterfinal,TBolokang,South Africa,en,32,1354,,2020-09-09 19:10:30,-0.1531,0.109,0.803,0.088
+360,5,season california breathing,BassSonia,El universo,en,0,717,,2020-09-09 19:14:23,0.0258,0.173,0.647,0.18
+361,5,season california breathing,INEVEREXISTEDD,"San Francisco, CA",en,0,621,,2020-09-09 17:31:32,-0.4201,0.174,0.826,0.0
+362,5,season california breathing,StoneAlex4U,,en,0,192,,2020-09-09 16:44:32,0.0258,0.173,0.647,0.18
+363,5,season california breathing,SafetyPinDaily,,en,1,149965,,2020-09-09 16:25:02,0.0258,0.142,0.71,0.148
+364,5,season california breathing,George80329642,,en,0,7,,2020-09-09 16:18:48,-0.0516,0.288,0.435,0.277
+365,5,season california breathing,hdmaher,"Santa Barbara, Ca",en,0,84,,2020-09-09 15:25:14,0.0258,0.173,0.647,0.18
+366,5,season california breathing,JohnLGoodman,Tuckahoe NY,en,0,796,,2020-09-09 13:06:11,0.0258,0.161,0.671,0.168
+367,5,season california breathing,feinberg_linda,,en,11,438,,2020-09-09 09:05:21,0.0258,0.151,0.692,0.157
+368,5,season california breathing,s_goding,"Southwest, Georgia 🍑🥜",en,0,2903,,2020-09-09 08:10:39,0.0258,0.142,0.71,0.148
+369,5,season california breathing,mitagator,"Pine, Colorado",en,0,9,,2020-09-09 08:03:07,0.0258,0.121,0.754,0.126
+370,5,season california breathing,thaitvnews,,en,0,32687,,2020-09-09 07:03:21,0.0258,0.173,0.647,0.18
+371,5,season california breathing,tomwhy1,,en,11,319,,2020-09-09 01:28:05,0.0258,0.151,0.692,0.157
+372,5,season california breathing,Newsdialy2,"Memphis, TN",en,0,3,,2020-09-09 00:51:14,0.0258,0.173,0.647,0.18
+373,5,season california breathing,msnweather,,en,0,7192,,2020-09-09 00:07:22,0.0258,0.173,0.647,0.18
+374,5,season california breathing,biobaby19,,en,11,821,,2020-09-08 23:57:00,0.0258,0.151,0.692,0.157
+375,5,season california breathing,Krickette01,,en,11,541,,2020-09-08 23:31:34,0.0258,0.151,0.692,0.157
+376,5,season california breathing,ActivistHat,,en,11,435,,2020-09-08 23:24:24,0.0258,0.151,0.692,0.157
+377,5,season california breathing,Calling_Belva,"Washington, DC",en,11,103,,2020-09-08 23:13:38,0.0258,0.151,0.692,0.157
+378,5,season california breathing,StarkerSusan,,en,11,119,,2020-09-08 23:12:15,0.0258,0.151,0.692,0.157
+379,5,season california breathing,Nathaniel78526,South Texas,en,11,3444,,2020-09-08 23:11:26,0.0258,0.151,0.692,0.157
+380,6,like luxury,GooseP3,The Dro!,en,13,916,,2020-09-09 20:31:33,0.0,0.0,1.0,0.0
+381,6,like luxury,WisNdom,"Nairobi, Kenya",en,3,377,,2020-09-09 20:31:17,0.3612,0.0,0.906,0.094
+382,6,like luxury,ForkMorton,,en,0,14,,2020-09-09 20:30:06,0.6597,0.0,0.828,0.172
+383,6,like luxury,Pred_X26,"Houston, TX",en,402,72,,2020-09-09 20:29:59,0.802,0.0,0.461,0.539
+384,6,like luxury,DevTheCapricorn,"Las Vegas, Nevada 📍",en,402,1056,,2020-09-09 20:29:56,0.802,0.0,0.461,0.539
+385,6,like luxury,KrissiKakes,Memphis Tn On Your Screen,en,402,170,,2020-09-09 20:28:58,0.802,0.0,0.461,0.539
+386,6,like luxury,Too_Luxury,"Wisconsin, USA",en,25,55258,,2020-09-09 20:28:57,0.6908,0.0,0.794,0.206
+387,6,like luxury,rxbyn_berry,"Liverpool, England",en,402,374,,2020-09-09 20:28:32,0.802,0.0,0.461,0.539
+388,6,like luxury,matchafanzz,,en,0,12,,2020-09-09 20:28:27,-0.2849,0.079,0.795,0.126
+389,6,like luxury,bbyfxiry,☉ capricorn ↑ leo ☽ capricorn,en,402,1984,,2020-09-09 20:27:58,0.802,0.0,0.461,0.539
+390,6,like luxury,JordanJSilvia,"Fall River, MA",en,0,825,,2020-09-09 20:27:41,0.7698,0.0,0.73,0.27
+391,6,like luxury,kimoneforbidden,"Jamaica, West Indies.",en,402,3002,,2020-09-09 20:26:59,0.802,0.0,0.461,0.539
+392,6,like luxury,Not_P_The16th,,en,0,68,,2020-09-09 20:25:00,0.2263,0.088,0.789,0.122
+393,6,like luxury,PadawanGene,,en,21,175,,2020-09-09 20:24:30,0.3612,0.0,0.857,0.143
+394,6,like luxury,clambrothglass,,en,0,11,,2020-09-09 20:24:23,0.7973,0.0,0.678,0.322
+395,6,like luxury,halessbloop,,en,402,213,,2020-09-09 20:23:09,0.802,0.0,0.461,0.539
+396,6,like luxury,AnnaRose1684,Earth?,en,0,103,,2020-09-09 20:23:09,0.5267,0.0,0.833,0.167
+397,6,like luxury,burder_z,,en,0,1,,2020-09-09 20:21:01,-0.7351,0.204,0.686,0.111
+398,6,like luxury,_marissaregina,"Chicago, IL",en,0,72,,2020-09-09 20:21:01,0.9022,0.0,0.518,0.482
+399,6,like luxury,xothelovelyleo,303,en,402,483,,2020-09-09 20:20:15,0.802,0.0,0.461,0.539
+400,7,myanmar army,AlexandarPavlov,Waterloo,en,1,304,,2020-09-09 20:30:54,0.0,0.0,1.0,0.0
+401,7,myanmar army,CBCTheNational,,en,1,316372,,2020-09-09 20:30:12,0.0,0.0,1.0,0.0
+402,7,myanmar army,Badrullah7,"Sharjah, United Arab Emirates",en,1,5,,2020-09-09 20:26:03,-0.6249,0.163,0.837,0.0
+403,7,myanmar army,Badrullah7,"Sharjah, United Arab Emirates",en,1,5,,2020-09-09 20:23:50,0.0,0.0,1.0,0.0
+404,7,myanmar army,Badrullah7,"Sharjah, United Arab Emirates",en,613,5,,2020-09-09 20:22:12,0.0,0.0,1.0,0.0
+405,7,myanmar army,userpeur,"Montpellier, France",en,613,68,,2020-09-09 20:14:43,0.0,0.0,1.0,0.0
+406,7,myanmar army,LynTeddy16,"Auckland, New Zealand",en,613,163,,2020-09-09 20:14:00,0.0,0.0,1.0,0.0
+407,7,myanmar army,Khizer91208947,المملكة الأردنية الهاشمية,en,372,88,,2020-09-09 20:12:28,0.0,0.0,1.0,0.0
+408,7,myanmar army,D94Morbid,,en,191,12,,2020-09-09 20:11:52,0.0,0.0,1.0,0.0
+409,7,myanmar army,anti_fascism_,,en,27,16,,2020-09-09 20:10:35,0.0,0.0,1.0,0.0
+410,7,myanmar army,shiberiatora,Vienna,en,613,26,,2020-09-09 20:08:36,0.0,0.0,1.0,0.0
+411,7,myanmar army,ImranGujjar76,,en,7,116,,2020-09-09 20:03:54,-0.7717,0.242,0.758,0.0
+412,7,myanmar army,ImranGujjar76,,en,13,116,,2020-09-09 20:03:42,-0.6249,0.17,0.83,0.0
+413,7,myanmar army,calebow,,en,613,50,,2020-09-09 20:03:40,0.0,0.0,1.0,0.0
+414,7,myanmar army,Masood_4u,"Chennai, India",en,613,93,,2020-09-09 19:57:54,0.0,0.0,1.0,0.0
+415,7,myanmar army,RedBullPapa,,en,372,2,,2020-09-09 19:57:26,0.0,0.0,1.0,0.0
+416,7,myanmar army,PoliticalTom,Southeast Texas,en,0,2521,,2020-09-09 19:50:52,-0.4975,0.167,0.833,0.0
+417,7,myanmar army,MillerOval,,en,73,183,,2020-09-09 19:42:35,0.5106,0.0,0.852,0.148
+418,7,myanmar army,Alisha_hamid1,Ølgod Denmark,en,7,5159,,2020-09-09 19:42:09,0.2732,0.0,0.896,0.104
+419,7,myanmar army,JohnSoe017,Myanmar,en,92,125,,2020-09-09 19:38:18,0.0,0.0,1.0,0.0
+420,1,border restrictions,GayeFreeman8,Townsville. North Queensland ,en,91,1021,,2020-09-09 20:32:15,-0.3566,0.09,0.91,0.0
+421,1,border restrictions,PreAmpPlus,,en,91,269,,2020-09-09 20:29:38,-0.3566,0.09,0.91,0.0
+422,1,border restrictions,Jasonsmumr,Redcliffe  QLD   Australia,en,91,1594,,2020-09-09 20:29:17,-0.3566,0.09,0.91,0.0
+423,1,border restrictions,bkbaguley,"Newcastle, New South Wales",en,91,3891,,2020-09-09 20:28:13,-0.3566,0.09,0.91,0.0
+424,1,border restrictions,RussiaUN,"New York, USA",en,0,53881,,2020-09-09 20:26:55,0.7845,0.038,0.773,0.19
+425,1,border restrictions,Mikel70965005,"Regina, Saskatchewan",en,2,338,,2020-09-09 20:25:15,0.5859,0.0,0.769,0.231
+426,1,border restrictions,jftalbot6,"Ontario, Canada",en,62,177,,2020-09-09 20:24:29,0.0,0.0,1.0,0.0
+427,1,border restrictions,giannam08134578,"Melbourne, Victoria",en,4,20,,2020-09-09 20:24:00,0.0,0.0,1.0,0.0
+428,1,border restrictions,JafariMreza,,en,5,7,,2020-09-09 20:21:35,-0.0346,0.192,0.62,0.188
+429,1,border restrictions,kfanani,,en,0,1,,2020-09-09 20:21:27,0.0,0.0,1.0,0.0
+430,1,border restrictions,yellowb97536670,"Sunny Coast, Queensland ",en,91,396,,2020-09-09 20:19:01,-0.3566,0.09,0.91,0.0
+431,1,border restrictions,CouplesRe,,en,8,124,,2020-09-09 20:19:00,0.0,0.0,1.0,0.0
+432,1,border restrictions,BrobergMatthew,"Oklahoma City, OK",en,12,7915,,2020-09-09 20:14:39,0.4926,0.0,0.873,0.127
+433,1,border restrictions,interfaithimm,"Washington, DC",en,11,1610,,2020-09-09 20:12:49,0.0,0.0,1.0,0.0
+434,1,border restrictions,DclemDeborah,"Harrison, TN",en,49,1979,,2020-09-09 20:12:43,-0.4404,0.162,0.838,0.0
+435,1,border restrictions,trstdtravlr,,en,0,36,,2020-09-09 20:09:13,0.0,0.0,1.0,0.0
+436,1,border restrictions,triefus,,en,91,71,,2020-09-09 20:05:44,-0.3566,0.09,0.91,0.0
+437,1,border restrictions,katenola,"New Orleans, LA",en,8,140,,2020-09-09 20:05:27,0.0,0.0,1.0,0.0
+438,1,border restrictions,Jr1Ken,,en,1,226,,2020-09-09 20:05:19,-0.4767,0.186,0.814,0.0
+439,1,border restrictions,familiatqlm,,en,11,3491,,2020-09-09 20:03:52,0.0,0.0,1.0,0.0
+440,2,confirm atrocities,Khizer91208947,المملكة الأردنية الهاشمية,en,372,88,,2020-09-09 20:12:28,0.0,0.0,1.0,0.0
+441,2,confirm atrocities,mehmets78719817,"Kızıltepe, Türkiye",en,0,1,,2020-09-09 20:02:17,0.0,0.0,1.0,0.0
+442,2,confirm atrocities,RedBullPapa,,en,372,2,,2020-09-09 19:57:26,0.0,0.0,1.0,0.0
+443,2,confirm atrocities,PoliticalTom,Southeast Texas,en,0,2521,,2020-09-09 19:50:52,-0.4975,0.167,0.833,0.0
+444,2,confirm atrocities,Indian047396771, India,en,372,95,,2020-09-09 19:31:53,0.0,0.0,1.0,0.0
+445,2,confirm atrocities,NasirMa29819242,,en,372,165,,2020-09-09 19:23:27,0.0,0.0,1.0,0.0
+446,2,confirm atrocities,RetrospectWhat,,en,372,39,,2020-09-09 19:14:21,0.0,0.0,1.0,0.0
+447,2,confirm atrocities,seculardemocrat,India,en,372,388,,2020-09-09 19:01:56,0.0,0.0,1.0,0.0
+448,2,confirm atrocities,matiullahjan222,"Khyber Pakhtunkhwa, Pakistan",en,372,32,,2020-09-09 18:59:01,0.0,0.0,1.0,0.0
+449,2,confirm atrocities,orthopsia,The Pleiades,en,6,1888,,2020-09-09 18:55:54,0.0,0.0,1.0,0.0
+450,2,confirm atrocities,osamalek,Theater Near You,en,372,168,,2020-09-09 18:39:57,0.0,0.0,1.0,0.0
+451,2,confirm atrocities,SMHoosayn,on the Edge of #HinduIsrael,en,8,275,,2020-09-09 18:39:12,0.0,0.0,1.0,0.0
+452,2,confirm atrocities,NadirrKhan,"New Delhi, India",en,372,7,,2020-09-09 18:38:54,0.0,0.0,1.0,0.0
+453,2,confirm atrocities,crimsonxskies,,en,6,69,,2020-09-09 18:25:43,0.0,0.0,1.0,0.0
+454,2,confirm atrocities,IamUmar_Farooq,"Laylpur, Pakistan ",en,372,476,,2020-09-09 18:17:49,0.0,0.0,1.0,0.0
+455,2,confirm atrocities,EtherealKashmir,US,en,372,69,,2020-09-09 18:12:44,0.0,0.0,1.0,0.0
+456,2,confirm atrocities,EzeakioDarmey,,en,6,49,,2020-09-09 18:09:55,0.0,0.0,1.0,0.0
+457,2,confirm atrocities,hasan27fahad,,en,372,11,,2020-09-09 18:05:51,0.0,0.0,1.0,0.0
+458,2,confirm atrocities,kanishka369,"Ghaziabad, India",en,372,37,,2020-09-09 18:05:51,0.0,0.0,1.0,0.0
+459,2,confirm atrocities,InfoSuch1,"Punjab, Pakistan",en,372,161,,2020-09-09 17:48:32,0.0,0.0,1.0,0.0
+460,3,california breathing feels,BassSonia,El universo,en,0,717,,2020-09-09 19:14:23,0.0258,0.173,0.647,0.18
+461,3,california breathing feels,StoneAlex4U,,en,0,192,,2020-09-09 16:44:32,0.0258,0.173,0.647,0.18
+462,3,california breathing feels,SafetyPinDaily,,en,1,149965,,2020-09-09 16:25:02,0.0258,0.142,0.71,0.148
+463,3,california breathing feels,hdmaher,"Santa Barbara, Ca",en,0,84,,2020-09-09 15:25:14,0.0258,0.173,0.647,0.18
+464,3,california breathing feels,AlexJamesFitz,New Jersey,en,5,29786,,2020-09-09 13:27:31,0.3612,0.0,0.894,0.106
+465,3,california breathing feels,aaltman82,"Washington, DC",en,5,5927,,2020-09-09 13:27:10,0.3612,0.0,0.894,0.106
+466,3,california breathing feels,LoriFradkin,"Brooklyn, NY",en,5,7640,,2020-09-09 13:25:00,0.3612,0.0,0.894,0.106
+467,3,california breathing feels,JohnLGoodman,Tuckahoe NY,en,0,796,,2020-09-09 13:06:11,0.0258,0.161,0.671,0.168
+468,3,california breathing feels,feinberg_linda,,en,11,438,,2020-09-09 09:05:21,0.0258,0.151,0.692,0.157
+469,3,california breathing feels,s_goding,"Southwest, Georgia 🍑🥜",en,0,2903,,2020-09-09 08:10:39,0.0258,0.142,0.71,0.148
+470,3,california breathing feels,mitagator,"Pine, Colorado",en,0,9,,2020-09-09 08:03:07,0.0258,0.121,0.754,0.126
+471,3,california breathing feels,thaitvnews,,en,0,32687,,2020-09-09 07:03:21,0.0258,0.173,0.647,0.18
+472,3,california breathing feels,tomwhy1,,en,11,319,,2020-09-09 01:28:05,0.0258,0.151,0.692,0.157
+473,3,california breathing feels,Newsdialy2,"Memphis, TN",en,0,3,,2020-09-09 00:51:14,0.0258,0.173,0.647,0.18
+474,3,california breathing feels,msnweather,,en,0,7192,,2020-09-09 00:07:22,0.0258,0.173,0.647,0.18
+475,3,california breathing feels,biobaby19,,en,11,821,,2020-09-08 23:57:00,0.0258,0.151,0.692,0.157
+476,3,california breathing feels,Krickette01,,en,11,541,,2020-09-08 23:31:34,0.0258,0.151,0.692,0.157
+477,3,california breathing feels,ActivistHat,,en,11,435,,2020-09-08 23:24:24,0.0258,0.151,0.692,0.157
+478,3,california breathing feels,chadterhune,Los Angeles,en,5,10138,,2020-09-08 23:19:03,0.3612,0.0,0.894,0.106
+479,3,california breathing feels,Calling_Belva,"Washington, DC",en,11,103,,2020-09-08 23:13:38,0.0258,0.151,0.692,0.157
+480,4,pironkova open quarterfinal,Dspark9ja,Occupy Till i Come!!!,en,32,735,,2020-09-09 20:31:32,-0.1531,0.109,0.803,0.088
+481,4,pironkova open quarterfinal,Ngcebor3,"Durban, South Africa",en,32,277,,2020-09-09 20:28:25,-0.1531,0.109,0.803,0.088
+482,4,pironkova open quarterfinal,StadiumAndy,"Boston, MA",en,0,974,,2020-09-09 20:07:45,0.4588,0.042,0.845,0.113
+483,4,pironkova open quarterfinal,LyfeStrange,,en,4,31,,2020-09-09 19:43:05,0.1027,0.098,0.789,0.113
+484,4,pironkova open quarterfinal,Bartzy14,"Medicine Hat, Alberta",en,4,482,,2020-09-09 19:42:07,0.1027,0.098,0.789,0.113
+485,4,pironkova open quarterfinal,nutyynys,joburg,en,32,603,,2020-09-09 19:30:44,-0.1531,0.109,0.803,0.088
+486,4,pironkova open quarterfinal,iamalbertkim,Global citizen,en,32,1059,,2020-09-09 19:27:38,-0.1531,0.109,0.803,0.088
+487,4,pironkova open quarterfinal,LVolsetto,"Cape Town, South Africa",en,32,1101,,2020-09-09 19:24:25,-0.1531,0.109,0.803,0.088
+488,4,pironkova open quarterfinal,KagisoMashabela,,en,32,184,,2020-09-09 19:22:00,-0.1531,0.109,0.803,0.088
+489,4,pironkova open quarterfinal,KAHZKAHZ,Around  you,en,32,2319,,2020-09-09 19:21:37,-0.1531,0.109,0.803,0.088
+490,4,pironkova open quarterfinal,inspiredceo1205,,en,32,130,,2020-09-09 19:21:24,-0.1531,0.109,0.803,0.088
+491,4,pironkova open quarterfinal,M____O____B,"Los Angeles, CA",en,32,1412,,2020-09-09 19:19:17,-0.1531,0.109,0.803,0.088
+492,4,pironkova open quarterfinal,Bongi_Kahuga,"Johannesburg, South Africa",en,32,385,,2020-09-09 19:17:25,-0.1531,0.109,0.803,0.088
+493,4,pironkova open quarterfinal,DanOvie_dor,Nigeria,en,32,410,,2020-09-09 19:15:54,-0.1531,0.109,0.803,0.088
+494,4,pironkova open quarterfinal,Xendusdelivery,"Ibadan, Nigeria",en,32,1154,,2020-09-09 19:14:14,-0.1531,0.109,0.803,0.088
+495,4,pironkova open quarterfinal,Nande_3,Windhoek Namibia ,en,32,713,,2020-09-09 19:13:07,-0.1531,0.109,0.803,0.088
+496,4,pironkova open quarterfinal,Rocksta_5,Vaal,en,32,334,,2020-09-09 19:12:36,-0.1531,0.109,0.803,0.088
+497,4,pironkova open quarterfinal,Juliusblety,"Lagos, Nigeria",en,32,221,,2020-09-09 19:11:54,-0.1531,0.109,0.803,0.088
+498,4,pironkova open quarterfinal,lehadimabathong,,en,32,378,,2020-09-09 19:10:42,-0.1531,0.109,0.803,0.088
+499,4,pironkova open quarterfinal,TBolokang,South Africa,en,32,1354,,2020-09-09 19:10:30,-0.1531,0.109,0.803,0.088
+500,5,season california breathing,BassSonia,El universo,en,0,717,,2020-09-09 19:14:23,0.0258,0.173,0.647,0.18
+501,5,season california breathing,INEVEREXISTEDD,"San Francisco, CA",en,0,621,,2020-09-09 17:31:32,-0.4201,0.174,0.826,0.0
+502,5,season california breathing,StoneAlex4U,,en,0,192,,2020-09-09 16:44:32,0.0258,0.173,0.647,0.18
+503,5,season california breathing,SafetyPinDaily,,en,1,149965,,2020-09-09 16:25:02,0.0258,0.142,0.71,0.148
+504,5,season california breathing,George80329642,,en,0,7,,2020-09-09 16:18:48,-0.0516,0.288,0.435,0.277
+505,5,season california breathing,hdmaher,"Santa Barbara, Ca",en,0,84,,2020-09-09 15:25:14,0.0258,0.173,0.647,0.18
+506,5,season california breathing,JohnLGoodman,Tuckahoe NY,en,0,796,,2020-09-09 13:06:11,0.0258,0.161,0.671,0.168
+507,5,season california breathing,feinberg_linda,,en,11,438,,2020-09-09 09:05:21,0.0258,0.151,0.692,0.157
+508,5,season california breathing,s_goding,"Southwest, Georgia 🍑🥜",en,0,2903,,2020-09-09 08:10:39,0.0258,0.142,0.71,0.148
+509,5,season california breathing,mitagator,"Pine, Colorado",en,0,9,,2020-09-09 08:03:07,0.0258,0.121,0.754,0.126
+510,5,season california breathing,thaitvnews,,en,0,32687,,2020-09-09 07:03:21,0.0258,0.173,0.647,0.18
+511,5,season california breathing,tomwhy1,,en,11,319,,2020-09-09 01:28:05,0.0258,0.151,0.692,0.157
+512,5,season california breathing,Newsdialy2,"Memphis, TN",en,0,3,,2020-09-09 00:51:14,0.0258,0.173,0.647,0.18
+513,5,season california breathing,msnweather,,en,0,7192,,2020-09-09 00:07:22,0.0258,0.173,0.647,0.18
+514,5,season california breathing,biobaby19,,en,11,821,,2020-09-08 23:57:00,0.0258,0.151,0.692,0.157
+515,5,season california breathing,Krickette01,,en,11,541,,2020-09-08 23:31:34,0.0258,0.151,0.692,0.157
+516,5,season california breathing,ActivistHat,,en,11,435,,2020-09-08 23:24:24,0.0258,0.151,0.692,0.157
+517,5,season california breathing,Calling_Belva,"Washington, DC",en,11,103,,2020-09-08 23:13:38,0.0258,0.151,0.692,0.157
+518,5,season california breathing,StarkerSusan,,en,11,119,,2020-09-08 23:12:15,0.0258,0.151,0.692,0.157
+519,5,season california breathing,Nathaniel78526,South Texas,en,11,3444,,2020-09-08 23:11:26,0.0258,0.151,0.692,0.157
+520,6,like luxury,GooseP3,The Dro!,en,13,916,,2020-09-09 20:31:33,0.0,0.0,1.0,0.0
+521,6,like luxury,WisNdom,"Nairobi, Kenya",en,3,377,,2020-09-09 20:31:17,0.3612,0.0,0.906,0.094
+522,6,like luxury,ForkMorton,,en,0,14,,2020-09-09 20:30:06,0.6597,0.0,0.828,0.172
+523,6,like luxury,Pred_X26,"Houston, TX",en,402,72,,2020-09-09 20:29:59,0.802,0.0,0.461,0.539
+524,6,like luxury,DevTheCapricorn,"Las Vegas, Nevada 📍",en,402,1056,,2020-09-09 20:29:56,0.802,0.0,0.461,0.539
+525,6,like luxury,KrissiKakes,Memphis Tn On Your Screen,en,402,170,,2020-09-09 20:28:58,0.802,0.0,0.461,0.539
+526,6,like luxury,Too_Luxury,"Wisconsin, USA",en,25,55258,,2020-09-09 20:28:57,0.6908,0.0,0.794,0.206
+527,6,like luxury,rxbyn_berry,"Liverpool, England",en,402,374,,2020-09-09 20:28:32,0.802,0.0,0.461,0.539
+528,6,like luxury,matchafanzz,,en,0,12,,2020-09-09 20:28:27,-0.2849,0.079,0.795,0.126
+529,6,like luxury,bbyfxiry,☉ capricorn ↑ leo ☽ capricorn,en,402,1984,,2020-09-09 20:27:58,0.802,0.0,0.461,0.539
+530,6,like luxury,JordanJSilvia,"Fall River, MA",en,0,825,,2020-09-09 20:27:41,0.7698,0.0,0.73,0.27
+531,6,like luxury,kimoneforbidden,"Jamaica, West Indies.",en,402,3002,,2020-09-09 20:26:59,0.802,0.0,0.461,0.539
+532,6,like luxury,Not_P_The16th,,en,0,68,,2020-09-09 20:25:00,0.2263,0.088,0.789,0.122
+533,6,like luxury,PadawanGene,,en,21,175,,2020-09-09 20:24:30,0.3612,0.0,0.857,0.143
+534,6,like luxury,clambrothglass,,en,0,11,,2020-09-09 20:24:23,0.7973,0.0,0.678,0.322
+535,6,like luxury,halessbloop,,en,402,213,,2020-09-09 20:23:09,0.802,0.0,0.461,0.539
+536,6,like luxury,AnnaRose1684,Earth?,en,0,103,,2020-09-09 20:23:09,0.5267,0.0,0.833,0.167
+537,6,like luxury,burder_z,,en,0,1,,2020-09-09 20:21:01,-0.7351,0.204,0.686,0.111
+538,6,like luxury,_marissaregina,"Chicago, IL",en,0,72,,2020-09-09 20:21:01,0.9022,0.0,0.518,0.482
+539,6,like luxury,xothelovelyleo,303,en,402,483,,2020-09-09 20:20:15,0.802,0.0,0.461,0.539
+540,7,myanmar army,AlexandarPavlov,Waterloo,en,1,304,,2020-09-09 20:30:54,0.0,0.0,1.0,0.0
+541,7,myanmar army,CBCTheNational,,en,1,316372,,2020-09-09 20:30:12,0.0,0.0,1.0,0.0
+542,7,myanmar army,Badrullah7,"Sharjah, United Arab Emirates",en,1,5,,2020-09-09 20:26:03,-0.6249,0.163,0.837,0.0
+543,7,myanmar army,Badrullah7,"Sharjah, United Arab Emirates",en,1,5,,2020-09-09 20:23:50,0.0,0.0,1.0,0.0
+544,7,myanmar army,Badrullah7,"Sharjah, United Arab Emirates",en,613,5,,2020-09-09 20:22:12,0.0,0.0,1.0,0.0
+545,7,myanmar army,userpeur,"Montpellier, France",en,613,68,,2020-09-09 20:14:43,0.0,0.0,1.0,0.0
+546,7,myanmar army,LynTeddy16,"Auckland, New Zealand",en,613,163,,2020-09-09 20:14:00,0.0,0.0,1.0,0.0
+547,7,myanmar army,Khizer91208947,المملكة الأردنية الهاشمية,en,372,88,,2020-09-09 20:12:28,0.0,0.0,1.0,0.0
+548,7,myanmar army,D94Morbid,,en,191,12,,2020-09-09 20:11:52,0.0,0.0,1.0,0.0
+549,7,myanmar army,anti_fascism_,,en,27,16,,2020-09-09 20:10:35,0.0,0.0,1.0,0.0
+550,7,myanmar army,shiberiatora,Vienna,en,613,26,,2020-09-09 20:08:36,0.0,0.0,1.0,0.0
+551,7,myanmar army,ImranGujjar76,,en,7,116,,2020-09-09 20:03:54,-0.7717,0.242,0.758,0.0
+552,7,myanmar army,ImranGujjar76,,en,13,116,,2020-09-09 20:03:42,-0.6249,0.17,0.83,0.0
+553,7,myanmar army,calebow,,en,613,50,,2020-09-09 20:03:40,0.0,0.0,1.0,0.0
+554,7,myanmar army,Masood_4u,"Chennai, India",en,613,93,,2020-09-09 19:57:54,0.0,0.0,1.0,0.0
+555,7,myanmar army,RedBullPapa,,en,372,2,,2020-09-09 19:57:26,0.0,0.0,1.0,0.0
+556,7,myanmar army,PoliticalTom,Southeast Texas,en,0,2521,,2020-09-09 19:50:52,-0.4975,0.167,0.833,0.0
+557,7,myanmar army,MillerOval,,en,73,183,,2020-09-09 19:42:35,0.5106,0.0,0.852,0.148
+558,7,myanmar army,Alisha_hamid1,Ølgod Denmark,en,7,5159,,2020-09-09 19:42:09,0.2732,0.0,0.896,0.104
+559,7,myanmar army,JohnSoe017,Myanmar,en,92,125,,2020-09-09 19:38:18,0.0,0.0,1.0,0.0
+560,10,california breathing,Anonymo60155188,,en,301,1,,2020-09-09 20:31:04,-0.296,0.091,0.909,0.0
+561,10,california breathing,mrityug,"Irvine, CA",en,1,168,,2020-09-09 20:31:02,0.0,0.0,1.0,0.0
+562,10,california breathing,joeecasarez,Central California,en,0,447,,2020-09-09 20:27:33,-0.5423,0.156,0.844,0.0
+563,10,california breathing,emogothchick420,"Los Angeles, CA",en,51,32,,2020-09-09 20:25:55,0.0,0.127,0.709,0.164
+564,10,california breathing,MeganAnderson47,,en,51,331,,2020-09-09 20:24:06,0.0,0.127,0.709,0.164
+565,10,california breathing,Hegel13579,"South San Francisco, CA",en,301,629,,2020-09-09 20:21:41,-0.296,0.091,0.909,0.0
+566,10,california breathing,tiredandtan,⚢ 𓂀,en,51,1764,,2020-09-09 20:16:59,0.0,0.127,0.709,0.164
+567,10,california breathing,RagzGraphics,"Los Angeles, CA",en,6,22,,2020-09-09 20:16:08,-0.474,0.176,0.728,0.096
+568,10,california breathing,Dolf24801429,,en,301,9,,2020-09-09 20:15:56,-0.296,0.091,0.909,0.0
+569,10,california breathing,LoriHPhoton,98008,en,1,93,,2020-09-09 20:15:21,0.0,0.0,1.0,0.0
+570,10,california breathing,spumoni011112,"Wisconsin, USA",en,301,1313,,2020-09-09 20:15:07,-0.296,0.091,0.909,0.0
+571,10,california breathing,tiny_tuba,occupied Tongva land,en,0,373,,2020-09-09 20:14:45,-0.2732,0.067,0.896,0.036
+572,10,california breathing,AimeeElizabet63,"Las Vegas, Nevada",en,301,2070,,2020-09-09 20:14:32,-0.296,0.091,0.909,0.0
+573,10,california breathing,realikamusume,海の家れもん,en,301,2598,,2020-09-09 20:13:59,-0.296,0.091,0.909,0.0
+574,10,california breathing,RachelLarris,"Washington, DC",en,1,6021,,2020-09-09 20:13:53,0.8555,0.0,0.615,0.385
+575,10,california breathing,reason2sense,,en,301,5848,,2020-09-09 20:11:39,-0.296,0.091,0.909,0.0
+576,10,california breathing,criswinters,,en,17,1053,,2020-09-09 20:10:50,0.0,0.0,1.0,0.0
+577,10,california breathing,NeemaJoe123,"Dar es Salaam, Tanzania",en,301,610,,2020-09-09 20:09:58,-0.296,0.091,0.909,0.0
+578,10,california breathing,stealthynyc,,en,301,1050,,2020-09-09 20:08:28,-0.296,0.091,0.909,0.0
+579,10,california breathing,KrapelsMarco,San Francisco ,en,1,2808,,2020-09-09 20:05:42,0.0,0.0,1.0,0.0

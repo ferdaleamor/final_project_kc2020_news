@@ -1,288 +1,201 @@
 ,num_topic,topic,user,location,language,retweet_count,followers_count,geo_location,created_at,compound,neg,neu,pos
-0,1,devenue beaucoup,liamsi75,,fr,0,11,,2020-09-10 04:09:38,0.0,0.0,1.0,0.0
-1,1,devenue beaucoup,Anne47Anne,,fr,0,612,,2020-09-10 01:59:45,0.4588,0.0,0.923,0.077
-2,1,devenue beaucoup,SemailleAndCo,Belgique,fr,0,177,,2020-09-09 22:30:31,0.0,0.0,1.0,0.0
-3,1,devenue beaucoup,SemailleAndCo,Belgique,fr,0,177,,2020-09-09 22:30:07,0.0,0.0,1.0,0.0
-4,1,devenue beaucoup,cojace,Belgium,fr,2,1624,,2020-09-09 22:03:12,0.0,0.0,1.0,0.0
-5,1,devenue beaucoup,shelovescherry,cindy ♡,fr,0,2910,,2020-09-09 21:45:59,0.0,0.0,1.0,0.0
-6,1,devenue beaucoup,ManuellaPlywac2,25/06/2017 ❤️,fr,0,101,,2020-09-09 21:29:23,0.0,0.0,1.0,0.0
-7,1,devenue beaucoup,CDibizc,,fr,2,126,,2020-09-09 20:16:48,0.0,0.0,1.0,0.0
-8,1,devenue beaucoup,PolBegov,Bloqué par Théo Francken,fr,2,4995,,2020-09-09 20:16:23,0.0,0.0,1.0,0.0
-9,1,devenue beaucoup,lesoir,Bruxelles,fr,0,399261,,2020-09-09 19:56:19,0.0,0.0,1.0,0.0
-10,1,devenue beaucoup,Kozlika,Paris,fr,0,1224,,2020-09-09 19:36:21,-0.128,0.034,0.966,0.0
-11,1,devenue beaucoup,TheResidentFr,"Chastain Memorial, Atlanta",fr,0,214,,2020-09-09 19:29:39,0.0,0.0,1.0,0.0
-12,1,devenue beaucoup,val_rambaud,,fr,0,648,,2020-09-09 17:58:27,0.6688,0.0,0.87,0.13
-13,1,devenue beaucoup,zAxe77,Groenland,fr,0,198,,2020-09-09 17:56:47,-0.25,0.06,0.94,0.0
-14,1,devenue beaucoup,Morjiane_,Bruxelles,fr,0,2711,,2020-09-09 17:50:54,0.0,0.0,1.0,0.0
-15,1,devenue beaucoup,Timkiz971,"Cergy, France",fr,0,70,,2020-09-09 17:19:47,-0.2003,0.037,0.963,0.0
-16,1,devenue beaucoup,ElyesSamir,,fr,0,50,,2020-09-09 17:10:47,0.5267,0.0,0.892,0.108
-17,1,devenue beaucoup,MoussaNaouel,"Haute-Savoie, Rhône-Alpes",fr,0,91,,2020-09-09 14:27:48,0.5267,0.0,0.861,0.139
-18,1,devenue beaucoup,p_blackborrow,,fr,0,7,,2020-09-09 13:42:27,0.0,0.0,1.0,0.0
-19,1,devenue beaucoup,LysUniverse,,fr,0,43,,2020-09-09 12:31:06,0.0,0.0,1.0,0.0
-20,1,devenue beaucoup,IliesEd,,fr,0,0,,2020-09-09 11:58:48,0.3612,0.046,0.862,0.092
-21,1,devenue beaucoup,sakxsama,"Bruxelles, Belgique",fr,0,1112,,2020-09-09 11:33:53,0.0,0.0,1.0,0.0
-22,1,devenue beaucoup,kur0usagii,"Orléans, France",fr,0,340,,2020-09-09 11:33:06,-0.296,0.053,0.947,0.0
-23,1,devenue beaucoup,kislon98,République du Bénin,fr,0,177,,2020-09-09 11:08:30,0.2732,0.053,0.893,0.054
-24,1,devenue beaucoup,Kiara_Disney,Au rocher des lions,fr,0,1237,,2020-09-09 10:05:20,0.0,0.0,1.0,0.0
-25,1,devenue beaucoup,Clonoclink26,Au fond du trou,fr,0,176,,2020-09-09 07:52:47,0.0,0.0,1.0,0.0
-26,1,devenue beaucoup,Pamela48882427,,fr,0,7,,2020-09-09 07:27:21,0.7156,0.0,0.917,0.083
-27,1,devenue beaucoup,yoannpoher,"Lyon, France",fr,0,163,,2020-09-08 20:47:17,0.0,0.0,1.0,0.0
-28,1,devenue beaucoup,olivierlaval27,,fr,0,1429,,2020-09-08 19:15:00,0.0,0.0,1.0,0.0
-29,1,devenue beaucoup,narbe1911,"Paris19ème, France",fr,1,135,,2020-09-08 17:40:47,-0.128,0.064,0.936,0.0
-30,1,devenue beaucoup,LyneEssongue,"La Rochelle, France",fr,0,57,,2020-09-08 17:02:46,0.4215,0.0,0.946,0.054
-31,1,devenue beaucoup,TsukiSetsuna,Belgique,fr,14,87,,2020-09-08 16:06:00,0.4767,0.0,0.881,0.119
-32,1,devenue beaucoup,RoyalMadridMT,Estadio Santiago Bernabéu ❤,fr,0,1207,,2020-09-08 15:26:13,0.0,0.0,1.0,0.0
-33,1,devenue beaucoup,1The_King_1,Yemen,fr,14,6385,,2020-09-08 14:34:24,0.0,0.0,1.0,0.0
-34,1,devenue beaucoup,Matricule9579,"Paris, France",fr,0,1140,,2020-09-08 11:37:22,-0.1759,0.045,0.928,0.028
-35,1,devenue beaucoup,mugisajoanna,,fr,1,3923,,2020-09-08 08:23:33,0.0,0.0,1.0,0.0
-36,1,devenue beaucoup,LusengeGregoire,"BUNIA, RDC",fr,1,825,,2020-09-08 08:20:43,0.0,0.0,1.0,0.0
-37,1,devenue beaucoup,lanuitseracalme,Fac Ingouvernable du Mirail,fr,0,231,,2020-09-08 08:08:57,0.5106,0.0,0.918,0.082
-38,1,devenue beaucoup,Mimi16861399,"Chelles, France",fr,4,2,,2020-09-07 22:01:39,-0.0516,0.126,0.756,0.118
-39,1,devenue beaucoup,Orjanafenics,,fr,11,521,,2020-09-07 21:48:35,0.0,0.0,1.0,0.0
-40,1,devenue beaucoup,KZaaaH,"Toulouse, France",fr,11,833,,2020-09-07 21:46:39,0.0,0.0,1.0,0.0
-41,1,devenue beaucoup,ju_essir,lille,fr,0,1006,,2020-09-07 21:19:24,0.0,0.0,1.0,0.0
-42,1,devenue beaucoup,nosh1405,"Paris, France",fr,4,30,,2020-09-07 20:47:26,-0.0516,0.126,0.756,0.118
-43,1,devenue beaucoup,MMagicShop___,𝐻𝑒𝑎𝑟𝑡 𝑇𝑎𝑒𝘩𝑦𝑢𝑛𝑔 ♡,fr,0,457,,2020-09-07 20:44:14,-0.6705,0.121,0.879,0.0
-44,1,devenue beaucoup,AudreyxSunrise,sopeminikook world ,fr,0,44,,2020-09-07 20:03:45,0.8356,0.0,0.861,0.139
-45,1,devenue beaucoup,Franceval4,"Valhalla, NY",fr,16,156,,2020-09-07 19:29:50,-0.128,0.067,0.933,0.0
-46,1,devenue beaucoup,PaolinaAlma,Alma et qq part au Mexique,fr,0,1712,,2020-09-07 19:28:24,0.4019,0.0,0.856,0.144
-47,1,devenue beaucoup,BrehatErwan,,fr,16,435,,2020-09-07 18:51:38,-0.128,0.067,0.933,0.0
-48,1,devenue beaucoup,raaaphgyr,,fr,4,5,,2020-09-07 18:41:48,-0.0516,0.126,0.756,0.118
-49,1,devenue beaucoup,beoceartemis752,France,fr,16,2294,,2020-09-07 18:07:02,-0.128,0.067,0.933,0.0
-50,2,crise devenue beaucoup,cojace,Belgium,fr,2,1624,,2020-09-09 22:03:12,0.0,0.0,1.0,0.0
-51,2,crise devenue beaucoup,CDibizc,,fr,2,126,,2020-09-09 20:16:48,0.0,0.0,1.0,0.0
-52,2,crise devenue beaucoup,PolBegov,Bloqué par Théo Francken,fr,2,4995,,2020-09-09 20:16:23,0.0,0.0,1.0,0.0
-53,2,crise devenue beaucoup,lesoir,Bruxelles,fr,0,399261,,2020-09-09 19:56:19,0.0,0.0,1.0,0.0
-54,3,savons crise devenue,cojace,Belgium,fr,2,1624,,2020-09-09 22:03:12,0.0,0.0,1.0,0.0
-55,3,savons crise devenue,CDibizc,,fr,2,126,,2020-09-09 20:16:48,0.0,0.0,1.0,0.0
-56,3,savons crise devenue,PolBegov,Bloqué par Théo Francken,fr,2,4995,,2020-09-09 20:16:23,0.0,0.0,1.0,0.0
-57,3,savons crise devenue,lesoir,Bruxelles,fr,0,399262,,2020-09-09 19:56:19,0.0,0.0,1.0,0.0
-58,4,savons crise,cojace,Belgium,fr,2,1624,,2020-09-09 22:03:12,0.0,0.0,1.0,0.0
-59,4,savons crise,CDibizc,,fr,2,126,,2020-09-09 20:16:48,0.0,0.0,1.0,0.0
-60,4,savons crise,PolBegov,Bloqué par Théo Francken,fr,2,4995,,2020-09-09 20:16:23,0.0,0.0,1.0,0.0
-61,4,savons crise,lesoir,Bruxelles,fr,0,399262,,2020-09-09 19:56:19,0.0,0.0,1.0,0.0
-62,4,savons crise,KSP_Libs,Kildonan-St. Paul Winnipeg MB,fr,2,2854,,2020-09-08 18:31:38,0.0,0.0,1.0,0.0
-63,4,savons crise,yvonne4tn,,fr,2,2941,,2020-09-08 18:11:42,0.0,0.0,1.0,0.0
-64,4,savons crise,MaryamMonsef,,fr,2,45666,,2020-09-08 18:08:48,0.0,0.0,1.0,0.0
-65,4,savons crise,carbone_97,,fr,0,110,,2020-09-08 11:19:35,0.0,0.0,1.0,0.0
-66,4,savons crise,H_a_t_c_h_,"Aube, Champagne, France",fr,3,2247,,2020-09-06 09:58:31,0.0,0.0,1.0,0.0
-67,4,savons crise,SILVIE60475192,Bruxelles ,fr,0,1675,,2020-09-06 04:12:27,0.0,0.0,1.0,0.0
-68,4,savons crise,ArsenalFansFR,London is Red ,fr,0,39396,,2020-09-05 15:48:13,0.0,0.0,1.0,0.0
-69,4,savons crise,ZaraField2,,fr,3,20,,2020-09-05 05:54:46,0.0,0.0,1.0,0.0
-70,4,savons crise,guede45,,fr,0,21,,2020-09-04 15:46:58,0.0,0.0,1.0,0.0
-71,4,savons crise,ApplicatPrazan,"Paris, France",fr,3,2685,,2020-09-04 15:31:13,0.0,0.0,1.0,0.0
-72,4,savons crise,gazette_drouot,Paris (9e),fr,3,1599,,2020-09-04 14:00:35,0.0,0.0,1.0,0.0
-73,4,savons crise,marcotullioAlai,Grand est,fr,1,38,,2020-09-04 11:12:53,0.0,0.0,1.0,0.0
-74,4,savons crise,LE_RESEAU_TDF,"Paris, France",fr,1,301,,2020-09-04 11:10:32,0.0,0.0,1.0,0.0
-75,4,savons crise,HarperSakafuts1,République Démocratique Du Con,fr,0,24,,2020-09-03 12:51:42,-0.4767,0.1,0.9,0.0
-76,4,savons crise,nomencorepris,,fr,0,482,,2020-09-03 06:27:24,0.0,0.0,1.0,0.0
-77,4,savons crise,VotezPoisson,"Paris, France",fr,2,19037,,2020-09-02 15:39:01,-0.2732,0.091,0.909,0.0
-78,4,savons crise,JaiRaison,,fr,2,15195,,2020-09-02 15:34:04,-0.2732,0.091,0.909,0.0
-79,4,savons crise,OnarriveMarie, Petit coin du Monde ,fr,2,1329,,2020-09-02 15:32:34,-0.2732,0.1,0.9,0.0
-80,4,savons crise,diallomoctar3,,fr,1,2064,,2020-09-01 14:30:40,0.0,0.0,1.0,0.0
-81,4,savons crise,AlBlaaz,,fr,1,68,,2020-09-01 14:27:39,0.1779,0.0,0.966,0.034
-82,5,plus complexe,remigilet,"Tours, France",fr,0,145,,2020-09-10 08:16:53,0.0,0.0,1.0,0.0
-83,5,plus complexe,daediis,,fr,0,169,,2020-09-10 08:12:55,0.0,0.0,1.0,0.0
-84,5,plus complexe,Mike133715,Avatar from the Web,fr,0,3,,2020-09-10 08:12:12,0.0,0.0,1.0,0.0
-85,5,plus complexe,AnarkAlice,,fr,0,1877,,2020-09-10 08:11:22,0.0772,0.0,0.965,0.035
-86,5,plus complexe,AEffondrement,Avant l'effondrement ,fr,0,5529,,2020-09-10 08:08:12,0.0,0.0,1.0,0.0
-87,5,plus complexe,BaFlorel,,fr,0,10,,2020-09-10 07:52:42,0.0,0.0,1.0,0.0
-88,5,plus complexe,MaximeGrondin4,"Pays de la Loire, France",fr,0,343,,2020-09-10 07:51:01,-0.4588,0.075,0.925,0.0
-89,5,plus complexe,D0UCER0SE,rpdm account | fake,fr,0,267,,2020-09-10 07:48:49,0.0,0.0,1.0,0.0
-90,5,plus complexe,Remithi2,Cannes,fr,10,48,,2020-09-10 07:42:15,0.0,0.0,1.0,0.0
-91,5,plus complexe,micmac24119428,,fr,0,22,,2020-09-10 07:39:01,0.0,0.0,1.0,0.0
-92,5,plus complexe,kirAnar_planki,Schlaguistan,fr,0,86,,2020-09-10 07:34:49,-0.2263,0.061,0.896,0.043
-93,5,plus complexe,zoulia23,"Alpes-Maritimes, Provence-Alpe",fr,10,107,,2020-09-10 07:32:10,0.0,0.0,1.0,0.0
-94,5,plus complexe,BottinNicolas,multivers,fr,4,737,,2020-09-10 07:30:21,0.0,0.0,1.0,0.0
-95,5,plus complexe,Dominiq68009804,SUD de la FRANCE,fr,1,260,,2020-09-10 07:28:01,0.0,0.0,1.0,0.0
-96,5,plus complexe,JauneSandy,,fr,0,1112,,2020-09-10 07:21:56,0.0,0.0,1.0,0.0
-97,5,plus complexe,mizmooh,IDF version campagne,fr,0,18,,2020-09-10 07:20:48,0.0,0.0,1.0,0.0
-98,5,plus complexe,Skandal_NOII,"Ile-de-France, France",fr,1,2766,,2020-09-10 07:12:42,0.3182,0.0,0.952,0.048
-99,5,plus complexe,MVincentFCPE,de Toulon à Saint-Maximin,fr,0,1893,,2020-09-10 07:02:12,0.0,0.0,1.0,0.0
-100,5,plus complexe,sei_laser_fr,"Lyon, France",fr,0,89,,2020-09-10 07:00:01,0.0,0.0,1.0,0.0
-101,5,plus complexe,FigaroPlume,"Paris, France",fr,1,26377,,2020-09-10 07:00:00,0.0,0.0,1.0,0.0
-102,5,plus complexe,06babetteBot950,"Cannes, France",fr,10,797,,2020-09-10 06:59:46,0.0,0.0,1.0,0.0
-103,5,plus complexe,Rozw2od,Thionville,fr,0,110,,2020-09-10 06:58:42,0.0,0.0,1.0,0.0
-104,5,plus complexe,kda_nana,"Annecy, France",fr,0,1504,,2020-09-10 06:56:17,0.0,0.0,1.0,0.0
-105,5,plus complexe,Marjo_OceaneArt,,fr,0,362,,2020-09-10 06:54:08,-0.4588,0.057,0.943,0.0
-106,5,plus complexe,Toysfab,,fr,0,429,,2020-09-10 06:53:51,0.3182,0.0,0.952,0.048
-107,5,plus complexe,BCO_Officiel,"Orchies, France",fr,0,893,,2020-09-10 06:53:23,0.8718,0.0,0.821,0.179
-108,5,plus complexe,ItsSpl1t,"Caen, France",fr,0,53,,2020-09-10 06:51:32,0.0,0.0,1.0,0.0
-109,5,plus complexe,M75Sylvie,"Paris, France",fr,10,466,,2020-09-10 06:40:22,0.0,0.0,1.0,0.0
-110,5,plus complexe,egoistprince_,she/her · lvl 18 · Loonaverse,fr,0,341,,2020-09-10 06:39:01,0.4696,0.047,0.863,0.09
-111,5,plus complexe,CBRETTES,"Paris, France",fr,4,560,,2020-09-10 06:21:04,0.0,0.0,1.0,0.0
-112,5,plus complexe,LouLazzarotto,,fr,0,8,,2020-09-10 06:10:45,-0.128,0.053,0.947,0.0
-113,5,plus complexe,ulysse65357726,,fr,10,230,,2020-09-10 06:03:46,0.0,0.0,1.0,0.0
-114,5,plus complexe,RodoguneP,,fr,2,316,,2020-09-10 06:01:25,0.0,0.0,1.0,0.0
-115,5,plus complexe,Sakurakarasu3,,fr,0,48,,2020-09-10 05:56:33,0.5994,0.0,0.933,0.067
-116,5,plus complexe,TRsawnight,Ohara,fr,0,159,,2020-09-10 05:52:00,0.4404,0.0,0.931,0.069
-117,5,plus complexe,elidiot_,il . Belgique,fr,0,605,,2020-09-10 05:48:02,0.0,0.0,1.0,0.0
-118,5,plus complexe,PieBroquet,,fr,0,21,,2020-09-10 05:39:55,-0.0258,0.09,0.841,0.069
-119,5,plus complexe,Tronches2Droite,France,fr,10,6728,,2020-09-10 05:36:12,0.0,0.0,1.0,0.0
-120,5,plus complexe,UniversOM13,,fr,9,3938,,2020-09-10 05:35:04,0.0,0.0,1.0,0.0
-121,5,plus complexe,Slpcannes,cannes,fr,10,3195,,2020-09-10 05:31:18,0.0,0.0,1.0,0.0
-122,5,plus complexe,laliecplz,,fr,0,115,,2020-09-10 05:28:34,0.0,0.0,1.0,0.0
-123,5,plus complexe,CSeavers2000,,fr,0,18,,2020-09-10 05:27:52,0.6083,0.0,0.903,0.097
-124,5,plus complexe,Epcocorico,Eaubonne 95600,fr,0,197,,2020-09-10 05:04:43,-0.7096,0.112,0.888,0.0
-125,5,plus complexe,BurgPatricia2,,fr,10,631,,2020-09-10 05:03:30,0.0,0.0,1.0,0.0
-126,5,plus complexe,maxb840,France (Sud),fr,10,45,,2020-09-10 05:03:21,0.0,0.0,1.0,0.0
-127,5,plus complexe,sekaii100,France - she/her,fr,2,12,,2020-09-10 04:58:08,0.4588,0.0,0.875,0.125
-128,5,plus complexe,ThierryWetzel,,fr,10,2076,,2020-09-10 04:57:18,0.0,0.0,1.0,0.0
-129,5,plus complexe,davidlisnard,Cannes,fr,10,35983,,2020-09-10 04:55:56,0.0,0.0,1.0,0.0
-130,5,plus complexe,AraigneeSuze,,fr,0,82,,2020-09-10 04:49:35,0.0,0.0,1.0,0.0
-131,5,plus complexe,cloudy_milkyway,France,fr,0,45,,2020-09-10 04:45:25,0.555,0.0,0.902,0.098
-132,6,emmanuel andre aujourdhui,cojace,Belgium,fr,2,1624,,2020-09-09 22:03:12,0.0,0.0,1.0,0.0
-133,6,emmanuel andre aujourdhui,CDibizc,,fr,2,126,,2020-09-09 20:16:48,0.0,0.0,1.0,0.0
-134,6,emmanuel andre aujourdhui,PolBegov,Bloqué par Théo Francken,fr,2,4995,,2020-09-09 20:16:23,0.0,0.0,1.0,0.0
-135,6,emmanuel andre aujourdhui,lesoir,Bruxelles,fr,0,399262,,2020-09-09 19:56:19,0.0,0.0,1.0,0.0
-136,7,bell cofondateur,PhotosWise,,fr,25,6,,2020-09-10 08:17:54,0.0,0.0,1.0,0.0
-137,7,bell cofondateur,Mendossaa,,fr,1,360,,2020-09-10 08:17:42,0.0,0.0,1.0,0.0
-138,7,bell cofondateur,endundo_olivier,RDC,fr,95,4695,,2020-09-10 08:17:28,0.0,0.0,1.0,0.0
-139,7,bell cofondateur,arrinat,"Bordeaux, France",fr,0,41,,2020-09-10 08:17:21,0.296,0.068,0.815,0.117
-140,7,bell cofondateur,Kizilkoala13,,fr,95,64,,2020-09-10 08:17:00,0.0,0.0,1.0,0.0
-141,7,bell cofondateur,MaynardChrist10,,fr,21,92,,2020-09-10 08:16:13,0.0,0.0,1.0,0.0
-142,7,bell cofondateur,clblondel,"Genève, Suisse",fr,2,401,,2020-09-10 08:15:59,0.3182,0.0,0.901,0.099
-143,7,bell cofondateur,laRadioNova,Paris,fr,1,108434,,2020-09-10 08:15:57,0.0,0.0,1.0,0.0
-144,7,bell cofondateur,CHRISROG16,,fr,8,12,,2020-09-10 08:15:09,0.0,0.0,1.0,0.0
-145,7,bell cofondateur,DocteurPain,,fr,95,145,,2020-09-10 08:14:44,0.0,0.0,1.0,0.0
-146,7,bell cofondateur,thefrenchwood,,fr,32,227,,2020-09-10 08:14:18,0.0,0.0,1.0,0.0
-147,7,bell cofondateur,thefrenchwood,,fr,95,227,,2020-09-10 08:14:16,0.0,0.0,1.0,0.0
-148,7,bell cofondateur,FabienArjailles,,fr,21,39,,2020-09-10 08:13:38,0.0,0.0,1.0,0.0
-149,7,bell cofondateur,LaetitiaPodevin,Le Havre,fr,24,67,,2020-09-10 08:13:30,0.0,0.0,1.0,0.0
-150,7,bell cofondateur,NotAGoddess1,"Paris, France",fr,95,525,,2020-09-10 08:13:21,0.0,0.0,1.0,0.0
-151,7,bell cofondateur,HristinaNicola1,,fr,25,1366,,2020-09-10 08:13:17,0.0,0.0,1.0,0.0
-152,7,bell cofondateur,caroprune71,,fr,95,43,,2020-09-10 08:12:28,0.0,0.0,1.0,0.0
-153,7,bell cofondateur,MileysCruise,,fr,95,787,,2020-09-10 08:10:59,0.0,0.0,1.0,0.0
-154,7,bell cofondateur,LAquaboniste,Nulle part,fr,95,527,,2020-09-10 08:10:48,0.0,0.0,1.0,0.0
-155,7,bell cofondateur,JoBaudoin,"Saint-Gratien, 95",fr,21,1393,,2020-09-10 08:10:34,0.0,0.0,1.0,0.0
-156,7,bell cofondateur,ericlex94,"Val-de-Marne, Ile-de-France",fr,25,156,,2020-09-10 08:07:25,0.0,0.0,1.0,0.0
-157,7,bell cofondateur,torbjorn420,,fr,95,241,,2020-09-10 08:07:19,0.0,0.0,1.0,0.0
-158,7,bell cofondateur,lionelthyphanie,"Ille-et-Vilaine, Bretagne",fr,0,351,,2020-09-10 08:06:17,0.0,0.0,1.0,0.0
-159,7,bell cofondateur,Lebienpublic,Dijon - France,fr,0,51593,,2020-09-10 08:06:04,0.0,0.0,1.0,0.0
-160,7,bell cofondateur,Algerie_Infos,"California, USA 424-3275518",fr,12,4766,,2020-09-10 08:04:58,0.0,0.0,1.0,0.0
-161,7,bell cofondateur,HibouChouGenou,Dans le Bescherelle,fr,95,1001,,2020-09-10 08:04:47,0.0,0.0,1.0,0.0
-162,7,bell cofondateur,Sandrine_Ska42,Saint-Etienne,fr,25,156,,2020-09-10 08:03:36,0.0,0.0,1.0,0.0
-163,7,bell cofondateur,Killi1305,Paris,fr,2,74,,2020-09-10 08:03:32,0.0,0.0,1.0,0.0
-164,7,bell cofondateur,christo491,Angers,fr,25,2902,,2020-09-10 08:02:30,0.0,0.0,1.0,0.0
-165,7,bell cofondateur,froelijosette,France,fr,1,1280,,2020-09-10 08:02:23,0.0,0.0,1.0,0.0
-166,7,bell cofondateur,YannMoebius,"L'eau-mé, République Togolaise",fr,95,5452,,2020-09-10 08:00:39,0.0,0.0,1.0,0.0
-167,7,bell cofondateur,OluwaaFemy,ivory coast / Nigeria 🇳🇬🇨🇮,fr,95,403,,2020-09-10 08:00:09,0.0,0.0,1.0,0.0
-168,7,bell cofondateur,pititwayne,,fr,95,91,,2020-09-10 07:59:24,0.0,0.0,1.0,0.0
-169,7,bell cofondateur,Loan59_,"Kyoto City Fushimi Ward, Kyoto",fr,95,93,,2020-09-10 07:59:10,0.0,0.0,1.0,0.0
-170,7,bell cofondateur,RipChicha,Konoha ,fr,95,473,,2020-09-10 07:57:57,0.0,0.0,1.0,0.0
-171,7,bell cofondateur,EcroignardD,france,fr,25,398,,2020-09-10 07:56:56,0.0,0.0,1.0,0.0
-172,7,bell cofondateur,ericjhc,,fr,95,377,,2020-09-10 07:56:50,0.0,0.0,1.0,0.0
-173,7,bell cofondateur,OLolalou,,fr,95,4,,2020-09-10 07:55:18,0.0,0.0,1.0,0.0
-174,7,bell cofondateur,tuesbizarre,,fr,95,8,,2020-09-10 07:55:00,0.0,0.0,1.0,0.0
-175,7,bell cofondateur,damien_botte,Lyon,fr,95,833,,2020-09-10 07:54:52,0.0,0.0,1.0,0.0
-176,7,bell cofondateur,francebleu,France,fr,1,74121,,2020-09-10 07:54:08,0.34,0.0,0.953,0.047
-177,7,bell cofondateur,vsalanson,,fr,6,539,,2020-09-10 07:54:02,0.0,0.0,1.0,0.0
-178,7,bell cofondateur,SandradeAguiar,France,fr,95,2488,,2020-09-10 07:53:57,0.0,0.0,1.0,0.0
-179,7,bell cofondateur,Jose_Angel_G_P,,fr,95,69,,2020-09-10 07:53:37,0.0,0.0,1.0,0.0
-180,7,bell cofondateur,clems76LH,,fr,32,704,,2020-09-10 07:53:02,0.0,0.0,1.0,0.0
-181,7,bell cofondateur,Jose_Angel_G_P,,fr,25,69,,2020-09-10 07:52:00,0.0,0.0,1.0,0.0
-182,7,bell cofondateur,NikitaLagerfeld,LBV | LR Flow | Paris ,fr,25,733,,2020-09-10 07:51:55,0.0,0.0,1.0,0.0
-183,7,bell cofondateur,jlha34,"Moulins, France",fr,25,62,,2020-09-10 07:51:46,0.0,0.0,1.0,0.0
-184,7,bell cofondateur,PoipoiRedBull,A 770km du Vélodrome hélas,fr,25,187,,2020-09-10 07:51:41,0.0,0.0,1.0,0.0
-185,7,bell cofondateur,RubinMarcel,"Bordeaux, France",fr,95,28,,2020-09-10 07:51:30,0.0,0.0,1.0,0.0
-186,8,devenue beaucoup plus,SemailleAndCo,Belgique,fr,0,177,,2020-09-09 22:30:31,0.0,0.0,1.0,0.0
-187,8,devenue beaucoup plus,SemailleAndCo,Belgique,fr,0,177,,2020-09-09 22:30:07,0.0,0.0,1.0,0.0
-188,8,devenue beaucoup plus,cojace,Belgium,fr,2,1624,,2020-09-09 22:03:12,0.0,0.0,1.0,0.0
-189,8,devenue beaucoup plus,shelovescherry,cindy ♡,fr,0,2910,,2020-09-09 21:45:59,0.0,0.0,1.0,0.0
-190,8,devenue beaucoup plus,CDibizc,,fr,2,126,,2020-09-09 20:16:48,0.0,0.0,1.0,0.0
-191,8,devenue beaucoup plus,PolBegov,Bloqué par Théo Francken,fr,2,4995,,2020-09-09 20:16:23,0.0,0.0,1.0,0.0
-192,8,devenue beaucoup plus,lesoir,Bruxelles,fr,0,399262,,2020-09-09 19:56:19,0.0,0.0,1.0,0.0
-193,8,devenue beaucoup plus,Kozlika,Paris,fr,0,1224,,2020-09-09 19:36:21,-0.128,0.034,0.966,0.0
-194,8,devenue beaucoup plus,Timkiz971,"Cergy, France",fr,0,70,,2020-09-09 17:19:47,-0.2003,0.037,0.963,0.0
-195,8,devenue beaucoup plus,LysUniverse,,fr,0,43,,2020-09-09 12:31:06,0.0,0.0,1.0,0.0
-196,8,devenue beaucoup plus,kislon98,République du Bénin,fr,0,177,,2020-09-09 11:08:30,0.2732,0.053,0.893,0.054
-197,8,devenue beaucoup plus,olivierlaval27,,fr,0,1429,,2020-09-08 19:15:00,0.0,0.0,1.0,0.0
-198,8,devenue beaucoup plus,TsukiSetsuna,Belgique,fr,14,87,,2020-09-08 16:06:00,0.4767,0.0,0.881,0.119
-199,8,devenue beaucoup plus,ju_essir,lille,fr,0,1006,,2020-09-07 21:19:24,0.0,0.0,1.0,0.0
-200,8,devenue beaucoup plus,Franceval4,"Valhalla, NY",fr,16,156,,2020-09-07 19:29:50,-0.128,0.067,0.933,0.0
-201,8,devenue beaucoup plus,PaolinaAlma,Alma et qq part au Mexique,fr,0,1712,,2020-09-07 19:28:24,0.4019,0.0,0.856,0.144
-202,8,devenue beaucoup plus,BrehatErwan,,fr,16,435,,2020-09-07 18:51:38,-0.128,0.067,0.933,0.0
-203,8,devenue beaucoup plus,beoceartemis752,France,fr,16,2294,,2020-09-07 18:07:02,-0.128,0.067,0.933,0.0
-204,8,devenue beaucoup plus,Fleur2108,Paris,fr,16,3635,,2020-09-07 17:32:01,-0.128,0.067,0.933,0.0
-205,8,devenue beaucoup plus,JeanPava1,,fr,16,1979,,2020-09-07 16:49:36,-0.128,0.067,0.933,0.0
-206,8,devenue beaucoup plus,VICTORI77866780,"Haute-Garonne, Midi-Pyrénées",fr,16,350,,2020-09-07 16:35:05,-0.128,0.067,0.933,0.0
-207,8,devenue beaucoup plus,scrathefox,"Bretagne, France",fr,16,1276,,2020-09-07 15:48:35,-0.128,0.067,0.933,0.0
-208,8,devenue beaucoup plus,jeanlu30,nimes  gard ,fr,16,1234,,2020-09-07 15:44:21,-0.128,0.067,0.933,0.0
-209,8,devenue beaucoup plus,helvetica_news,"Ile-de-France,(Yvelines) ",fr,16,142,,2020-09-07 15:22:32,-0.128,0.067,0.933,0.0
-210,8,devenue beaucoup plus,Laiglon41,France,fr,16,132,,2020-09-07 15:09:48,-0.128,0.067,0.933,0.0
-211,8,devenue beaucoup plus,ChamirianM,,fr,16,746,,2020-09-07 15:07:09,-0.128,0.067,0.933,0.0
-212,8,devenue beaucoup plus,Didier64142072,,fr,16,47,,2020-09-07 15:02:22,-0.128,0.067,0.933,0.0
-213,8,devenue beaucoup plus,Rosaaaaalie2,,fr,16,157,,2020-09-07 14:59:11,-0.128,0.067,0.933,0.0
-214,8,devenue beaucoup plus,hsbzh35,En Bretagne,fr,16,5384,,2020-09-07 14:55:14,-0.128,0.067,0.933,0.0
-215,8,devenue beaucoup plus,Loulou23747039,,fr,16,527,,2020-09-07 14:54:10,-0.128,0.067,0.933,0.0
-216,8,devenue beaucoup plus,EwenScotch,En Théorie où tt est possible,fr,16,1644,,2020-09-07 14:53:41,-0.128,0.067,0.933,0.0
-217,8,devenue beaucoup plus,KitineChristi4,Dans la vie ...💫,fr,16,5100,,2020-09-07 14:53:02,-0.2003,0.034,0.966,0.0
-218,8,devenue beaucoup plus,PlumeMf,"Auvergne, France",fr,0,40,,2020-09-07 09:28:45,-0.2003,0.049,0.951,0.0
-219,8,devenue beaucoup plus,PetibonS,"Seine-et-Marne, Ile-de-France",fr,0,29,,2020-09-06 23:25:42,0.0,0.0,1.0,0.0
-220,8,devenue beaucoup plus,CelineMaud,Tel Aviv-Little bit more East,fr,0,414,,2020-09-06 19:27:06,0.0,0.0,1.0,0.0
-221,8,devenue beaucoup plus,T0oooo0M,,fr,6,187,,2020-09-06 14:28:31,0.0,0.0,1.0,0.0
-222,8,devenue beaucoup plus,JL_Vayssiere,Versailles,fr,6,6513,,2020-09-06 13:38:04,0.0,0.0,1.0,0.0
-223,8,devenue beaucoup plus,estelle058,,fr,6,1465,,2020-09-06 13:35:51,0.0,0.0,1.0,0.0
-224,8,devenue beaucoup plus,epelboin,"Paris, TX",fr,0,28753,,2020-09-06 09:46:01,0.4404,0.0,0.912,0.088
-225,8,devenue beaucoup plus,mlRoselia1,"Blois, France",fr,0,78,,2020-09-05 23:02:58,0.0,0.0,1.0,0.0
-226,8,devenue beaucoup plus,lahagarsapayepa,,fr,0,15,,2020-09-05 22:30:54,0.0,0.0,1.0,0.0
-227,8,devenue beaucoup plus,talonaiguille19,"Paris, France",fr,0,1119,,2020-09-05 17:51:27,0.0,0.0,1.0,0.0
-228,8,devenue beaucoup plus,jacques90572878,,fr,0,30,,2020-09-05 17:36:34,0.0,0.0,1.0,0.0
-229,8,devenue beaucoup plus,Playmogeek,"Lille, France",fr,6,2852,,2020-09-05 13:45:20,0.0,0.0,1.0,0.0
-230,8,devenue beaucoup plus,Richard_trois,,fr,6,2364,,2020-09-05 12:49:47,0.0,0.0,1.0,0.0
-231,8,devenue beaucoup plus,cannibaldonkey2,"18, he/him",fr,0,22,,2020-09-05 12:37:43,0.0,0.0,1.0,0.0
-232,8,devenue beaucoup plus,TATOCHE_2A,Sous un pont,fr,0,23,,2020-09-05 12:24:02,0.0,0.0,1.0,0.0
-233,8,devenue beaucoup plus,Timeo_Danaos,#DTC,fr,6,5287,,2020-09-05 12:09:43,0.0,0.0,1.0,0.0
-234,8,devenue beaucoup plus,aympontier,Lille,fr,6,2292,,2020-09-05 12:08:50,0.0,0.0,1.0,0.0
-235,8,devenue beaucoup plus,reinaasonia,Saint-Etienne/Lyon ,fr,1,361,,2020-09-05 11:29:23,0.0,0.0,1.0,0.0
-236,9,reprises etoilees,lesoir,Bruxelles,fr,0,399262,,2020-09-10 06:36:08,0.0,0.0,1.0,0.0
-237,10,beaucoup plus,fabxrider,"Lyon, France",fr,0,467,,2020-09-10 08:17:41,-0.128,0.032,0.968,0.0
-238,10,beaucoup plus,associationepal,Brest,fr,0,159,,2020-09-10 08:17:40,-0.4003,0.075,0.925,0.0
-239,10,beaucoup plus,geoffrey_ai3,"Poitiers, France",fr,26,397,,2020-09-10 08:17:34,0.0,0.0,1.0,0.0
-240,10,beaucoup plus,hyebinks,🇲🇦🇩🇿 @loonatheworld ,fr,5,321,,2020-09-10 08:17:25,-0.1027,0.117,0.82,0.062
-241,10,beaucoup plus,BINTAARABI, جزائرية من فرنسا,fr,0,92,,2020-09-10 08:17:22,0.0,0.0,1.0,0.0
-242,10,beaucoup plus,FinalFlash75,Paris 16,fr,0,1083,,2020-09-10 08:17:21,0.0,0.0,1.0,0.0
-243,10,beaucoup plus,heroile_linda,,fr,45,73,,2020-09-10 08:17:20,0.0,0.0,1.0,0.0
-244,10,beaucoup plus,Grimk_,Temple de l’air du Sud,fr,26,491,,2020-09-10 08:17:07,0.0,0.0,1.0,0.0
-245,10,beaucoup plus,margeryboleyn,,fr,177,229,,2020-09-10 08:17:05,0.4588,0.0,0.875,0.125
-246,10,beaucoup plus,Ouicesta2,,fr,0,2,,2020-09-10 08:16:49,0.25,0.0,0.941,0.059
-247,10,beaucoup plus,LexRosxDLJ,"Mazatenango, Guatemala 🇬🇹",fr,54,168,,2020-09-10 08:16:36,0.0,0.0,1.0,0.0
-248,10,beaucoup plus,Iuchadorr,,fr,0,65,,2020-09-10 08:16:20,-0.3786,0.07,0.892,0.037
-249,10,beaucoup plus,enzo_786,"Paris, France",fr,0,28,,2020-09-10 08:16:09,0.0,0.0,1.0,0.0
-250,10,beaucoup plus,mimicheselma,France,fr,5,690,,2020-09-10 08:15:58,-0.1027,0.117,0.82,0.062
-251,10,beaucoup plus,isatis44,France,fr,4,2323,,2020-09-10 08:15:57,0.0,0.0,1.0,0.0
-252,10,beaucoup plus,artofsephy,Lille / Annecy,fr,0,3677,,2020-09-10 08:15:57,0.4926,0.055,0.867,0.077
-253,10,beaucoup plus,Max92far,260 ,fr,5,175,,2020-09-10 08:15:22,-0.1027,0.117,0.82,0.062
-254,10,beaucoup plus,Frederic_Bt,,fr,0,486,,2020-09-10 08:15:22,0.0,0.0,1.0,0.0
-255,10,beaucoup plus,ElianeCarrier,France,fr,2,5032,,2020-09-10 08:15:18,0.0,0.0,1.0,0.0
-256,10,beaucoup plus,WolvAnnon,,fr,2,270,,2020-09-10 08:15:14,0.0,0.0,1.0,0.0
-257,10,beaucoup plus,Xyno1199,,fr,0,7,,2020-09-10 08:15:09,0.0,0.0,1.0,0.0
-258,10,beaucoup plus,m_2eme,,fr,125,1611,,2020-09-10 08:15:04,0.0,0.0,1.0,0.0
-259,10,beaucoup plus,A19263449,"Ile-de-France, France",fr,21,224,,2020-09-10 08:14:58,0.0,0.0,1.0,0.0
-260,10,beaucoup plus,THD_IT,Paris - Brussels - Europe,fr,0,3218,,2020-09-10 08:14:57,0.0,0.0,1.0,0.0
-261,10,beaucoup plus,trislcr,91,fr,5,532,,2020-09-10 08:14:44,-0.1027,0.117,0.82,0.062
-262,10,beaucoup plus,Quentinpasquet5,France,fr,0,16,,2020-09-10 08:14:44,0.0,0.0,1.0,0.0
-263,10,beaucoup plus,babyloncate,she/her,fr,177,2395,,2020-09-10 08:14:22,0.4588,0.0,0.875,0.125
-264,10,beaucoup plus,milknburning,"Grenoble, France",fr,177,34,,2020-09-10 08:14:18,0.4588,0.0,0.875,0.125
-265,10,beaucoup plus,Tirajosaure,Tours city,fr,177,501,,2020-09-10 08:14:16,0.4588,0.0,0.875,0.125
-266,10,beaucoup plus,NihalSonea,,fr,177,19,,2020-09-10 08:14:11,0.4588,0.0,0.875,0.125
-267,10,beaucoup plus,taehsucc,tae - she/her,fr,0,244,,2020-09-10 08:14:05,0.0,0.0,1.0,0.0
-268,10,beaucoup plus,Ortie_pnk,"Lyon, France",fr,0,658,,2020-09-10 08:14:00,0.0,0.0,1.0,0.0
-269,10,beaucoup plus,martinacharb,"Bordeaux, Aquitaine",fr,2,1825,,2020-09-10 08:13:44,-0.6662,0.08,0.92,0.0
-270,10,beaucoup plus,KindaWorship,,fr,0,15,,2020-09-10 08:13:35,0.4588,0.0,0.909,0.091
-271,10,beaucoup plus,bluemaevor,she/her,fr,0,1533,,2020-09-10 08:13:25,0.0,0.0,1.0,0.0
-272,10,beaucoup plus,Silv3rSurf3r31,,fr,0,336,,2020-09-10 08:13:18,0.0,0.0,1.0,0.0
-273,10,beaucoup plus,Santard91,,fr,137,2309,,2020-09-10 08:13:17,0.0,0.0,1.0,0.0
-274,10,beaucoup plus,NkuniBonam,,fr,1,113,,2020-09-10 08:13:08,0.0,0.0,1.0,0.0
-275,10,beaucoup plus,Swingon_it,,fr,177,80,,2020-09-10 08:13:01,0.4588,0.0,0.875,0.125
-276,10,beaucoup plus,valettoise,,fr,36,815,,2020-09-10 08:12:59,0.0,0.0,1.0,0.0
-277,10,beaucoup plus,freakinm,MIA,fr,177,134,,2020-09-10 08:12:54,0.4588,0.0,0.875,0.125
-278,10,beaucoup plus,booly2b,bastia corsica ,fr,0,1946,,2020-09-10 08:12:52,0.6124,0.0,0.783,0.217
-279,10,beaucoup plus,blackhawk548,Belgique,fr,0,47,,2020-09-10 08:12:49,0.0,0.0,1.0,0.0
-280,10,beaucoup plus,Nath29021,,fr,1,4401,,2020-09-10 08:12:48,0.0,0.0,1.0,0.0
-281,10,beaucoup plus,xKhaulzell_,Dans mon Empire 🌍,fr,1,87,,2020-09-10 08:12:46,-0.4215,0.071,0.929,0.0
-282,10,beaucoup plus,Zakwakwak,"Bordeaux, France",fr,5,438,,2020-09-10 08:12:34,-0.1027,0.117,0.82,0.062
-283,10,beaucoup plus,lerwa_des_reves,,fr,0,561,,2020-09-10 08:12:32,0.0,0.0,1.0,0.0
-284,10,beaucoup plus,manal_fth,,fr,177,230,,2020-09-10 08:12:30,0.4588,0.0,0.875,0.125
-285,10,beaucoup plus,1863fr,France,fr,5,15675,,2020-09-10 08:12:17,-0.1027,0.072,0.889,0.038
-286,10,beaucoup plus,AnotherGenro,,fr,0,84,,2020-09-10 08:12:14,0.0,0.0,1.0,0.0
+0,1,romeo elvis,Splee_n,,fr,1969,116,,2020-09-09 20:34:15,0.0,0.0,1.0,0.0
+1,1,romeo elvis,mehdi_dee,"Amiens, France",fr,6451,429,,2020-09-09 20:34:14,0.0,0.0,1.0,0.0
+2,1,romeo elvis,imaanmnfi,paname,fr,3971,1119,,2020-09-09 20:34:14,0.5994,0.0,0.86,0.14
+3,1,romeo elvis,Chloo_hs,,fr,1969,204,,2020-09-09 20:34:12,0.0,0.0,1.0,0.0
+4,1,romeo elvis,hopeful_uk,livet er nå ☀️ she/her,fr,1969,1392,,2020-09-09 20:34:12,0.0,0.0,1.0,0.0
+5,1,romeo elvis,thirlwallone,insta&tiktok : alexluvsmakeup,fr,594,838,,2020-09-09 20:34:12,-0.128,0.059,0.941,0.0
+6,1,romeo elvis,Moombaaa,,fr,3971,89,,2020-09-09 20:34:09,0.5994,0.0,0.86,0.14
+7,1,romeo elvis,fuckn_awsm,,fr,1969,609,,2020-09-09 20:34:09,0.0,0.0,1.0,0.0
+8,1,romeo elvis,brz_jade,"Strasbourg, France",fr,1969,217,,2020-09-09 20:34:07,0.0,0.0,1.0,0.0
+9,1,romeo elvis,Emma_Msso,91,fr,1969,440,,2020-09-09 20:34:07,0.0,0.0,1.0,0.0
+10,1,romeo elvis,fallingliness,she/her,fr,1969,4418,,2020-09-09 20:34:04,0.0,0.0,1.0,0.0
+11,1,romeo elvis,beeadragon,Winterfell,fr,1969,138,,2020-09-09 20:34:01,0.0,0.0,1.0,0.0
+12,1,romeo elvis,marg_lcre,,fr,1969,324,,2020-09-09 20:33:58,0.0,0.0,1.0,0.0
+13,1,romeo elvis,agatheklouman,,fr,594,107,,2020-09-09 20:33:58,-0.128,0.059,0.941,0.0
+14,1,romeo elvis,sneakyloves,Montpellier,fr,1969,722,,2020-09-09 20:33:56,0.0,0.0,1.0,0.0
+15,1,romeo elvis,chl_lrc,,fr,289,376,,2020-09-09 20:33:54,-0.3182,0.113,0.887,0.0
+16,1,romeo elvis,deakssz,"Paris, France",fr,35,1836,,2020-09-09 20:33:53,0.0,0.0,1.0,0.0
+17,1,romeo elvis,Zivn6_,,fr,11710,401,,2020-09-09 20:33:52,0.0,0.0,1.0,0.0
+18,1,romeo elvis,Darck51_Louison,,fr,6451,66,,2020-09-09 20:33:49,0.0,0.0,1.0,0.0
+19,1,romeo elvis,lil_snz,"Lille, France",fr,6451,305,,2020-09-09 20:33:48,0.0,0.0,1.0,0.0
+20,2,elvis accuse dagression,lesinrocks,,fr,0,1130167,,2020-09-09 20:33:00,0.0,0.0,1.0,0.0
+21,2,elvis accuse dagression,ntwalis1,"Montréal, Québec",fr,1,258,,2020-09-09 19:55:54,0.0,0.0,1.0,0.0
+22,2,elvis accuse dagression,tvanouvelles,Partout au Québec,fr,1,392393,,2020-09-09 19:49:19,0.0,0.0,1.0,0.0
+23,2,elvis accuse dagression,voici,France,fr,0,252543,,2020-09-09 19:42:56,0.0,0.0,1.0,0.0
+24,2,elvis accuse dagression,GALAfr,Paris,fr,0,64114,,2020-09-09 19:35:07,0.0,0.0,1.0,0.0
+25,2,elvis accuse dagression,jessy_jesssss,France,fr,23,450,,2020-09-09 19:07:48,0.0,0.0,1.0,0.0
+26,2,elvis accuse dagression,beninwebtv,,fr,0,5221,,2020-09-09 18:38:59,0.0,0.0,1.0,0.0
+27,2,elvis accuse dagression,DParis36,,fr,23,193,,2020-09-09 18:05:04,0.0,0.0,1.0,0.0
+28,2,elvis accuse dagression,voici,France,fr,0,252543,,2020-09-09 17:54:07,0.0,0.0,1.0,0.0
+29,2,elvis accuse dagression,voici,France,fr,0,252543,,2020-09-09 17:40:06,0.0,0.0,1.0,0.0
+30,2,elvis accuse dagression,DanielPilotte1,France,fr,1,18489,,2020-09-09 17:33:25,0.0,0.0,1.0,0.0
+31,2,elvis accuse dagression,ay_Lola,"Mexico, Mexique 🇲🇽",fr,0,4550,,2020-09-09 17:25:15,0.0,0.0,1.0,0.0
+32,2,elvis accuse dagression,DanielPilotte1,France,fr,1,18489,,2020-09-09 17:20:43,0.0,0.0,1.0,0.0
+33,2,elvis accuse dagression,Actualite24FR,Paris,fr,0,3798,,2020-09-09 17:00:15,0.0,0.0,1.0,0.0
+34,2,elvis accuse dagression,lsporiii,"Rennes, France",fr,16,1097,,2020-09-09 16:51:06,0.0,0.0,1.0,0.0
+35,2,elvis accuse dagression,colasjeremy,"Lyon, France",fr,2,26,,2020-09-09 16:21:46,0.0,0.0,1.0,0.0
+36,2,elvis accuse dagression,jadefromparis,Paris,fr,0,4391,,2020-09-09 16:04:47,0.0,0.0,1.0,0.0
+37,2,elvis accuse dagression,Pepito12098411,,fr,1,215,,2020-09-09 15:59:27,0.0,0.0,1.0,0.0
+38,2,elvis accuse dagression,SimonJe72784580,,fr,3,25,,2020-09-09 15:58:18,0.0,0.0,1.0,0.0
+39,2,elvis accuse dagression,CLS2086,"Saint-Cloud, France",fr,0,1998,,2020-09-09 15:50:40,0.0,0.0,1.0,0.0
+40,3,dagression sexuelle,lesinrocks,,fr,0,1130167,,2020-09-09 20:33:00,0.0,0.0,1.0,0.0
+41,3,dagression sexuelle,ntwalis1,"Montréal, Québec",fr,1,258,,2020-09-09 20:29:41,0.0,0.0,1.0,0.0
+42,3,dagression sexuelle,CocoPchon,"Seoul, Republic of Korea",fr,27,519,,2020-09-09 20:28:21,-0.3182,0.126,0.874,0.0
+43,3,dagression sexuelle,tvanouvelles,Partout au Québec,fr,1,392393,,2020-09-09 20:28:10,0.0,0.0,1.0,0.0
+44,3,dagression sexuelle,JdeQuebec,"Québec, Canada",fr,0,186184,,2020-09-09 20:23:45,0.0,0.0,1.0,0.0
+45,3,dagression sexuelle,MissARMY___,"Orléans, France",fr,27,186,,2020-09-09 20:01:04,-0.3182,0.126,0.874,0.0
+46,3,dagression sexuelle,ntwalis1,"Montréal, Québec",fr,1,258,,2020-09-09 19:55:54,0.0,0.0,1.0,0.0
+47,3,dagression sexuelle,tvanouvelles,Partout au Québec,fr,1,392393,,2020-09-09 19:49:19,0.0,0.0,1.0,0.0
+48,3,dagression sexuelle,Lexo_Write,Somewhere ~,fr,27,74,,2020-09-09 19:44:40,-0.3182,0.126,0.874,0.0
+49,3,dagression sexuelle,voici,France,fr,0,252543,,2020-09-09 19:42:56,0.0,0.0,1.0,0.0
+50,3,dagression sexuelle,melgoldchains,"Angers, France",fr,27,766,,2020-09-09 19:38:57,-0.3182,0.126,0.874,0.0
+51,3,dagression sexuelle,GALAfr,Paris,fr,0,64114,,2020-09-09 19:35:07,0.0,0.0,1.0,0.0
+52,3,dagression sexuelle,NextPlz_fr,Paris,fr,0,29621,,2020-09-09 19:30:08,-0.3182,0.161,0.839,0.0
+53,3,dagression sexuelle,annimarkipooh,"Paris, France",fr,27,361,,2020-09-09 19:29:14,-0.3182,0.126,0.874,0.0
+54,3,dagression sexuelle,k0zuuma,"bts,mx,ptg,ateez,got7 💌",fr,27,685,,2020-09-09 19:17:29,-0.3182,0.126,0.874,0.0
+55,3,dagression sexuelle,cherrybombinluv,France,fr,27,710,,2020-09-09 19:16:34,-0.3182,0.126,0.874,0.0
+56,3,dagression sexuelle,extragyu_,,fr,27,588,,2020-09-09 19:14:34,-0.3182,0.126,0.874,0.0
+57,3,dagression sexuelle,carat_ljh17,⋆┄┄┄┄┄┄┄ ⋆ ✧ ⋆ ✧ ❥ ⁱ'ᵐ ᵐᵘˡᵗⁱ ,fr,27,1420,,2020-09-09 19:14:23,-0.3182,0.126,0.874,0.0
+58,3,dagression sexuelle,SandrineG_1D,,fr,27,871,,2020-09-09 19:13:53,-0.3182,0.126,0.874,0.0
+59,3,dagression sexuelle,Emma_ctl_,,fr,27,182,,2020-09-09 19:13:32,-0.3182,0.126,0.874,0.0
+60,4,romeo elvis accuse,Splee_n,,fr,1969,116,,2020-09-09 20:34:15,0.0,0.0,1.0,0.0
+61,4,romeo elvis accuse,Chloo_hs,,fr,1969,204,,2020-09-09 20:34:12,0.0,0.0,1.0,0.0
+62,4,romeo elvis accuse,hopeful_uk,livet er nå ☀️ she/her,fr,1969,1392,,2020-09-09 20:34:12,0.0,0.0,1.0,0.0
+63,4,romeo elvis accuse,fuckn_awsm,,fr,1969,609,,2020-09-09 20:34:09,0.0,0.0,1.0,0.0
+64,4,romeo elvis accuse,brz_jade,"Strasbourg, France",fr,1969,217,,2020-09-09 20:34:07,0.0,0.0,1.0,0.0
+65,4,romeo elvis accuse,Emma_Msso,91,fr,1969,440,,2020-09-09 20:34:07,0.0,0.0,1.0,0.0
+66,4,romeo elvis accuse,fallingliness,she/her,fr,1969,4418,,2020-09-09 20:34:04,0.0,0.0,1.0,0.0
+67,4,romeo elvis accuse,beeadragon,Winterfell,fr,1969,138,,2020-09-09 20:34:01,0.0,0.0,1.0,0.0
+68,4,romeo elvis accuse,marg_lcre,,fr,1969,324,,2020-09-09 20:33:58,0.0,0.0,1.0,0.0
+69,4,romeo elvis accuse,sneakyloves,Montpellier,fr,1969,722,,2020-09-09 20:33:56,0.0,0.0,1.0,0.0
+70,4,romeo elvis accuse,PR0D__SUGA,she/her,fr,1969,689,,2020-09-09 20:33:42,0.0,0.0,1.0,0.0
+71,4,romeo elvis accuse,adele_lmrl,"Metz, France",fr,8684,209,,2020-09-09 20:33:42,0.0,0.0,1.0,0.0
+72,4,romeo elvis accuse,MarieNivet,,fr,1969,200,,2020-09-09 20:33:35,0.0,0.0,1.0,0.0
+73,4,romeo elvis accuse,saabk9400,,fr,1969,2044,,2020-09-09 20:33:25,0.0,0.0,1.0,0.0
+74,4,romeo elvis accuse,visseron_alicia,,fr,1969,41,,2020-09-09 20:33:16,0.0,0.0,1.0,0.0
+75,4,romeo elvis accuse,tnlacostee,❌🧢,fr,8684,116,,2020-09-09 20:33:16,0.0,0.0,1.0,0.0
+76,4,romeo elvis accuse,RATPIPROD,Namek,fr,1969,228,,2020-09-09 20:33:10,0.0,0.0,1.0,0.0
+77,4,romeo elvis accuse,NoemieCap,.France,fr,1445,303,,2020-09-09 20:33:09,0.0,0.0,1.0,0.0
+78,4,romeo elvis accuse,alissonolie,"Bordeaux, France",fr,1969,179,,2020-09-09 20:33:09,0.0,0.0,1.0,0.0
+79,4,romeo elvis accuse,enomisimac,Lille,fr,1969,189,,2020-09-09 20:33:05,0.0,0.0,1.0,0.0
+80,5,accuse dagression,lesinrocks,,fr,0,1130167,,2020-09-09 20:33:00,0.0,0.0,1.0,0.0
+81,5,accuse dagression,ntwalis1,"Montréal, Québec",fr,1,258,,2020-09-09 20:29:41,0.0,0.0,1.0,0.0
+82,5,accuse dagression,tvanouvelles,Partout au Québec,fr,1,392393,,2020-09-09 20:28:10,0.0,0.0,1.0,0.0
+83,5,accuse dagression,JdeQuebec,"Québec, Canada",fr,0,186184,,2020-09-09 20:23:45,0.0,0.0,1.0,0.0
+84,5,accuse dagression,ntwalis1,"Montréal, Québec",fr,1,258,,2020-09-09 19:55:54,0.0,0.0,1.0,0.0
+85,5,accuse dagression,tvanouvelles,Partout au Québec,fr,1,392393,,2020-09-09 19:49:19,0.0,0.0,1.0,0.0
+86,5,accuse dagression,voici,France,fr,0,252543,,2020-09-09 19:42:56,0.0,0.0,1.0,0.0
+87,5,accuse dagression,GALAfr,Paris,fr,0,64114,,2020-09-09 19:35:07,0.0,0.0,1.0,0.0
+88,5,accuse dagression,jessy_jesssss,France,fr,23,450,,2020-09-09 19:07:48,0.0,0.0,1.0,0.0
+89,5,accuse dagression,beninwebtv,,fr,0,5221,,2020-09-09 18:38:59,0.0,0.0,1.0,0.0
+90,5,accuse dagression,DParis36,,fr,23,193,,2020-09-09 18:05:04,0.0,0.0,1.0,0.0
+91,5,accuse dagression,voici,France,fr,0,252543,,2020-09-09 17:54:07,0.0,0.0,1.0,0.0
+92,5,accuse dagression,voici,France,fr,0,252543,,2020-09-09 17:40:06,0.0,0.0,1.0,0.0
+93,5,accuse dagression,DanielPilotte1,France,fr,1,18489,,2020-09-09 17:33:25,0.0,0.0,1.0,0.0
+94,5,accuse dagression,ay_Lola,"Mexico, Mexique 🇲🇽",fr,0,4550,,2020-09-09 17:25:15,0.0,0.0,1.0,0.0
+95,5,accuse dagression,DanielPilotte1,France,fr,1,18489,,2020-09-09 17:20:43,0.0,0.0,1.0,0.0
+96,5,accuse dagression,Actualite24FR,Paris,fr,0,3798,,2020-09-09 17:00:15,0.0,0.0,1.0,0.0
+97,5,accuse dagression,lsporiii,"Rennes, France",fr,16,1097,,2020-09-09 16:51:06,0.0,0.0,1.0,0.0
+98,5,accuse dagression,colasjeremy,"Lyon, France",fr,2,26,,2020-09-09 16:21:46,0.0,0.0,1.0,0.0
+99,5,accuse dagression,jadefromparis,Paris,fr,0,4391,,2020-09-09 16:04:47,0.0,0.0,1.0,0.0
+100,6,accuse dagression sexuelle,lesinrocks,,fr,0,1130167,,2020-09-09 20:33:00,0.0,0.0,1.0,0.0
+101,6,accuse dagression sexuelle,ntwalis1,"Montréal, Québec",fr,1,258,,2020-09-09 20:29:41,0.0,0.0,1.0,0.0
+102,6,accuse dagression sexuelle,tvanouvelles,Partout au Québec,fr,1,392393,,2020-09-09 20:28:10,0.0,0.0,1.0,0.0
+103,6,accuse dagression sexuelle,JdeQuebec,"Québec, Canada",fr,0,186184,,2020-09-09 20:23:45,0.0,0.0,1.0,0.0
+104,6,accuse dagression sexuelle,ntwalis1,"Montréal, Québec",fr,1,258,,2020-09-09 19:55:54,0.0,0.0,1.0,0.0
+105,6,accuse dagression sexuelle,tvanouvelles,Partout au Québec,fr,1,392393,,2020-09-09 19:49:19,0.0,0.0,1.0,0.0
+106,6,accuse dagression sexuelle,voici,France,fr,0,252543,,2020-09-09 19:42:56,0.0,0.0,1.0,0.0
+107,6,accuse dagression sexuelle,GALAfr,Paris,fr,0,64114,,2020-09-09 19:35:07,0.0,0.0,1.0,0.0
+108,6,accuse dagression sexuelle,jessy_jesssss,France,fr,23,450,,2020-09-09 19:07:48,0.0,0.0,1.0,0.0
+109,6,accuse dagression sexuelle,beninwebtv,,fr,0,5221,,2020-09-09 18:38:59,0.0,0.0,1.0,0.0
+110,6,accuse dagression sexuelle,DParis36,,fr,23,193,,2020-09-09 18:05:04,0.0,0.0,1.0,0.0
+111,6,accuse dagression sexuelle,voici,France,fr,0,252543,,2020-09-09 17:54:07,0.0,0.0,1.0,0.0
+112,6,accuse dagression sexuelle,voici,France,fr,0,252543,,2020-09-09 17:40:06,0.0,0.0,1.0,0.0
+113,6,accuse dagression sexuelle,DanielPilotte1,France,fr,1,18489,,2020-09-09 17:33:25,0.0,0.0,1.0,0.0
+114,6,accuse dagression sexuelle,ay_Lola,"Mexico, Mexique 🇲🇽",fr,0,4550,,2020-09-09 17:25:15,0.0,0.0,1.0,0.0
+115,6,accuse dagression sexuelle,DanielPilotte1,France,fr,1,18489,,2020-09-09 17:20:43,0.0,0.0,1.0,0.0
+116,6,accuse dagression sexuelle,Actualite24FR,Paris,fr,0,3798,,2020-09-09 17:00:15,0.0,0.0,1.0,0.0
+117,6,accuse dagression sexuelle,lsporiii,"Rennes, France",fr,16,1097,,2020-09-09 16:51:06,0.0,0.0,1.0,0.0
+118,6,accuse dagression sexuelle,colasjeremy,"Lyon, France",fr,2,26,,2020-09-09 16:21:46,0.0,0.0,1.0,0.0
+119,6,accuse dagression sexuelle,jadefromparis,Paris,fr,0,4391,,2020-09-09 16:04:47,0.0,0.0,1.0,0.0
+120,7,elvis accuse,Splee_n,,fr,1970,116,,2020-09-09 20:34:15,0.0,0.0,1.0,0.0
+121,7,elvis accuse,Chloo_hs,,fr,1970,204,,2020-09-09 20:34:12,0.0,0.0,1.0,0.0
+122,7,elvis accuse,hopeful_uk,livet er nå ☀️ she/her,fr,1970,1392,,2020-09-09 20:34:12,0.0,0.0,1.0,0.0
+123,7,elvis accuse,fuckn_awsm,,fr,1970,609,,2020-09-09 20:34:09,0.0,0.0,1.0,0.0
+124,7,elvis accuse,brz_jade,"Strasbourg, France",fr,1970,217,,2020-09-09 20:34:07,0.0,0.0,1.0,0.0
+125,7,elvis accuse,Emma_Msso,91,fr,1970,440,,2020-09-09 20:34:07,0.0,0.0,1.0,0.0
+126,7,elvis accuse,fallingliness,she/her,fr,1970,4418,,2020-09-09 20:34:04,0.0,0.0,1.0,0.0
+127,7,elvis accuse,beeadragon,Winterfell,fr,1970,138,,2020-09-09 20:34:01,0.0,0.0,1.0,0.0
+128,7,elvis accuse,marg_lcre,,fr,1970,324,,2020-09-09 20:33:58,0.0,0.0,1.0,0.0
+129,7,elvis accuse,sneakyloves,Montpellier,fr,1970,722,,2020-09-09 20:33:56,0.0,0.0,1.0,0.0
+130,7,elvis accuse,PR0D__SUGA,she/her,fr,1969,689,,2020-09-09 20:33:42,0.0,0.0,1.0,0.0
+131,7,elvis accuse,adele_lmrl,"Metz, France",fr,8684,209,,2020-09-09 20:33:42,0.0,0.0,1.0,0.0
+132,7,elvis accuse,MarieNivet,,fr,1969,200,,2020-09-09 20:33:35,0.0,0.0,1.0,0.0
+133,7,elvis accuse,saabk9400,,fr,1970,2044,,2020-09-09 20:33:25,0.0,0.0,1.0,0.0
+134,7,elvis accuse,visseron_alicia,,fr,1970,41,,2020-09-09 20:33:16,0.0,0.0,1.0,0.0
+135,7,elvis accuse,tnlacostee,❌🧢,fr,8684,116,,2020-09-09 20:33:16,0.0,0.0,1.0,0.0
+136,7,elvis accuse,RATPIPROD,Namek,fr,1970,228,,2020-09-09 20:33:10,0.0,0.0,1.0,0.0
+137,7,elvis accuse,NoemieCap,.France,fr,1445,303,,2020-09-09 20:33:09,0.0,0.0,1.0,0.0
+138,7,elvis accuse,alissonolie,"Bordeaux, France",fr,1970,179,,2020-09-09 20:33:09,0.0,0.0,1.0,0.0
+139,7,elvis accuse,enomisimac,Lille,fr,1970,189,,2020-09-09 20:33:05,0.0,0.0,1.0,0.0
+140,8,tour france,pmlahaye,"Orléans, France ",fr,1,812,,2020-09-09 20:34:19,0.0,0.0,1.0,0.0
+141,8,tour france,maieupro,,fr,23,30,,2020-09-09 20:34:19,0.0,0.0,1.0,0.0
+142,8,tour france,fishonweb,lille,fr,171,334,,2020-09-09 20:34:17,0.0,0.0,1.0,0.0
+143,8,tour france,zving_lo,France,fr,104,235,,2020-09-09 20:34:16,0.0,0.0,1.0,0.0
+144,8,tour france,Wasi_LP,"Aschheim, Deutschland",fr,0,245,,2020-09-09 20:34:15,0.0,0.0,1.0,0.0
+145,8,tour france,bazoche2,Lyon,fr,59,334,,2020-09-09 20:34:14,0.0,0.0,1.0,0.0
+146,8,tour france,JoMediterraneo,FRANCE,fr,1,2408,,2020-09-09 20:34:12,0.0,0.0,1.0,0.0
+147,8,tour france,JbtSandrine,France ,fr,0,283,,2020-09-09 20:34:06,0.128,0.159,0.701,0.14
+148,8,tour france,FAMILLY41,,fr,80,108,,2020-09-09 20:34:05,0.0,0.0,1.0,0.0
+149,8,tour france,paul_mauduit,France,fr,40,423,,2020-09-09 20:33:58,0.0,0.0,1.0,0.0
+150,8,tour france,Mandrinvienne,,fr,61,104,,2020-09-09 20:33:57,0.0,0.0,1.0,0.0
+151,8,tour france,cymaronet,,fr,3,364,,2020-09-09 20:33:40,0.4588,0.0,0.893,0.107
+152,8,tour france,X_Bouvet,"Metz, France",fr,0,1158,,2020-09-09 20:33:35,0.0,0.0,1.0,0.0
+153,8,tour france,Antoine__Royer,"Lyon, Troyes, Chaumont",fr,31,493,,2020-09-09 20:33:34,0.4588,0.0,0.87,0.13
+154,8,tour france,cymaronet,,fr,3,364,,2020-09-09 20:33:33,0.0,0.0,1.0,0.0
+155,8,tour france,RaulinLiliane,,fr,1274,6,,2020-09-09 20:33:14,0.0,0.0,1.0,0.0
+156,8,tour france,vbachelier,France,fr,1,3872,,2020-09-09 20:33:10,0.0,0.0,1.0,0.0
+157,8,tour france,mmngoniri,soa yaoundé ,fr,0,828,,2020-09-09 20:33:02,0.0,0.0,1.0,0.0
+158,8,tour france,Fluffysocks1993,Newcastle upon tyne England,fr,0,1652,,2020-09-09 20:33:01,0.0,0.0,1.0,0.0
+159,8,tour france,IPeucelle,"Lille, Nord-Pas-de-Calais",fr,59,413,,2020-09-09 20:32:54,0.0,0.0,1.0,0.0
+160,9,dagression sexuelle angele,voici,France,fr,0,252543,,2020-09-09 19:42:56,0.0,0.0,1.0,0.0
+161,9,dagression sexuelle angele,GALAfr,Paris,fr,0,64114,,2020-09-09 19:35:07,0.0,0.0,1.0,0.0
+162,9,dagression sexuelle angele,NextPlz_fr,Paris,fr,0,29621,,2020-09-09 19:30:08,-0.3182,0.161,0.839,0.0
+163,9,dagression sexuelle angele,jessy_jesssss,France,fr,23,450,,2020-09-09 19:07:48,0.0,0.0,1.0,0.0
+164,9,dagression sexuelle angele,DParis36,,fr,23,193,,2020-09-09 18:05:04,0.0,0.0,1.0,0.0
+165,9,dagression sexuelle angele,voici,France,fr,0,252543,,2020-09-09 17:54:07,0.0,0.0,1.0,0.0
+166,9,dagression sexuelle angele,brasseur_joakim,,fr,0,50,,2020-09-09 17:42:07,0.0,0.0,1.0,0.0
+167,9,dagression sexuelle angele,ay_Lola,"Mexico, Mexique 🇲🇽",fr,0,4550,,2020-09-09 17:25:15,0.0,0.0,1.0,0.0
+168,9,dagression sexuelle angele,colasjeremy,"Lyon, France",fr,2,26,,2020-09-09 16:21:46,0.0,0.0,1.0,0.0
+169,9,dagression sexuelle angele,CLS2086,"Saint-Cloud, France",fr,0,1998,,2020-09-09 15:50:40,0.0,0.0,1.0,0.0
+170,9,dagression sexuelle angele,ActuSuisse,"Suisse, France",fr,0,356,,2020-09-09 15:18:03,0.0,0.0,1.0,0.0
+171,9,dagression sexuelle angele,TeleLoisirs,France,fr,0,571425,,2020-09-09 14:33:24,0.0,0.0,1.0,0.0
+172,9,dagression sexuelle angele,GALAfr,Paris,fr,0,64114,,2020-09-09 14:15:42,0.0,0.0,1.0,0.0
+173,9,dagression sexuelle angele,CedVanBleuzen,"Paris, France",fr,0,138,,2020-09-09 14:14:00,0.0,0.0,1.0,0.0
+174,9,dagression sexuelle angele,marcepa49,,fr,2,285,,2020-09-09 14:13:32,0.0,0.0,1.0,0.0
+175,9,dagression sexuelle angele,EmaLutgen,Rabastens - Toulouse,fr,23,53,,2020-09-09 14:11:03,0.0,0.0,1.0,0.0
+176,9,dagression sexuelle angele,LesNews24,,fr,2,11832,,2020-09-09 14:10:39,0.0,0.0,1.0,0.0
+177,9,dagression sexuelle angele,jadefromparis,Paris,fr,0,4391,,2020-09-09 14:05:34,0.0,0.0,1.0,0.0
+178,9,dagression sexuelle angele,du_bouillon,Pas à Bouillon,fr,0,47,,2020-09-09 14:03:20,0.0,0.0,1.0,0.0
+179,9,dagression sexuelle angele,lesoir,Bruxelles,fr,0,399254,,2020-09-09 13:59:06,0.0,0.0,1.0,0.0
+180,10,sexuelle angele reagit,Music_Shaker1,,fr,4,294,,2020-09-09 20:00:16,0.0,0.0,1.0,0.0
+181,10,sexuelle angele reagit,Eccs68043785,Belgique,fr,0,330,,2020-09-09 19:44:33,0.0,0.0,1.0,0.0
+182,10,sexuelle angele reagit,NextPlz_fr,Paris,fr,0,29621,,2020-09-09 19:30:08,-0.3182,0.161,0.839,0.0
+183,10,sexuelle angele reagit,RITTERSabrina,"(Alsace,France)",fr,4,2646,,2020-09-09 18:29:56,0.0,0.0,1.0,0.0
+184,10,sexuelle angele reagit,Kitouf,France,fr,0,1003,,2020-09-09 18:25:56,0.0,0.0,1.0,0.0
+185,10,sexuelle angele reagit,voici,France,fr,0,252543,,2020-09-09 17:54:07,0.0,0.0,1.0,0.0
+186,10,sexuelle angele reagit,Darkswoo,Montpellier,fr,15,104,,2020-09-09 17:26:09,0.0,0.0,1.0,0.0
+187,10,sexuelle angele reagit,ay_Lola,"Mexico, Mexique 🇲🇽",fr,0,4550,,2020-09-09 17:25:15,0.0,0.0,1.0,0.0
+188,10,sexuelle angele reagit,ActusNonStop,paris,fr,0,40045,,2020-09-09 17:21:12,0.0,0.0,1.0,0.0
+189,10,sexuelle angele reagit,AlexDebat,"Orléans, France",fr,2,285,,2020-09-09 17:16:35,0.0,0.0,1.0,0.0
+190,10,sexuelle angele reagit,celine_vives,"Paris, France",fr,4,369,,2020-09-09 16:43:45,0.0,0.0,1.0,0.0
+191,10,sexuelle angele reagit,6pandemonium,,fr,2,244,,2020-09-09 16:33:57,0.0,0.0,1.0,0.0
+192,10,sexuelle angele reagit,DamienMercereau,Paris,fr,4,25739,,2020-09-09 16:33:25,0.0,0.0,1.0,0.0
+193,10,sexuelle angele reagit,mariefrancemag,Boulogne-Billancourt,fr,0,2761,,2020-09-09 16:30:08,0.0,0.0,1.0,0.0
+194,10,sexuelle angele reagit,HTAG_Media,,fr,2,537,,2020-09-09 16:26:19,0.0,0.0,1.0,0.0
+195,10,sexuelle angele reagit,LacieBasker,,fr,15,515,,2020-09-09 16:25:24,0.0,0.0,1.0,0.0
+196,10,sexuelle angele reagit,RhesusNegatif,,fr,15,1881,,2020-09-09 16:24:58,0.0,0.0,1.0,0.0
+197,10,sexuelle angele reagit,un23quatre,,fr,15,101,,2020-09-09 16:22:17,0.0,0.0,1.0,0.0
+198,10,sexuelle angele reagit,MarieMarilou_,,fr,0,268,,2020-09-09 16:17:58,0.0,0.0,1.0,0.0
+199,10,sexuelle angele reagit,DaniBrancovitch,Partout,fr,4,289,,2020-09-09 16:16:40,0.0,0.0,1.0,0.0
