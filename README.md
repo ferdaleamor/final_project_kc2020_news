@@ -16,8 +16,7 @@ Contenido del repositorio:
 	- Tweet search:
 		- scripts para la búsqueda de tweets (uno por cada idioma).
 		- notebook explicativo.
-		- Una serie de ficheros .txt y .csv que tienen la información de los tweets de los topics elegidos.
-
+		
 
 Visualización del Resultado en Tableau
 https://public.tableau.com/profile/fer.dale.amor#!/vizhome/analisisdetweets_ES/Dashboard1
