@@ -24,5 +24,5 @@ Contenido del repositorio:
 - Visualización de resultados en Tableau:
 
 	https://public.tableau.com/profile/fer.dale.amor#!/vizhome/analisisdetweets_ES/Sentiment?publish=yes	
-	https://public.tableau.com/profile/fer.dale.amor#!/vizhome/analisisdetweets_EN/Hoja6?publish=yes
+	https://public.tableau.com/profile/fer.dale.amor#!/vizhome/analisisdetweets_EN/Retweets?publish=yes
 	
