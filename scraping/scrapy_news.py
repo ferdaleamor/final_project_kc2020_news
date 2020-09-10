@@ -26,8 +26,8 @@ class news_spider(scrapy.Spider):
     start_urls = urls
     
     def __init__(self):
-        if os.stat(read_path).st_size == 0:
-            print(f"scraping_date,url,headline,text", file=filep)
+        if os.stat(write_path).st_size == 0:
+            print(f"scraping_date,url,headline,text,lang", file=filep)
 
     def parse(self, response):
 
