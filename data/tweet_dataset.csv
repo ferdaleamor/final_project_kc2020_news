@@ -1,0 +1,502 @@
+,num_topic,topic,user,location,language,retweet_count,followers_count,geo_location,created_at,compound,neg,neu,pos
+0,1,pedro sanchez,PhMcarmen,,es,12116,68,,2020-09-10 08:02:52,-0.296,0.084,0.916,0.0
+1,1,pedro sanchez,Danitorresba94,,es,3807,42,,2020-09-10 08:02:50,0.34,0.0,0.906,0.094
+2,1,pedro sanchez,Josnavegante,"Comunidad Valenciana, España",es,34,1722,,2020-09-10 08:02:48,0.0,0.0,1.0,0.0
+3,1,pedro sanchez,MiguelngelBERME,Madrid. España,es,3,1685,,2020-09-10 08:02:41,0.0,0.0,1.0,0.0
+4,1,pedro sanchez,GuajeSalvaje,Tabarnia,es,0,72396,,2020-09-10 08:02:39,-0.5267,0.089,0.911,0.0
+5,1,pedro sanchez,YankeeeSanchez,"New Jersey, USA",es,2844,17,,2020-09-10 08:02:34,0.0,0.0,1.0,0.0
+6,1,pedro sanchez,reinafuriosa78,De donde no te importa ,es,7,3087,,2020-09-10 08:02:31,-0.5267,0.216,0.784,0.0
+7,1,pedro sanchez,xjositox75,,es,3807,43,,2020-09-10 08:02:31,0.34,0.0,0.906,0.094
+8,1,pedro sanchez,Maipa8,,es,34,96,,2020-09-10 08:02:30,0.0,0.0,1.0,0.0
+9,1,pedro sanchez,Grao_nngg,,es,182,2365,,2020-09-10 08:02:28,0.0,0.0,1.0,0.0
+10,1,pedro sanchez,Asesinooriamend,CERCA,es,3807,302,,2020-09-10 08:02:25,0.34,0.0,0.906,0.094
+11,1,pedro sanchez,EPatriarcador,España,es,782,116,,2020-09-10 08:02:24,0.0,0.0,1.0,0.0
+12,1,pedro sanchez,SiempreNQP,,es,1095,62,,2020-09-10 08:02:23,0.0,0.0,1.0,0.0
+13,1,pedro sanchez,seatlvg,"Cangas, España",es,2844,67,,2020-09-10 08:02:22,0.0,0.0,1.0,0.0
+14,1,pedro sanchez,ElmioCid3,,es,1,283,,2020-09-10 08:02:21,0.0,0.0,1.0,0.0
+15,1,pedro sanchez,aracelilluvia,,es,782,1516,,2020-09-10 08:02:15,0.0,0.0,1.0,0.0
+16,1,pedro sanchez,urbanitasmarcos,Orihuela-Valencia,es,34,155,,2020-09-10 08:02:14,0.0,0.0,1.0,0.0
+17,1,pedro sanchez,Juan_A_Morales,Lobon (Badajoz) Spain.,es,34,5326,,2020-09-10 08:02:13,0.0,0.0,1.0,0.0
+18,1,pedro sanchez,Fernand12435966,,es,0,2,,2020-09-10 08:02:11,0.0,0.0,1.0,0.0
+19,1,pedro sanchez,josepuntcatFREE,Catalonia,es,435,19463,,2020-09-10 08:02:06,0.0,0.0,1.0,0.0
+20,1,pedro sanchez,Juan_A_Morales,Lobon (Badajoz) Spain.,es,1,5326,,2020-09-10 08:02:06,0.0,0.0,1.0,0.0
+21,1,pedro sanchez,aphuray,teheran,es,182,459,,2020-09-10 08:01:59,0.0,0.0,1.0,0.0
+22,1,pedro sanchez,CapitanTruenoV,"Sevilla, España",es,75,10687,,2020-09-10 08:01:56,0.0,0.0,1.0,0.0
+23,1,pedro sanchez,magodeltrago,,es,0,210,,2020-09-10 08:01:51,0.0,0.0,1.0,0.0
+24,1,pedro sanchez,lapayalaspecas,,es,3807,194,,2020-09-10 08:01:51,0.34,0.0,0.906,0.094
+25,1,pedro sanchez,BusconchiConchi,,es,0,17,,2020-09-10 08:01:48,-0.296,0.087,0.913,0.0
+26,1,pedro sanchez,PuriFernndez1,,es,182,7778,,2020-09-10 08:01:47,0.0,0.0,1.0,0.0
+27,1,pedro sanchez,tony85261604,España,es,182,847,,2020-09-10 08:01:46,0.0,0.0,1.0,0.0
+28,1,pedro sanchez,AntiRojos5,,es,182,2276,,2020-09-10 08:01:45,0.0,0.0,1.0,0.0
+29,1,pedro sanchez,MisterNick11,,es,14,1055,,2020-09-10 08:01:41,-0.296,0.095,0.905,0.0
+30,1,pedro sanchez,ebueno74,SANTA CRUZ DE TENERIFE. ,es,182,39,,2020-09-10 08:01:40,0.0,0.0,1.0,0.0
+31,1,pedro sanchez,cpanedita,,es,3807,138,,2020-09-10 08:01:39,0.34,0.0,0.906,0.094
+32,1,pedro sanchez,conso2a,,es,12115,26,,2020-09-10 08:01:38,-0.296,0.084,0.916,0.0
+33,1,pedro sanchez,aphuray,teheran,es,32,459,,2020-09-10 08:01:38,0.5859,0.0,0.821,0.179
+34,1,pedro sanchez,LuzFlor18772410,,es,11,499,,2020-09-10 08:01:35,0.0,0.0,1.0,0.0
+35,1,pedro sanchez,Buia89917434,"Monforte de Lemos, España",es,14,1001,,2020-09-10 08:01:33,0.0,0.0,1.0,0.0
+36,1,pedro sanchez,deedee2_2000,España,es,34,792,,2020-09-10 08:01:32,0.0,0.0,1.0,0.0
+37,1,pedro sanchez,Seblopsan,,es,12115,6,,2020-09-10 08:01:26,-0.296,0.084,0.916,0.0
+38,1,pedro sanchez,balonsocordob,,es,1543,44,,2020-09-10 08:01:22,0.0,0.0,1.0,0.0
+39,1,pedro sanchez,Chus2207,,es,1095,1353,,2020-09-10 08:01:21,0.0,0.0,1.0,0.0
+40,1,pedro sanchez,mmoncholi,Madrid (España-Spain),es,182,9607,,2020-09-10 08:01:21,0.0,0.0,1.0,0.0
+41,1,pedro sanchez,durancalvarro,,es,702,76,,2020-09-10 08:01:16,-0.4939,0.127,0.873,0.0
+42,1,pedro sanchez,ZComponte,"Esta España mía, esta España n",es,25,2007,,2020-09-10 08:01:16,-0.296,0.095,0.905,0.0
+43,1,pedro sanchez,del_coche,,es,59,80,,2020-09-10 08:01:15,0.34,0.0,0.909,0.091
+44,1,pedro sanchez,aphuray,teheran,es,14,459,,2020-09-10 08:01:15,-0.296,0.115,0.885,0.0
+45,1,pedro sanchez,belengasparp,,es,1089,44,,2020-09-10 08:01:14,0.5859,0.0,0.827,0.173
+46,1,pedro sanchez,ADONAYDUQUE,,es,34,2014,,2020-09-10 08:01:13,0.0,0.0,1.0,0.0
+47,1,pedro sanchez,Refesne,España,es,3806,417,,2020-09-10 08:01:12,0.34,0.0,0.906,0.094
+48,1,pedro sanchez,ky_Clash,,es,1089,2767,,2020-09-10 08:01:12,0.5859,0.0,0.827,0.173
+49,1,pedro sanchez,KepaSAT,Las Palmas de Gran Canaria,es,0,1780,,2020-09-10 08:01:08,0.0,0.0,1.0,0.0
+50,2,paco lucia,SebastianCoach_,Madrid,es,1,164,,2020-09-10 08:01:59,0.0,0.0,1.0,0.0
+51,2,paco lucia,_anacampos,TWITTER CREADO EL 03/03/2013 ,es,0,1269,,2020-09-10 08:01:31,0.0,0.0,1.0,0.0
+52,2,paco lucia,Mariagr1_,"Andalucía, España",es,0,105,,2020-09-10 08:01:28,-0.6808,0.121,0.879,0.0
+53,2,paco lucia,La1_tve,España,es,0,620538,,2020-09-10 08:00:00,0.0,0.0,1.0,0.0
+54,2,paco lucia,SerocrSebas,,es,0,449,,2020-09-10 07:54:00,0.0,0.0,1.0,0.0
+55,2,paco lucia,alcalavique,Jaén,es,0,379,,2020-09-10 07:53:51,0.0,0.0,1.0,0.0
+56,2,paco lucia,ti_invierte,,es,0,137,,2020-09-10 07:52:32,0.0,0.0,1.0,0.0
+57,2,paco lucia,btcrpltc,México DF,es,0,1047,,2020-09-10 07:50:33,0.0,0.0,1.0,0.0
+58,2,paco lucia,lucia29870,ALGETE.MADRID TRIGUEROS.HUELVA,es,7,255,,2020-09-10 07:50:24,-0.296,0.084,0.916,0.0
+59,2,paco lucia,Distribucionyma,Spain,es,0,58946,,2020-09-10 07:49:37,0.0,0.0,1.0,0.0
+60,2,paco lucia,MediaTesseo,Madrid,es,2,499,,2020-09-10 07:43:32,0.296,0.0,0.913,0.087
+61,2,paco lucia,_lucia_MLSB,"Huétor Tájar, España",es,25,1719,,2020-09-10 07:35:06,0.34,0.0,0.854,0.146
+62,2,paco lucia,_lucia_MLSB,"Huétor Tájar, España",es,15,1719,,2020-09-10 07:34:34,0.0,0.0,1.0,0.0
+63,2,paco lucia,theCromxxx,España,es,4,470,,2020-09-10 07:34:30,0.0,0.0,1.0,0.0
+64,2,paco lucia,_lucia_MLSB,"Huétor Tájar, España",es,48,1719,,2020-09-10 07:34:22,0.0,0.0,1.0,0.0
+65,2,paco lucia,Maybe_Cail,THEY/THEM ~ HE/HIM,es,3,359,,2020-09-10 07:32:57,0.0,0.0,1.0,0.0
+66,2,paco lucia,Mcarmenamat1,,es,103,309,,2020-09-10 07:32:33,0.0,0.0,1.0,0.0
+67,2,paco lucia,collar11115822,"Asturias, España",es,103,477,,2020-09-10 07:28:27,0.0,0.0,1.0,0.0
+68,2,paco lucia,yomismaWen,En Mí Casa,es,0,63,,2020-09-10 07:27:13,-0.296,0.035,0.965,0.0
+69,2,paco lucia,jorgepravia,Fuerteventura,es,0,7844,,2020-09-10 07:26:52,0.34,0.0,0.949,0.051
+70,2,paco lucia,ComunidaddePro1,Sector Audiovisual,es,2,1445,,2020-09-10 07:24:19,0.296,0.0,0.913,0.087
+71,2,paco lucia,s3mrot,España (Barcelona),es,8,312,,2020-09-10 07:22:29,0.6369,0.0,0.881,0.119
+72,2,paco lucia,blvcom,Madrid,es,2,9433,,2020-09-10 07:21:40,0.296,0.0,0.95,0.05
+73,2,paco lucia,hipopede,,es,0,614,,2020-09-10 07:21:11,-0.296,0.091,0.909,0.0
+74,2,paco lucia,AdamezFelix,,es,103,1366,,2020-09-10 07:19:24,0.0,0.0,1.0,0.0
+75,2,paco lucia,cathyclaret,キャシー・クラレ,es,0,1974,,2020-09-10 07:18:29,0.0,0.0,1.0,0.0
+76,2,paco lucia,talanttinno,"Barcelona, España",es,0,192,,2020-09-10 07:18:10,-0.296,0.075,0.925,0.0
+77,2,paco lucia,Yolanda52690822,,es,0,7,,2020-09-10 07:17:35,0.5526,0.0,0.922,0.078
+78,2,paco lucia,Gchoco84,Jerez Fra.,es,0,531,,2020-09-10 07:16:40,0.0,0.0,1.0,0.0
+79,2,paco lucia,Cristwinita,Ni de aquí ni de allá,es,13,285,,2020-09-10 07:15:05,0.4939,0.0,0.868,0.132
+80,2,paco lucia,Yolanda52690822,,es,0,7,,2020-09-10 07:15:03,-0.5,0.096,0.904,0.0
+81,2,paco lucia,gonzalo_fuente_,"Frankfurt am Main, Alemania",es,0,1096,,2020-09-10 07:13:43,0.0,0.0,1.0,0.0
+82,2,paco lucia,LaTevaVida,Mataró,es,3,6239,,2020-09-10 07:09:42,0.0,0.0,1.0,0.0
+83,2,paco lucia,bobstation,donde me apetece,es,103,206,,2020-09-10 07:08:09,0.0,0.0,1.0,0.0
+84,2,paco lucia,Toni0084,"Gerona, Cataluña",es,103,1722,,2020-09-10 07:06:18,0.0,0.0,1.0,0.0
+85,2,paco lucia,lazosdsangreTVE,,es,0,2665,,2020-09-10 07:05:00,0.0,0.0,1.0,0.0
+86,2,paco lucia,albaoliva92,Azután,es,27,354,,2020-09-10 07:01:07,0.296,0.0,0.913,0.087
+87,2,paco lucia,SPastorGimeno,València (Spain),es,72,89,,2020-09-10 06:58:53,0.0,0.0,1.0,0.0
+88,2,paco lucia,Rbn_Acorn,"Paterna, Madrid, Vva Serena",es,72,35,,2020-09-10 06:56:06,0.0,0.0,1.0,0.0
+89,2,paco lucia,josromero22,España ,es,4,1106,,2020-09-10 06:53:52,0.4588,0.0,0.889,0.111
+90,2,paco lucia,alex_rbernabe,Madrid,es,0,856,,2020-09-10 06:52:45,-0.296,0.091,0.909,0.0
+91,2,paco lucia,22_bego,"Olivenza, España",es,48,280,,2020-09-10 06:51:56,0.0,0.0,1.0,0.0
+92,2,paco lucia,jjtellezrubio,El sur,es,4,7388,,2020-09-10 06:51:12,0.4588,0.0,0.889,0.111
+93,2,paco lucia,ABC_PlayTV,"Madrid, Spain",es,0,3289,,2020-09-10 06:50:26,0.0,0.0,1.0,0.0
+94,2,paco lucia,SHNB_BSHNB,"Baleares, Islas Baleares",es,4,3177,,2020-09-10 06:49:45,0.0,0.0,1.0,0.0
+95,2,paco lucia,Raskoln83003052,,es,0,1,,2020-09-10 06:48:16,-0.296,0.053,0.947,0.0
+96,2,paco lucia,Andraes53,,es,28,2480,,2020-09-10 06:41:52,0.0,0.0,1.0,0.0
+97,2,paco lucia,22_bego,"Olivenza, España",es,27,280,,2020-09-10 06:41:35,0.296,0.0,0.913,0.087
+98,2,paco lucia,Allbrecht12,,es,103,45,,2020-09-10 06:41:07,0.0,0.0,1.0,0.0
+99,2,paco lucia,joderquetropa1,,es,103,308,,2020-09-10 06:39:59,0.0,0.0,1.0,0.0
+100,3,chimy avila,periodicoaragon,Zaragoza,es,0,83003,,2020-09-10 08:01:35,0.0,0.0,1.0,0.0
+101,3,chimy avila,lizaldez,Pamplona / Iruña,es,0,879,,2020-09-10 08:00:44,-0.3818,0.126,0.874,0.0
+102,3,chimy avila,ESPNFCarg,"Buenos Aires, Argentina",es,0,453234,,2020-09-10 08:00:00,0.0,0.0,1.0,0.0
+103,3,chimy avila,Josue26Lodosa,"Lodosa, Nafarroa",es,23,430,,2020-09-10 07:58:35,-0.3818,0.094,0.906,0.0
+104,3,chimy avila,LaLigaMola,LaLiga,es,0,211,,2020-09-10 07:58:04,-0.296,0.04,0.96,0.0
+105,3,chimy avila,solofichajes123,,es,19,19043,,2020-09-10 07:57:15,0.0,0.0,1.0,0.0
+106,3,chimy avila,elSADARcom,,es,0,8314,,2020-09-10 07:56:50,-0.296,0.128,0.872,0.0
+107,3,chimy avila,solofichajes123,,es,23,19043,,2020-09-10 07:56:18,0.0,0.0,1.0,0.0
+108,3,chimy avila,Freeftbol1,,es,0,13,,2020-09-10 07:54:25,0.0,0.0,1.0,0.0
+109,3,chimy avila,alvaromarpo,"32 años, malagueño.",es,430,521,,2020-09-10 07:53:06,0.0,0.0,1.0,0.0
+110,3,chimy avila,rubengarciado,España,es,430,2132,,2020-09-10 07:52:26,0.0,0.0,1.0,0.0
+111,3,chimy avila,omjfut,,es,430,10,,2020-09-10 07:51:12,0.0,0.0,1.0,0.0
+112,3,chimy avila,xaavi45,,es,430,323,,2020-09-10 07:49:32,0.0,0.0,1.0,0.0
+113,3,chimy avila,Sauliraizoz,,es,23,402,,2020-09-10 07:48:21,-0.3818,0.094,0.906,0.0
+114,3,chimy avila,huntvalge,"Murcia, España",es,430,71,,2020-09-10 07:45:33,0.0,0.0,1.0,0.0
+115,3,chimy avila,patxo10,,es,23,929,,2020-09-10 07:37:12,-0.3818,0.094,0.906,0.0
+116,3,chimy avila,Osasunask,,es,23,147,,2020-09-10 07:36:43,-0.3818,0.094,0.906,0.0
+117,3,chimy avila,ErramunSebal,Bilbao,es,23,2319,,2020-09-10 07:36:11,-0.3818,0.094,0.906,0.0
+118,3,chimy avila,claras26,"Pamplona, España",es,23,1129,,2020-09-10 07:29:01,-0.3818,0.094,0.906,0.0
+119,3,chimy avila,laranarojilla,Salamaca y otros mundos,es,23,3063,,2020-09-10 07:25:54,-0.3818,0.094,0.906,0.0
+120,3,chimy avila,Radioagueda,Ciudad Rodrigo,es,0,374,,2020-09-10 07:24:01,0.0,0.0,1.0,0.0
+121,3,chimy avila,michaelguddah,tema/GH,es,430,1733,,2020-09-10 07:23:52,0.0,0.0,1.0,0.0
+122,3,chimy avila,Jotis97,Comunidad Foral de Navarra,es,23,283,,2020-09-10 07:23:30,-0.3818,0.094,0.906,0.0
+123,3,chimy avila,BetiGorri,Iruña\Pamplona,es,0,2943,,2020-09-10 07:19:49,0.0,0.0,1.0,0.0
+124,3,chimy avila,cesardeluis,Nafarroa,es,23,1938,,2020-09-10 07:19:12,-0.3818,0.094,0.906,0.0
+125,3,chimy avila,SandrusquiEsc,Pamplona/Navarra,es,23,366,,2020-09-10 07:18:47,-0.3818,0.094,0.906,0.0
+126,3,chimy avila,locodelcoco_11,Grecia,es,2,152,,2020-09-10 07:18:29,0.0,0.0,1.0,0.0
+127,3,chimy avila,Asesor_Biwenger,España,es,23,12602,,2020-09-10 07:18:09,-0.3818,0.094,0.906,0.0
+128,3,chimy avila,BetiGorri,Iruña\Pamplona,es,0,2943,,2020-09-10 07:17:06,0.0,0.0,1.0,0.0
+129,3,chimy avila,RoberCamara,Pamplona,es,23,9146,,2020-09-10 07:16:46,-0.3818,0.094,0.906,0.0
+130,3,chimy avila,undues,,es,23,408,,2020-09-10 07:13:54,-0.3818,0.094,0.906,0.0
+131,3,chimy avila,PlcidoLucano,"Telde, Gran Canaria",es,102,323,,2020-09-10 07:11:59,0.0,0.0,1.0,0.0
+132,3,chimy avila,etiAM9_,Iruñea,es,23,463,,2020-09-10 07:06:53,-0.3818,0.094,0.906,0.0
+133,3,chimy avila,enekobsoto,"Pamplona, España",es,23,13,,2020-09-10 07:06:31,-0.3818,0.094,0.906,0.0
+134,3,chimy avila,TotalFantasy,,es,0,27495,,2020-09-10 07:05:03,0.0,0.0,1.0,0.0
+135,3,chimy avila,JP14Oli,Lost,es,24,286,,2020-09-10 07:04:49,0.0,0.0,1.0,0.0
+136,3,chimy avila,siguemeyet,,es,0,1624,,2020-09-10 06:58:49,0.0,0.0,1.0,0.0
+137,3,chimy avila,aripov_sarvar,Uzbekistan 🇺🇿,es,1,287,,2020-09-10 06:57:43,0.0,0.0,1.0,0.0
+138,3,chimy avila,JOSROGEL,,es,23,20,,2020-09-10 06:56:17,-0.3818,0.094,0.906,0.0
+139,3,chimy avila,leyreddc90,,es,23,104,,2020-09-10 06:51:19,-0.3818,0.094,0.906,0.0
+140,3,chimy avila,InfodeFantasy,"Madrid, Comunidad de Madrid",es,0,1722,,2020-09-10 06:49:59,0.0,0.0,1.0,0.0
+141,3,chimy avila,carlossuescun1,Pamplona/ Iruña,es,23,476,,2020-09-10 06:46:40,-0.3818,0.094,0.906,0.0
+142,3,chimy avila,FerminGuru,,es,430,1,,2020-09-10 06:45:49,0.0,0.0,1.0,0.0
+143,3,chimy avila,elbernabeucom,Madrid,es,1,97182,,2020-09-10 06:45:08,0.0,0.0,1.0,0.0
+144,3,chimy avila,JosemanuSFC,Sevilla,es,9,551,,2020-09-10 06:41:04,0.0,0.0,1.0,0.0
+145,3,chimy avila,Estefa6_6,"Beniel, España",es,430,218,,2020-09-10 06:40:49,0.0,0.0,1.0,0.0
+146,3,chimy avila,ignacio_cancela,Aranda de Duero - Madrid,es,0,924,,2020-09-10 06:39:06,0.0,0.0,1.0,0.0
+147,3,chimy avila,hu80sinreblar,"Aragón, España",es,23,55,,2020-09-10 06:36:07,-0.3818,0.094,0.906,0.0
+148,3,chimy avila,Mendaur30,,es,23,1120,,2020-09-10 06:33:21,-0.3818,0.094,0.906,0.0
+149,3,chimy avila,JulianFutbol10,Argentina. ,es,430,734,,2020-09-10 06:31:51,0.0,0.0,1.0,0.0
+150,4,vuelta cole,OSilenciosa,Danzando entre las Nebulosas,es,17,3924,,2020-09-10 08:02:41,0.0,0.0,1.0,0.0
+151,4,vuelta cole,CreamRealBetis,Benito Villamarín,es,6,74947,,2020-09-10 08:02:20,0.6696,0.0,0.862,0.138
+152,4,vuelta cole,inarcas_quivana,🌋,es,0,436,,2020-09-10 08:02:19,0.0,0.0,1.0,0.0
+153,4,vuelta cole,srlobohms,"Sevilla, España",es,1329,479,,2020-09-10 08:02:09,0.0,0.0,1.0,0.0
+154,4,vuelta cole,Exposit88441294,Alcañizo. Toledo. 🇪🇺🇪🇸🇪🇺,es,17,248,,2020-09-10 08:02:04,0.0,0.0,1.0,0.0
+155,4,vuelta cole,negrilm,,es,2,1102,,2020-09-10 08:01:54,0.0,0.0,1.0,0.0
+156,4,vuelta cole,VientosOrihuela,Orihuela,es,14,6137,,2020-09-10 08:01:51,0.0,0.0,1.0,0.0
+157,4,vuelta cole,MDoloresRodri15,"Paterna, España",es,104,116,,2020-09-10 08:01:49,0.0,0.0,1.0,0.0
+158,4,vuelta cole,JamonesIbedul,"Hinojosa del Duque, Córdoba",es,0,17,,2020-09-10 08:01:48,0.0,0.0,1.0,0.0
+159,4,vuelta cole,periodicibiza,Ibiza y Formentera,es,0,16062,,2020-09-10 08:01:48,0.0,0.0,1.0,0.0
+160,4,vuelta cole,DelGobCantabria,"Santander, España",es,1,2175,,2020-09-10 08:01:33,0.0,0.0,1.0,0.0
+161,4,vuelta cole,MDoloresRodri15,"Paterna, España",es,230,116,,2020-09-10 08:01:33,0.34,0.0,0.909,0.091
+162,4,vuelta cole,alainEskTel,EuskalHerria,es,1,496,,2020-09-10 08:01:22,0.0,0.0,1.0,0.0
+163,4,vuelta cole,CrisAzparren,"Bilbao/Bilbo, Bizkaia",es,4,465,,2020-09-10 08:01:20,0.0,0.0,1.0,0.0
+164,4,vuelta cole,ccaqua,"Valencia, España",es,0,2023,,2020-09-10 08:01:11,0.4926,0.083,0.795,0.122
+165,4,vuelta cole,ClinicaMazuecos,"Alcázar de San Juan, España",es,2,238,,2020-09-10 08:00:51,0.0,0.0,1.0,0.0
+166,4,vuelta cole,ItopMC,Santa Cruz de Tenerife,es,0,1022,,2020-09-10 08:00:49,0.0,0.0,1.0,0.0
+167,4,vuelta cole,nuribeep,cartagena,es,2,115,,2020-09-10 08:00:43,0.0,0.0,1.0,0.0
+168,4,vuelta cole,iguanadepapel,"Comunidad de Madrid, España",es,23,537,,2020-09-10 08:00:26,0.0,0.0,1.0,0.0
+169,4,vuelta cole,anacon21,,es,1,832,,2020-09-10 08:00:23,-0.5574,0.153,0.847,0.0
+170,4,vuelta cole,vdsevilla,Sevilla,es,0,2368,,2020-09-10 08:00:14,0.0,0.0,1.0,0.0
+171,4,vuelta cole,SeveroMenoto,Cambio de chaqueta si quieres.,es,0,32,,2020-09-10 08:00:12,0.0,0.0,1.0,0.0
+172,4,vuelta cole,ClinicaParra,Badajoz,es,0,585,,2020-09-10 08:00:00,0.0,0.0,1.0,0.0
+173,4,vuelta cole,A3Noticias,,es,2,1938911,,2020-09-10 08:00:00,0.0,0.0,1.0,0.0
+174,4,vuelta cole,RoyBattys2,,es,23,256,,2020-09-10 07:59:44,0.0,0.0,1.0,0.0
+175,4,vuelta cole,jagule263,Almería,es,0,35,,2020-09-10 07:59:28,0.0,0.0,1.0,0.0
+176,4,vuelta cole,Lara_HS,,es,0,501,,2020-09-10 07:59:22,0.0,0.0,1.0,0.0
+177,4,vuelta cole,raultorresgo,,es,0,89,,2020-09-10 07:58:56,0.0,0.0,1.0,0.0
+178,4,vuelta cole,AytoBormujos,"Bormujos, Sevilla, Andalucía.",es,0,3533,,2020-09-10 07:58:51,0.0,0.0,1.0,0.0
+179,4,vuelta cole,JuanDom36675799,,es,15,174,,2020-09-10 07:58:40,-0.126,0.095,0.825,0.079
+180,4,vuelta cole,CarmenTwin72,,es,2,821,,2020-09-10 07:58:39,0.0,0.0,1.0,0.0
+181,4,vuelta cole,franmatas1979,,es,2,1063,,2020-09-10 07:58:37,0.0,0.0,1.0,0.0
+182,4,vuelta cole,CurritoRojo,,es,0,4552,,2020-09-10 07:58:33,-0.25,0.111,0.889,0.0
+183,4,vuelta cole,Madrileno85,,es,45,605,,2020-09-10 07:58:30,0.0,0.0,1.0,0.0
+184,4,vuelta cole,homersanti,barcelona,es,0,189,,2020-09-10 07:58:13,0.0,0.0,1.0,0.0
+185,4,vuelta cole,almupaleo,,es,29,619,,2020-09-10 07:57:58,0.0,0.0,1.0,0.0
+186,4,vuelta cole,marivalencina,Valencina de la concep.sevilla,es,6,843,,2020-09-10 07:57:51,0.6696,0.0,0.862,0.138
+187,4,vuelta cole,Matias_slb,"Málaga, España",es,0,2629,,2020-09-10 07:57:46,0.0,0.0,1.0,0.0
+188,4,vuelta cole,Bibliotecalcala,,es,5,752,,2020-09-10 07:57:45,0.0,0.0,1.0,0.0
+189,4,vuelta cole,SAlonsoUtrilla,Barcelona,es,0,193,,2020-09-10 07:57:29,0.0,0.0,1.0,0.0
+190,4,vuelta cole,fisioruthgracia,"Madrid, Comunidad de Madrid",es,4,42,,2020-09-10 07:56:49,0.0,0.0,1.0,0.0
+191,4,vuelta cole,JaviYMar,España,es,0,81726,,2020-09-10 07:56:43,0.34,0.0,0.862,0.138
+192,4,vuelta cole,JCMorenoIbarra,Sevilla,es,3,330,,2020-09-10 07:56:22,0.0,0.0,1.0,0.0
+193,4,vuelta cole,lbausalop,España,es,17,690,,2020-09-10 07:55:48,0.0,0.0,1.0,0.0
+194,4,vuelta cole,jonascandalija,N 59°20' 0'' / E 18°2' 0'',es,10,3406,,2020-09-10 07:55:42,0.0,0.0,1.0,0.0
+195,4,vuelta cole,DiegoFrancesch,"Madrid, España",es,1,1193,,2020-09-10 07:55:41,0.0,0.0,1.0,0.0
+196,4,vuelta cole,Bargnani1,Mérida,es,2,512,,2020-09-10 07:55:41,0.0,0.0,1.0,0.0
+197,4,vuelta cole,EAPNes,Madrid,es,10,13143,,2020-09-10 07:55:39,0.0,0.0,1.0,0.0
+198,4,vuelta cole,elconfidencial,moderador(@)elconfidencial.com,es,1,886909,,2020-09-10 07:55:38,-0.5574,0.104,0.896,0.0
+199,4,vuelta cole,a_oquillas,España,es,0,1484,,2020-09-10 07:55:10,0.0,0.0,1.0,0.0
+200,5,mocion censura,Lettyvoxerilla,España,es,157,324,,2020-09-10 08:02:52,0.0,0.0,1.0,0.0
+201,5,mocion censura,COJONESAZUL,,es,157,1832,,2020-09-10 08:02:50,0.0,0.0,1.0,0.0
+202,5,mocion censura,carinavarro0001,,es,3,294,,2020-09-10 08:02:49,0.0,0.0,1.0,0.0
+203,5,mocion censura,KattyLuisaAC,,es,236,36,,2020-09-10 08:02:46,0.0,0.0,1.0,0.0
+204,5,mocion censura,Idontkn96958491,,es,157,14,,2020-09-10 08:02:43,0.0,0.0,1.0,0.0
+205,5,mocion censura,jppuni,,es,157,832,,2020-09-10 08:02:40,0.0,0.0,1.0,0.0
+206,5,mocion censura,jmSinSentido,,es,0,1,,2020-09-10 08:02:34,0.0,0.0,1.0,0.0
+207,5,mocion censura,AbueloRabioso,España,es,157,5245,,2020-09-10 08:02:32,0.0,0.0,1.0,0.0
+208,5,mocion censura,nikkovk13,Vallecas,es,0,38,,2020-09-10 08:02:29,-0.8481,0.195,0.805,0.0
+209,5,mocion censura,ManuelBudigno,,es,1,3116,,2020-09-10 08:02:29,0.0,0.0,1.0,0.0
+210,5,mocion censura,Cristin26017,,es,157,2118,,2020-09-10 08:02:25,0.0,0.0,1.0,0.0
+211,5,mocion censura,tony85261604,España,es,157,847,,2020-09-10 08:02:22,0.0,0.0,1.0,0.0
+212,5,mocion censura,Daniel18470584,,es,12,1828,,2020-09-10 08:02:21,0.0,0.0,1.0,0.0
+213,5,mocion censura,soniia_gj,,es,0,197,,2020-09-10 08:02:20,0.0,0.0,1.0,0.0
+214,5,mocion censura,Juanito_Perlas,"San Sebastián, España",es,157,494,,2020-09-10 08:02:07,0.0,0.0,1.0,0.0
+215,5,mocion censura,Espidifen2,,es,0,111,,2020-09-10 08:01:52,-0.6808,0.13,0.87,0.0
+216,5,mocion censura,bedmar_pere,"Madrid, Comunidad de Madrid",es,1,3058,,2020-09-10 08:01:48,0.0,0.0,1.0,0.0
+217,5,mocion censura,del_coche,,es,12,80,,2020-09-10 08:01:38,0.0,0.0,1.0,0.0
+218,5,mocion censura,jesusmarana,Madrid,es,1,387351,,2020-09-10 08:01:27,0.0,0.0,1.0,0.0
+219,5,mocion censura,oscaroeacr,Costa Rica,es,2,295,,2020-09-10 08:01:20,0.0,0.0,1.0,0.0
+220,5,mocion censura,Ahumada16100869,,es,0,10,,2020-09-10 08:01:12,0.0,0.0,1.0,0.0
+221,5,mocion censura,voxvoxvox5,,es,12,130,,2020-09-10 08:01:07,0.0,0.0,1.0,0.0
+222,5,mocion censura,Tarik10848437,,es,157,2,,2020-09-10 08:00:50,0.0,0.0,1.0,0.0
+223,5,mocion censura,Adolfo24519926,,es,2,65,,2020-09-10 08:00:47,0.0,0.0,1.0,0.0
+224,5,mocion censura,ZComponte,"Esta España mía, esta España n",es,12,2007,,2020-09-10 08:00:41,0.0,0.0,1.0,0.0
+225,5,mocion censura,JorgeeJust,28030,es,138,274,,2020-09-10 08:00:26,-0.296,0.091,0.909,0.0
+226,5,mocion censura,LOCOCOMIO,Zimbabwe,es,80,4078,,2020-09-10 08:00:22,0.0,0.0,1.0,0.0
+227,5,mocion censura,Uxia59572409Ma,España,es,157,8118,,2020-09-10 08:00:18,0.0,0.0,1.0,0.0
+228,5,mocion censura,mcjaenb,,es,7,681,,2020-09-10 08:00:17,-0.296,0.095,0.905,0.0
+229,5,mocion censura,IsaLaMala1,"Principado de Asturias, España",es,0,336,,2020-09-10 08:00:03,0.0,0.0,1.0,0.0
+230,5,mocion censura,43_mariana,,es,157,492,,2020-09-10 07:59:59,0.0,0.0,1.0,0.0
+231,5,mocion censura,AntiRojos5,,es,157,2276,,2020-09-10 07:59:52,0.0,0.0,1.0,0.0
+232,5,mocion censura,Arena56122671,España,es,12,1050,,2020-09-10 07:59:41,0.0,0.0,1.0,0.0
+233,5,mocion censura,Hardalavirgen,,es,157,987,,2020-09-10 07:59:32,0.0,0.0,1.0,0.0
+234,5,mocion censura,Idiazaquso,Entre IFEMA y el apartamentito,es,12,19001,,2020-09-10 07:59:27,0.0,0.0,1.0,0.0
+235,5,mocion censura,AnamKra,"Cataluña, España",es,0,712,,2020-09-10 07:59:17,-0.296,0.046,0.954,0.0
+236,5,mocion censura,carsmas,,es,157,87,,2020-09-10 07:59:05,0.0,0.0,1.0,0.0
+237,5,mocion censura,ZeusOmega2,"Piura, Peru",es,381,15,,2020-09-10 07:58:50,0.0,0.0,1.0,0.0
+238,5,mocion censura,Jorge50371800,,es,229,41,,2020-09-10 07:58:42,0.0,0.0,1.0,0.0
+239,5,mocion censura,CorazonVerdeVox,España,es,157,8006,,2020-09-10 07:58:40,0.0,0.0,1.0,0.0
+240,5,mocion censura,ball_ion,Donald Trump 2020,es,157,160,,2020-09-10 07:58:38,0.0,0.0,1.0,0.0
+241,5,mocion censura,VictorLosada320,España,es,157,1661,,2020-09-10 07:58:36,0.0,0.0,1.0,0.0
+242,5,mocion censura,Ivan_de_Vargas,España,es,157,3632,,2020-09-10 07:58:31,0.0,0.0,1.0,0.0
+243,5,mocion censura,R0J01,,es,0,64,,2020-09-10 07:58:31,0.8745,0.149,0.61,0.241
+244,5,mocion censura,MADMEN78,3 Anfiteatro Lateral.,es,10,242,,2020-09-10 07:58:28,-0.296,0.087,0.913,0.0
+245,5,mocion censura,JaviiRCCelta,Vigo|Galiza Afouteza e Corazón,es,3,1719,,2020-09-10 07:58:25,0.5994,0.0,0.86,0.14
+246,5,mocion censura,Espp93,,es,0,216,,2020-09-10 07:57:40,-0.3595,0.066,0.934,0.0
+247,5,mocion censura,Undomiel69,Tierra Media,es,157,155,,2020-09-10 07:57:34,0.0,0.0,1.0,0.0
+248,5,mocion censura,LJes2014,"Lima, Peru",es,144,313,,2020-09-10 07:57:29,-0.296,0.091,0.909,0.0
+249,5,mocion censura,VistaLinceIberi,,es,3,2451,,2020-09-10 07:57:22,0.0,0.0,1.0,0.0
+250,6,boris johnson,MadridEuropa,Comunidad de Madrid,es,0,2446,,2020-09-10 07:59:22,0.0,0.0,1.0,0.0
+251,6,boris johnson,hortensia73,"London
+",es,2,758,,2020-09-10 07:57:31,0.0,0.0,1.0,0.0
+252,6,boris johnson,hijodelprofe,"Granada, España",es,6,789,,2020-09-10 07:53:24,-0.296,0.109,0.891,0.0
+253,6,boris johnson,1Z8b0Iln9,"Mundo, Europa, España",es,0,9260,,2020-09-10 07:52:11,0.0,0.0,1.0,0.0
+254,6,boris johnson,scollvaz,España,es,243,2701,,2020-09-10 07:48:55,0.0,0.0,1.0,0.0
+255,6,boris johnson,euroefe,,es,0,14423,,2020-09-10 07:46:28,0.0,0.0,1.0,0.0
+256,6,boris johnson,Celiamaza,London,es,0,4930,,2020-09-10 07:36:55,0.34,0.0,0.961,0.039
+257,6,boris johnson,marisanba1,"Pontevedra, España🇪🇸",es,2,3770,,2020-09-10 07:29:31,-0.296,0.084,0.916,0.0
+258,6,boris johnson,elapruebot,santiago,es,7,23,,2020-09-10 07:29:24,0.0,0.0,1.0,0.0
+259,6,boris johnson,CriptoRobbie,"Madrid, Comunidad de Madrid",es,0,76,,2020-09-10 07:27:41,0.0,0.0,1.0,0.0
+260,6,boris johnson,pinera2022,,es,7,188,,2020-09-10 07:25:16,0.0,0.0,1.0,0.0
+261,6,boris johnson,luis_man20,Nicaragua,es,0,135,,2020-09-10 07:20:42,0.0,0.0,1.0,0.0
+262,6,boris johnson,mm_gomez,Chile,es,7,400,,2020-09-10 07:18:32,0.0,0.0,1.0,0.0
+263,6,boris johnson,carlosclavijo22,"Madrid, España",es,0,4766,,2020-09-10 07:15:40,0.2732,0.0,0.946,0.054
+264,6,boris johnson,CrisAzparren,"Bilbao/Bilbo, Bizkaia",es,11,465,,2020-09-10 07:11:13,0.0,0.0,1.0,0.0
+265,6,boris johnson,Celiamaza,London,es,2,4930,,2020-09-10 07:10:19,-0.296,0.084,0.916,0.0
+266,6,boris johnson,javpaz2715,,es,4,151,,2020-09-10 06:58:03,0.0,0.0,1.0,0.0
+267,6,boris johnson,serotoninica,"Barcelona, Catalunya",es,0,332,,2020-09-10 06:49:39,0.0,0.0,1.0,0.0
+268,6,boris johnson,CaamiOsses,"Santiago, Chile",es,4,2773,,2020-09-10 06:47:01,0.0,0.0,1.0,0.0
+269,6,boris johnson,CriAndrades,,es,4,2244,,2020-09-10 06:46:00,0.0,0.0,1.0,0.0
+270,6,boris johnson,palomatmg,España,es,243,249,,2020-09-10 06:43:49,0.0,0.0,1.0,0.0
+271,6,boris johnson,CarlosArranz14,,es,6,73,,2020-09-10 06:41:04,-0.296,0.109,0.891,0.0
+272,6,boris johnson,Dalek_fan,"Asturias, de momento",es,6,3224,,2020-09-10 06:40:53,-0.296,0.109,0.891,0.0
+273,6,boris johnson,Espurina,,es,243,1376,,2020-09-10 06:32:33,0.0,0.0,1.0,0.0
+274,6,boris johnson,paherrera1,,es,4,679,,2020-09-10 06:29:35,0.0,0.0,1.0,0.0
+275,6,boris johnson,CarlosLpez16,"Madrid, España",es,243,222,,2020-09-10 06:27:17,0.0,0.0,1.0,0.0
+276,6,boris johnson,latercera,"Santiago, Chile",es,4,1951970,,2020-09-10 06:20:00,0.0,0.0,1.0,0.0
+277,6,boris johnson,gkar91,quelque part,es,0,1040,,2020-09-10 06:12:07,0.0,0.0,1.0,0.0
+278,6,boris johnson,Optymysta,mundo,es,0,741,,2020-09-10 05:48:02,0.34,0.0,0.745,0.255
+279,6,boris johnson,disfrutalacienc,Cartagena (Murcia) España,es,0,14774,,2020-09-10 05:40:12,0.0,0.0,1.0,0.0
+280,6,boris johnson,mcalfredo8,España 🇪🇸 ,es,243,684,,2020-09-10 05:36:51,0.0,0.0,1.0,0.0
+281,6,boris johnson,Cucaycani,,es,243,47,,2020-09-10 05:35:51,0.0,0.0,1.0,0.0
+282,6,boris johnson,UNoticias,"Caracas, Venezuela",es,1,4116288,,2020-09-10 05:32:08,0.0,0.0,1.0,0.0
+283,6,boris johnson,BarzaliT,,es,243,1105,,2020-09-10 05:29:22,0.0,0.0,1.0,0.0
+284,6,boris johnson,mayitaluzz,,es,2,275,,2020-09-10 05:19:43,0.0,0.0,1.0,0.0
+285,6,boris johnson,larazon_es,España,es,2,521827,,2020-09-10 05:10:00,-0.296,0.055,0.945,0.0
+286,6,boris johnson,PrincesaEboli,,es,243,2001,,2020-09-10 05:09:56,0.0,0.0,1.0,0.0
+287,6,boris johnson,mirabust,San Juan Morros,es,30,2040,,2020-09-10 04:56:02,0.34,0.0,0.902,0.098
+288,6,boris johnson,alav2012,Vitoria-Alava-Pais Vasco-Spain,es,0,11649,,2020-09-10 04:54:39,0.0,0.0,1.0,0.0
+289,6,boris johnson,mediatize_info,Espanya,es,0,1162,,2020-09-10 04:50:03,0.0,0.0,1.0,0.0
+290,6,boris johnson,talafree1,La Tierra ,es,1,647,,2020-09-10 04:32:50,0.0,0.0,1.0,0.0
+291,6,boris johnson,Supernaturalret,,es,4,114,,2020-09-10 04:31:01,-0.296,0.084,0.916,0.0
+292,6,boris johnson,GaloOntivero,"Buenos Aires, Argentina",es,0,774,,2020-09-10 04:29:10,0.0,0.0,1.0,0.0
+293,6,boris johnson,Melanie23337110,México,es,2,186,,2020-09-10 04:27:13,0.0,0.0,1.0,0.0
+294,6,boris johnson,danakalashnikov,,es,243,130,,2020-09-10 04:24:11,0.0,0.0,1.0,0.0
+295,6,boris johnson,Reporte_Indigo,CDMX / Guadalajara / Monterrey,es,2,933818,,2020-09-10 04:15:00,0.0,0.0,1.0,0.0
+296,6,boris johnson,elangeldeteresa,Venezuela,es,0,2996,,2020-09-10 03:59:44,0.0,0.0,1.0,0.0
+297,6,boris johnson,XavierCasalsM,España,es,0,1968,,2020-09-10 03:45:57,0.0,0.0,1.0,0.0
+298,6,boris johnson,AmadoBC,"Ensenada, BC.  ",es,0,1597,,2020-09-10 03:33:15,0.0,0.0,1.0,0.0
+299,6,boris johnson,bancaynegocios,"Caracas, Venezuela",es,0,71767,,2020-09-10 03:28:53,0.0,0.0,1.0,0.0
+300,7,vacuna covid19,juanjocaceresn,"Barcelona, Catalunya",es,0,11710,,2020-09-10 08:02:55,0.0,0.0,1.0,0.0
+301,7,vacuna covid19,tinoquista,"Madrid, España",es,2134,279,,2020-09-10 08:02:16,-0.7003,0.195,0.805,0.0
+302,7,vacuna covid19,sheilagonagu,,es,70,1267,,2020-09-10 08:02:14,-0.296,0.087,0.913,0.0
+303,7,vacuna covid19,negrilm,,es,2,1102,,2020-09-10 08:01:31,0.0,0.0,1.0,0.0
+304,7,vacuna covid19,Melenita10,mexico,es,286,47,,2020-09-10 08:01:27,0.0,0.0,1.0,0.0
+305,7,vacuna covid19,martanietob,"Burgos, España",es,2,382,,2020-09-10 08:00:16,0.0,0.0,1.0,0.0
+306,7,vacuna covid19,NiusDiario,,es,2,47673,,2020-09-10 08:00:01,0.4939,0.0,0.906,0.094
+307,7,vacuna covid19,carlosgalapero,"Zafra, Badajoz",es,1,290,,2020-09-10 07:59:05,-0.296,0.078,0.922,0.0
+308,7,vacuna covid19,AdriaanVidal,,es,2134,275,,2020-09-10 07:58:53,-0.7003,0.195,0.805,0.0
+309,7,vacuna covid19,MadKazKun,EnDondePuedaCagarmeEnTodo,es,2134,182,,2020-09-10 07:58:29,-0.7003,0.195,0.805,0.0
+310,7,vacuna covid19,Umasuki2,"Madrid, España",es,2134,98,,2020-09-10 07:58:19,-0.7003,0.195,0.805,0.0
+311,7,vacuna covid19,ErnestoQA,Getxo Bilbao Quintana MG,es,0,1847,,2020-09-10 07:58:05,0.0,0.0,1.0,0.0
+312,7,vacuna covid19,ArlianyB,,es,10,192,,2020-09-10 07:57:57,0.0,0.0,1.0,0.0
+313,7,vacuna covid19,yanogrito,,es,10,96,,2020-09-10 07:57:34,0.0,0.0,1.0,0.0
+314,7,vacuna covid19,Pacowsky,España (Spain),es,2134,48,,2020-09-10 07:56:31,-0.7003,0.195,0.805,0.0
+315,7,vacuna covid19,Marianodiezg,"Madrid, Comunidad de Madrid",es,1,291,,2020-09-10 07:55:56,-0.296,0.044,0.956,0.0
+316,7,vacuna covid19,sonia_riverogc,,es,2134,13966,,2020-09-10 07:55:09,-0.7003,0.195,0.805,0.0
+317,7,vacuna covid19,teresa_cgarcia,Fuencarral (pueblo),es,10,414,,2020-09-10 07:54:46,0.0,0.0,1.0,0.0
+318,7,vacuna covid19,Cahora,Islas Canarias,es,0,75031,,2020-09-10 07:53:48,0.0,0.0,1.0,0.0
+319,7,vacuna covid19,drltamara,"Bogotá, D.C., Colombia",es,8,202,,2020-09-10 07:53:25,0.0516,0.089,0.813,0.098
+320,7,vacuna covid19,Jose81788774,,es,8,43,,2020-09-10 07:53:09,0.0516,0.089,0.813,0.098
+321,7,vacuna covid19,agustinpazosl,,es,12,70,,2020-09-10 07:53:02,-0.296,0.095,0.905,0.0
+322,7,vacuna covid19,JMFundacionAC,"Distrito Federal, México",es,209,155,,2020-09-10 07:52:40,0.0,0.0,1.0,0.0
+323,7,vacuna covid19,MMolondrona,,es,273,2437,,2020-09-10 07:52:20,0.0,0.0,1.0,0.0
+324,7,vacuna covid19,ChabyCevallos,,es,0,4195,,2020-09-10 07:49:29,-0.296,0.055,0.945,0.0
+325,7,vacuna covid19,MascarillasA,,es,0,16,,2020-09-10 07:49:26,0.0,0.0,1.0,0.0
+326,7,vacuna covid19,topinforma7,"TALCA , CHILE",es,0,11371,,2020-09-10 07:48:41,0.0,0.0,1.0,0.0
+327,7,vacuna covid19,OsmaniMariano,"Santa Marta, Colombia",es,2,3,,2020-09-10 07:47:57,0.0,0.0,1.0,0.0
+328,7,vacuna covid19,jhro1211,Perú,es,8,348,,2020-09-10 07:47:52,0.0,0.0,1.0,0.0
+329,7,vacuna covid19,SamyH1982,,es,0,1217,,2020-09-10 07:47:32,0.0,0.0,1.0,0.0
+330,7,vacuna covid19,ASPE_SPrivada, MADRID,es,5,2947,,2020-09-10 07:47:08,0.0,0.0,1.0,0.0
+331,7,vacuna covid19,santipepa,España,es,0,163,,2020-09-10 07:47:02,-0.8481,0.221,0.779,0.0
+332,7,vacuna covid19,chris_slz,,es,286,0,,2020-09-10 07:45:15,0.0,0.0,1.0,0.0
+333,7,vacuna covid19,1968Topo,,es,85,134,,2020-09-10 07:44:35,0.0,0.0,1.0,0.0
+334,7,vacuna covid19,lINoOnelI,España,es,10,35,,2020-09-10 07:44:09,0.0,0.0,1.0,0.0
+335,7,vacuna covid19,AlexiLecusay,"Banjul, Gambia",es,9,336,,2020-09-10 07:44:07,-0.296,0.084,0.916,0.0
+336,7,vacuna covid19,miangumartos,"Madrid, Comunidad de Madrid",es,70,69,,2020-09-10 07:43:46,-0.296,0.087,0.913,0.0
+337,7,vacuna covid19,AddysCepero,"GC, Las palmas, España",es,104,19,,2020-09-10 07:43:26,0.0,0.0,1.0,0.0
+338,7,vacuna covid19,edurobayo7,"Quito, Ecuador",es,0,3720,,2020-09-10 07:43:11,0.0,0.0,1.0,0.0
+339,7,vacuna covid19,xroscas,,es,2134,78,,2020-09-10 07:42:43,-0.7003,0.195,0.805,0.0
+340,7,vacuna covid19,Mary__Ro,,es,2134,109,,2020-09-10 07:41:52,-0.7003,0.195,0.805,0.0
+341,7,vacuna covid19,Zentenario1,,es,12,24,,2020-09-10 07:41:29,-0.296,0.095,0.905,0.0
+342,7,vacuna covid19,miferrerguillo,,es,0,620,,2020-09-10 07:40:54,-0.296,0.052,0.948,0.0
+343,7,vacuna covid19,EDGARDOGARCIASA,garciasalgadoedgardo@gmail.com,es,15,27744,,2020-09-10 07:40:43,0.0,0.0,1.0,0.0
+344,7,vacuna covid19,Patitalamour,,es,286,990,,2020-09-10 07:40:22,0.0,0.0,1.0,0.0
+345,7,vacuna covid19,Elperiodiquito,"Maracay, Venezuela",es,0,353932,,2020-09-10 07:40:00,-0.296,0.128,0.872,0.0
+346,7,vacuna covid19,CamiloMorado,"Salamanca, Spain",es,3,227,,2020-09-10 07:39:58,0.0,0.0,1.0,0.0
+347,7,vacuna covid19,josemorci13,"Albacete, Castilla-La Mancha",es,2134,101,,2020-09-10 07:39:04,-0.7003,0.195,0.805,0.0
+348,7,vacuna covid19,PeterHerrera1,"Guadalajara, Jalisco",es,66,906,,2020-09-10 07:39:01,0.0,0.0,1.0,0.0
+349,7,vacuna covid19,aldo_bak,,es,548,110,,2020-09-10 07:38:45,-0.3736,0.109,0.891,0.0
+350,8,limitacion precio,joseph65102920,,es,5,411,,2020-09-10 07:31:41,0.0,0.0,1.0,0.0
+351,8,limitacion precio,Ana37454709,,es,5,333,,2020-09-10 07:30:05,0.0,0.0,1.0,0.0
+352,8,limitacion precio,SebastianLede15,"Santa Cruz de Tenerife, Islas ",es,5,777,,2020-09-10 07:21:08,0.0,0.0,1.0,0.0
+353,8,limitacion precio,PalomaGazquez,"Principado de Asturias, España",es,5,2572,,2020-09-10 07:16:29,0.0,0.0,1.0,0.0
+354,8,limitacion precio,el_partal,Europe,es,5,1070,,2020-09-10 07:14:59,0.0,0.0,1.0,0.0
+355,8,limitacion precio,AnaZurita7,Tenerife. Islas Canarias,es,5,3758,,2020-09-10 07:14:53,0.0,0.0,1.0,0.0
+356,8,limitacion precio,DavidPassarell,"Montcada i Reixac, España",es,0,310,,2020-09-10 06:11:22,0.0,0.0,1.0,0.0
+357,8,limitacion precio,bepicoma,"Palma, España",es,0,15,,2020-09-09 21:54:33,0.0,0.0,1.0,0.0
+358,8,limitacion precio,delbaixdel79,Baix Llobregat,es,0,263,,2020-09-09 21:12:44,-0.25,0.088,0.863,0.048
+359,8,limitacion precio,moffgran,"Cataluña, España",es,0,514,,2020-09-09 20:09:05,0.0,0.0,1.0,0.0
+360,8,limitacion precio,albertoizqgor,"Castelldefels, España",es,0,490,,2020-09-09 19:46:31,-0.872,0.207,0.793,0.0
+361,8,limitacion precio,ToniLehnsherr,Rosa de Foc,es,0,1028,,2020-09-09 19:43:21,-0.296,0.128,0.872,0.0
+362,8,limitacion precio,larazon_es,España,es,0,521827,,2020-09-09 19:21:24,0.0,0.0,1.0,0.0
+363,8,limitacion precio,risierra88,"Medellín, Colombia",es,0,3680,,2020-09-09 18:42:43,-0.2003,0.059,0.901,0.04
+364,8,limitacion precio,Lacarrrpa,República de Catalunya,es,2,6126,,2020-09-09 18:13:17,0.0,0.0,1.0,0.0
+365,8,limitacion precio,teflonio,,es,2,643,,2020-09-09 18:06:58,0.0,0.0,1.0,0.0
+366,8,limitacion precio,larazon_es,España,es,0,521827,,2020-09-09 18:00:25,-0.296,0.052,0.948,0.0
+367,8,limitacion precio,AngelCotayna,,es,5,284,,2020-09-09 17:25:36,-0.296,0.099,0.901,0.0
+368,8,limitacion precio,RogerdClari,Barcelona #Tabarnia,es,0,1700,,2020-09-09 17:10:40,0.0,0.0,1.0,0.0
+369,8,limitacion precio,Quemaditos1,Es asunto mío,es,0,34,,2020-09-09 16:09:48,0.0,0.0,1.0,0.0
+370,8,limitacion precio,IOcells,,es,5,25,,2020-09-09 14:09:28,-0.296,0.099,0.901,0.0
+371,8,limitacion precio,Vicente61000284,,es,5,31,,2020-09-09 13:59:14,-0.296,0.099,0.901,0.0
+372,8,limitacion precio,Exposit88441294,Alcañizo. Toledo. 🇪🇺🇪🇸🇪🇺,es,5,248,,2020-09-09 13:58:18,-0.296,0.099,0.901,0.0
+373,8,limitacion precio,Jeanantoine12,France,es,5,1608,,2020-09-09 13:58:14,-0.296,0.099,0.901,0.0
+374,8,limitacion precio,RosiePerl,,es,0,1595,,2020-09-09 13:57:02,-0.296,0.099,0.901,0.0
+375,8,limitacion precio,LaVanguardia,Barcelona,es,5,1184112,,2020-09-09 13:49:31,-0.296,0.099,0.901,0.0
+376,8,limitacion precio,spookylain,"Málaga, España",es,0,67,,2020-09-09 13:05:19,-0.296,0.051,0.949,0.0
+377,8,limitacion precio,elverdote,"Torrevieja, España",es,0,28,,2020-09-09 12:43:16,0.0,0.0,1.0,0.0
+378,8,limitacion precio,JGCasarrubios,,es,0,133,,2020-09-09 12:34:03,-0.296,0.053,0.947,0.0
+379,8,limitacion precio,foroecoinmob,"Madrid, Comunidad de Madrid",es,0,26,,2020-09-09 10:22:19,0.0,0.0,1.0,0.0
+380,8,limitacion precio,CEFYRE,"Madrid, España",es,0,30,,2020-09-09 10:21:16,0.0,0.0,1.0,0.0
+381,8,limitacion precio,europapress_tv,España,es,0,14827,,2020-09-09 10:02:17,0.0,0.0,1.0,0.0
+382,8,limitacion precio,MaguCT,"Barcelona, España.",es,0,506,,2020-09-09 10:02:05,0.0,0.0,1.0,0.0
+383,8,limitacion precio,gscapital2,"Barcelona, España",es,2,65,,2020-09-09 08:11:04,0.0,0.0,1.0,0.0
+384,8,limitacion precio,icrowdhouse,"Barcelona, España",es,2,181,,2020-09-09 06:43:31,0.0,0.0,1.0,0.0
+385,8,limitacion precio,JenniferZaldo,Madrid,es,2,423,,2020-09-09 06:16:11,0.0,0.0,1.0,0.0
+386,8,limitacion precio,robertoeh777,"Distrito Federal, México",es,0,12,,2020-09-09 02:17:11,0.0,0.0,1.0,0.0
+387,8,limitacion precio,STesla3,Alemania,es,0,123,,2020-09-08 21:30:57,0.3182,0.0,0.96,0.04
+388,8,limitacion precio,secreto_gz,"A Coruña, España",es,0,645,,2020-09-08 16:59:15,0.0,0.0,1.0,0.0
+389,8,limitacion precio,VadilloMario,,es,0,1101,,2020-09-08 13:55:21,-0.296,0.046,0.954,0.0
+390,8,limitacion precio,Fer_franzini1,"Miramar, Córdoba, Argentina",es,3,31,,2020-09-07 16:03:22,0.0,0.0,1.0,0.0
+391,8,limitacion precio,claudio_fassi,,es,3,11,,2020-09-07 14:39:14,0.0,0.0,1.0,0.0
+392,8,limitacion precio,AC_Seville,"Sevilla, España",es,0,1249,,2020-09-07 13:41:25,0.0,0.0,1.0,0.0
+393,8,limitacion precio,CarlosMaslaton,"Buenos Aires, Argentina",es,3,68083,,2020-09-07 13:21:45,-0.3818,0.061,0.939,0.0
+394,8,limitacion precio,matuerso_11,"Córdoba, Argentina",es,0,22,,2020-09-06 13:34:38,-0.296,0.037,0.963,0.0
+395,8,limitacion precio,jesus_gomez_79,,es,0,16,,2020-09-05 21:52:05,0.3612,0.0,0.923,0.077
+396,8,limitacion precio,ByTecnoYT,Spawn Chunks 10 65 -35,es,0,39,,2020-09-05 12:09:56,-0.5267,0.075,0.925,0.0
+397,8,limitacion precio,silverchaos2k,Cadiz - Madrid,es,0,6094,,2020-09-04 22:59:08,0.0772,0.052,0.89,0.059
+398,8,limitacion precio,amigo_Andres,Bar celona,es,0,293,,2020-09-04 19:57:02,-0.5267,0.101,0.899,0.0
+399,8,limitacion precio,PacoFortes_,"Málaga, España",es,0,56,,2020-09-04 18:43:54,0.0,0.0,1.0,0.0
+400,9,pacientes hospitalizados covid,Hernandez79X,San Salvador,es,6,660,,2020-09-10 07:32:20,0.0,0.0,1.0,0.0
+401,9,pacientes hospitalizados covid,gabriel79381263,,es,6,1,,2020-09-10 07:30:17,0.0,0.0,1.0,0.0
+402,9,pacientes hospitalizados covid,EDGARDOGARCIASA,garciasalgadoedgardo@gmail.com,es,4,27744,,2020-09-10 07:22:26,0.34,0.0,0.909,0.091
+403,9,pacientes hospitalizados covid,UFlorestm,México,es,6,396,,2020-09-10 07:20:25,0.0,0.0,1.0,0.0
+404,9,pacientes hospitalizados covid,Eliseo010406071,,es,6,120,,2020-09-10 07:03:09,0.0,0.0,1.0,0.0
+405,9,pacientes hospitalizados covid,angeeelsau,#CDMX,es,6,699,,2020-09-10 07:01:19,0.0,0.0,1.0,0.0
+406,9,pacientes hospitalizados covid,Mariano_MF1,Anywhere ,es,6,1596,,2020-09-10 07:00:50,0.0,0.0,1.0,0.0
+407,9,pacientes hospitalizados covid,El_Universal_Mx,Centro de la Ciudad de México,es,6,5733555,,2020-09-10 07:00:00,-0.296,0.05,0.95,0.0
+408,9,pacientes hospitalizados covid,YMingueza,Directora relaciones institucionales #fidisp,es,233,147,,2020-09-10 06:59:47,-0.296,0.095,0.905,0.0
+409,9,pacientes hospitalizados covid,Adan_Alcantar_,,es,3,166,,2020-09-10 06:50:36,-0.296,0.095,0.905,0.0
+410,9,pacientes hospitalizados covid,GDLHashtag,"Guadalajara, Jalisco",es,3,62,,2020-09-10 06:48:05,-0.296,0.095,0.905,0.0
+411,9,pacientes hospitalizados covid,sandymmv,"Zaragoza, España",es,233,1347,,2020-09-10 06:33:25,-0.296,0.095,0.905,0.0
+412,9,pacientes hospitalizados covid,rameneses1,spain,es,0,12117,,2020-09-10 06:30:05,0.0,0.0,1.0,0.0
+413,9,pacientes hospitalizados covid,Andy9597,,es,4,14,,2020-09-10 06:18:53,0.34,0.0,0.909,0.091
+414,9,pacientes hospitalizados covid,elcomerciodigit,Asturias - España,es,0,127598,,2020-09-10 05:34:21,0.0,0.0,1.0,0.0
+415,9,pacientes hospitalizados covid,JorgeMachucaL,"Puebla, México",es,2,5655,,2020-09-10 05:32:21,0.0,0.0,1.0,0.0
+416,9,pacientes hospitalizados covid,SerendipiaData,Mexico,es,2,5796,,2020-09-10 05:31:55,0.7351,0.0,0.844,0.156
+417,9,pacientes hospitalizados covid,BeckyReynoso,facebook Becky Reynoso,es,3,41137,,2020-09-10 05:21:40,-0.296,0.081,0.919,0.0
+418,9,pacientes hospitalizados covid,GCervantesgarc,"Frontera, Juárez",es,4,46,,2020-09-10 05:15:06,0.0,0.0,1.0,0.0
+419,9,pacientes hospitalizados covid,ArkRamirez,"Querétaro, Querétaro Arteaga",es,18,291,,2020-09-10 05:10:41,0.0,0.0,1.0,0.0
+420,9,pacientes hospitalizados covid,alexrpadron,m,es,2,2302,,2020-09-10 05:04:54,-0.296,0.078,0.922,0.0
+421,9,pacientes hospitalizados covid,RevistaSOCAMPAR,,es,0,2039,,2020-09-10 04:58:55,-0.296,0.109,0.891,0.0
+422,9,pacientes hospitalizados covid,minuto30com,Medellín / Bogotá,es,2,630649,,2020-09-10 04:50:00,-0.296,0.056,0.944,0.0
+423,9,pacientes hospitalizados covid,archie3725,,es,18,98,,2020-09-10 04:46:36,0.0,0.0,1.0,0.0
+424,9,pacientes hospitalizados covid,Anita_Fuentes7,,es,35,198,,2020-09-10 04:44:37,0.0,0.0,1.0,0.0
+425,9,pacientes hospitalizados covid,NL_FUT_POLITICA,"Monterrey, Nuevo León",es,1,86,,2020-09-10 04:44:32,0.34,0.0,0.906,0.094
+426,9,pacientes hospitalizados covid,delinfor,Cuernavaca,es,4,133,,2020-09-10 04:42:44,0.34,0.0,0.909,0.091
+427,9,pacientes hospitalizados covid,Milenio,México,es,4,4725836,,2020-09-10 04:40:07,0.34,0.0,0.948,0.052
+428,9,pacientes hospitalizados covid,mileniotv,México,es,1,766529,,2020-09-10 04:40:07,0.34,0.0,0.948,0.052
+429,9,pacientes hospitalizados covid,pruize,,es,18,516,,2020-09-10 04:34:30,0.0,0.0,1.0,0.0
+430,9,pacientes hospitalizados covid,TWenderdel,,es,35,1377,,2020-09-10 04:26:23,0.0,0.0,1.0,0.0
+431,9,pacientes hospitalizados covid,mjgaitan_,,es,1,63,,2020-09-10 04:19:08,0.0,0.0,1.0,0.0
+432,9,pacientes hospitalizados covid,RadioFormulaQro,Radio Fórmula Querétaro,es,0,4498,,2020-09-10 03:58:15,-0.296,0.078,0.922,0.0
+433,9,pacientes hospitalizados covid,gob_reg,"Cajamarca, Peru",es,1,2879,,2020-09-10 03:45:46,0.0,0.0,1.0,0.0
+434,9,pacientes hospitalizados covid,Carlit0sFinster,Siempre por la izquierda,es,4,178,,2020-09-10 03:45:23,0.0,0.0,1.0,0.0
+435,9,pacientes hospitalizados covid,guautama,,es,4,115,,2020-09-10 03:38:56,0.0,0.0,1.0,0.0
+436,9,pacientes hospitalizados covid,Industriales_SJ,"San Juan del Río, Querétaro",es,2,75,,2020-09-10 03:37:53,0.0,0.0,1.0,0.0
+437,9,pacientes hospitalizados covid,Industriales_SJ,"San Juan del Río, Querétaro",es,18,75,,2020-09-10 03:36:35,0.0,0.0,1.0,0.0
+438,9,pacientes hospitalizados covid,Mallyta_19,,es,4,274,,2020-09-10 03:20:17,0.0,0.0,1.0,0.0
+439,9,pacientes hospitalizados covid,Mossad58,Chile,es,35,1368,,2020-09-10 03:18:22,0.0,0.0,1.0,0.0
+440,9,pacientes hospitalizados covid,QuodCivis,"San Pejesburgo, Rusia",es,4,3843,,2020-09-10 03:14:14,0.0,0.0,1.0,0.0
+441,9,pacientes hospitalizados covid,elhijodelrayo,,es,4,8368,,2020-09-10 03:13:34,0.0,0.0,1.0,0.0
+442,9,pacientes hospitalizados covid,RenHernndezBar2,,es,35,258,,2020-09-10 03:07:01,0.0,0.0,1.0,0.0
+443,9,pacientes hospitalizados covid,elbuho_pe,"Arequipa, Peru",es,4,18732,,2020-09-10 03:02:33,0.0,0.0,1.0,0.0
+444,9,pacientes hospitalizados covid,Vane_am81,,es,18,58,,2020-09-10 03:01:25,0.0,0.0,1.0,0.0
+445,9,pacientes hospitalizados covid,EvelynHip,santiago,es,35,1200,,2020-09-10 02:52:48,0.0,0.0,1.0,0.0
+446,9,pacientes hospitalizados covid,AlbertoSarAng,Madrid (Spain),es,26,691,,2020-09-10 02:39:38,0.0,0.0,1.0,0.0
+447,9,pacientes hospitalizados covid,exa_queretaro,QUERÉTARO,es,18,44298,,2020-09-10 02:37:17,0.0,0.0,1.0,0.0
+448,9,pacientes hospitalizados covid,JAlonsoKmposS,"Querétaro, Querétaro Arteaga",es,2,1234,,2020-09-10 02:35:42,0.0,0.0,1.0,0.0
+449,9,pacientes hospitalizados covid,inqro1,Totalmente Cloud Computing,es,2,26419,,2020-09-10 02:32:07,-0.296,0.056,0.944,0.0
+450,10,censura psoe,jmSinSentido,,es,0,1,,2020-09-10 08:02:34,0.0,0.0,1.0,0.0
+451,10,censura psoe,ManuelBudigno,,es,1,3116,,2020-09-10 08:02:29,0.0,0.0,1.0,0.0
+452,10,censura psoe,jesusmarana,Madrid,es,1,387351,,2020-09-10 08:01:27,0.0,0.0,1.0,0.0
+453,10,censura psoe,AnamKra,"Cataluña, España",es,0,712,,2020-09-10 07:59:17,-0.296,0.046,0.954,0.0
+454,10,censura psoe,rafaestuparmar,"Arinaga, Agüimes, España",es,15,46,,2020-09-10 07:58:32,-0.296,0.091,0.909,0.0
+455,10,censura psoe,MADMEN78,3 Anfiteatro Lateral.,es,10,242,,2020-09-10 07:58:28,-0.296,0.087,0.913,0.0
+456,10,censura psoe,TecladoQwerty1,,es,0,3,,2020-09-10 07:58:06,-0.296,0.059,0.941,0.0
+457,10,censura psoe,JuanVMPatrio,"Palma, España",es,9,255,,2020-09-10 07:55:41,0.0,0.0,1.0,0.0
+458,10,censura psoe,ferarca2,Madrid,es,0,729,,2020-09-10 07:54:59,-0.5267,0.173,0.827,0.0
+459,10,censura psoe,luciaglezglez,Madrid,es,0,4203,,2020-09-10 07:54:56,-0.5267,0.14,0.86,0.0
+460,10,censura psoe,maalmela,En Madrid,es,0,852,,2020-09-10 07:54:45,0.0,0.0,1.0,0.0
+461,10,censura psoe,Dama_Cristal,"A Coruña, España",es,0,5433,,2020-09-10 07:54:17,0.0,0.0,1.0,0.0
+462,10,censura psoe,kiara339,Desubicada,es,5,930,,2020-09-10 07:52:36,0.0,0.0,1.0,0.0
+463,10,censura psoe,jatirado_oc,"Madrid, Comunidad de Madrid",es,5,1749,,2020-09-10 07:52:06,0.0,0.0,1.0,0.0
+464,10,censura psoe,MiguelC04447127,,es,468,141,,2020-09-10 07:50:22,0.0,0.0,1.0,0.0
+465,10,censura psoe,CriseimiVila,Congo 🇨🇬 ,es,9,227,,2020-09-10 07:50:04,0.0,0.0,1.0,0.0
+466,10,censura psoe,jose197312,Collado Villalba - Moral,es,5,513,,2020-09-10 07:49:33,0.0,0.0,1.0,0.0
+467,10,censura psoe,GettysburgiBook,Gettysburg,es,5,239,,2020-09-10 07:49:32,0.0,0.0,1.0,0.0
+468,10,censura psoe,jatirado,Madrid,es,5,79997,,2020-09-10 07:49:32,0.0,0.0,1.0,0.0
+469,10,censura psoe,RafaelLucasGar1,"Huesca, España",es,78,224,,2020-09-10 07:48:03,0.0,0.0,1.0,0.0
+470,10,censura psoe,Eduardo61308224,,es,26,340,,2020-09-10 07:46:35,-0.6767,0.194,0.806,0.0
+471,10,censura psoe,NoticieroMAD,Madrid,es,5,215,,2020-09-10 07:45:57,0.0,0.0,1.0,0.0
+472,10,censura psoe,JosMariaBelsu1,,es,9,215,,2020-09-10 07:43:53,0.0,0.0,1.0,0.0
+473,10,censura psoe,st3_cecilia,,es,9,323,,2020-09-10 07:41:45,0.0,0.0,1.0,0.0
+474,10,censura psoe,ManuelaMarroqu2,"Ourense, España",es,9,722,,2020-09-10 07:41:38,0.0,0.0,1.0,0.0
+475,10,censura psoe,arcangel_remiel,,es,9,1595,,2020-09-10 07:40:32,0.0,0.0,1.0,0.0
+476,10,censura psoe,EsperonAlonso,,es,9,228,,2020-09-10 07:39:04,0.0,0.0,1.0,0.0
+477,10,censura psoe,eslamananadeFJL,"Juan Esplandiú, 13, Madrid",es,9,137243,,2020-09-10 07:38:04,0.0,0.0,1.0,0.0
+478,10,censura psoe,MarietaGuardia,,es,160,45,,2020-09-10 07:33:04,-0.5267,0.155,0.845,0.0
+479,10,censura psoe,Viczuri,,es,23,7715,,2020-09-10 07:31:05,0.0,0.0,1.0,0.0
+480,10,censura psoe,pepebrantuas,España,es,1,784,,2020-09-10 07:30:44,0.0,0.0,1.0,0.0
+481,10,censura psoe,c_castellmadrid,"Madrid, Comunidad de Madrid",es,71,1067,,2020-09-10 07:30:39,0.0516,0.086,0.82,0.094
+482,10,censura psoe,merkur1989,"Jaén, España",es,52,345,,2020-09-10 07:30:29,0.0,0.0,1.0,0.0
+483,10,censura psoe,TablasDigital,"Las Tablas, Madrid",es,6,4360,,2020-09-10 07:30:02,-0.296,0.091,0.909,0.0
+484,10,censura psoe,merkur1989,"Jaén, España",es,7,345,,2020-09-10 07:29:25,0.0,0.0,1.0,0.0
+485,10,censura psoe,MiguelA10171814,,es,160,70,,2020-09-10 07:28:37,-0.5267,0.155,0.845,0.0
+486,10,censura psoe,ElisaCansado,,es,160,2847,,2020-09-10 07:28:29,-0.5267,0.155,0.845,0.0
+487,10,censura psoe,alvaronieto,,es,5,5839,,2020-09-10 07:26:32,0.0,0.0,1.0,0.0
+488,10,censura psoe,silviaza641,,es,0,47,,2020-09-10 07:25:08,0.2023,0.05,0.882,0.068
+489,10,censura psoe,Jos59194926,,es,1,2292,,2020-09-10 07:24:58,0.0,0.0,1.0,0.0
+490,10,censura psoe,CaraEstaca20,edtropolis ,es,20,2926,,2020-09-10 07:23:17,-0.5574,0.247,0.753,0.0
+491,10,censura psoe,AlmudenaNavar11,Entre Valencia y Madrid,es,20,451,,2020-09-10 07:22:02,-0.5574,0.247,0.753,0.0
+492,10,censura psoe,Emma10801,"Badalona, Espanya",es,50,479,,2020-09-10 07:21:58,0.0,0.0,1.0,0.0
+493,10,censura psoe,murcialiberal,Murcia,es,1,3988,,2020-09-10 07:21:40,0.0,0.0,1.0,0.0
+494,10,censura psoe,peter_knife,,es,20,85,,2020-09-10 07:21:37,-0.5574,0.247,0.753,0.0
+495,10,censura psoe,jordipsalvador,Europe,es,0,1038,,2020-09-10 07:19:00,0.0,0.0,1.0,0.0
+496,10,censura psoe,AgusAbietar,"Albacete - Spain, UE.",es,71,783,,2020-09-10 07:17:15,0.0516,0.086,0.82,0.094
+497,10,censura psoe,alexPPnsp,España,es,52,453,,2020-09-10 07:15:16,0.0,0.0,1.0,0.0
+498,10,censura psoe,larazon_es,España,es,2,521827,,2020-09-10 07:15:00,0.0,0.0,1.0,0.0
+499,10,censura psoe,ceo_el,,es,0,72,,2020-09-10 07:14:42,-0.3637,0.099,0.858,0.043
