@@ -15,10 +15,10 @@ from os import remove
 nltk.download('stopwords')
 
 # Variables that contains the user credentials to access Twitter API 
-consumer_key= 'K8NPXvBbX1K1s918AXpc3RXAd'
-consumer_secret= 'DtAvL4cKQKF4EFJP2LLt76djMyLUwfalhfC80vxpU8TpdfAq2I'
-access_token= '1402881252-iOgU2CKhNaf6MexvFNTtSc1fBpc0mK2QyA3KR0R'
-access_token_secret= 'RPrH5rFi6j7kRtBXQphFlZ2GG7fZRNiXNpydR17kiUGV0'
+consumer_key= 'your_key'
+consumer_secret= 'your_key'
+access_token= 'your_key'
+access_token_secret= 'your_key'
 
 # Setup tweepy to authenticate with Twitter credentials:
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
