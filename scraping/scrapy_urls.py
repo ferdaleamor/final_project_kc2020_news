@@ -1,8 +1,6 @@
 import scrapy
 from scrapy.crawler import CrawlerProcess
-# import json
 import os
-# import string
 import pandas as pd
 from datetime import date, timedelta
 import numpy as np
