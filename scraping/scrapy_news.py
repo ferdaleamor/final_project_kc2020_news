@@ -1,13 +1,16 @@
 import scrapy
 from scrapy.crawler import CrawlerProcess
 import json
-from datetime import date, timedelta
+from datetime import date, timedelta, datetime
 import pandas as pd
 from bs4 import BeautifulSoup
 import re
 import string
 import numpy as np
 import os
+import firebase_admin
+from firebase_admin import credentials
+from firebase_admin import firestore
 
 write_path = '../data/news.csv'
 read_path = '../data/urls.csv'
@@ -17,27 +20,23 @@ today = np.datetime64(date.today())
 df_urls = pd.read_csv(read_path)
 urls = list(df_urls['url'])
 
-def get_news_last_days(path, num_days = 10):
-    if not os.path.isfile(path):
-        return [] 
-    df_news = pd.read_csv(path)
-    df_news['scraping_date'] = pd.to_datetime(df_news['scraping_date'], format="%Y/%m/%d")
-    dates = df_news['scraping_date']
-    keep = dates > (np.datetime64(date.today() - timedelta(days=num_days)))
-    df_news = df_news[keep]
-    return list(df_news['url'])
+# Connect databse
+cred = credentials.Certificate('../key.json')
+firebase_admin.initialize_app(cred)
+db = firestore.client()
 
-scrapped_url = get_news_last_days(write_path, 7)
+# Recuperamos las urls scrapeadas de los últimos 10 días en la base de datos
+news = db.collection('news').where('date', '>', datetime.today()-timedelta(days=10)).stream()
+scrapped_url = []
+for new in news:
+    new = new.to_dict()
+    scrapped_url.append(new['url'])
 
 class news_spider(scrapy.Spider):
     name = 'blogspider'
     start_urls = urls
     scrapped_url = scrapped_url
     
-    def __init__(self):
-        if os.stat(write_path).st_size == 0:
-            print(f"scraping_date,url,headline,text,lang", file=filep)
-
     def parse(self, response):
 
         list_replace = ['\n', '"', ',']
@@ -96,13 +95,18 @@ class news_spider(scrapy.Spider):
         for char in list_replace:
             clean_text = clean_text.replace(char, "").strip()
             headline = headline.replace(char, "").strip()
-        print(f"\"{today}\",\"{response.url}\",\"{headline}\",\"{clean_text}\",\"{lang}\"", file=filep)
+
+        new = {
+            'date': datetime.today(),
+            'url': response.url,
+            'headline': headline,
+            'text': clean_text,
+            'lang': lang
+        }
+        db.collection('news').add(new)
 
 process = CrawlerProcess({
     'USER_AGENT': 'Google SEO Bot'
 })
-
-filep = open(write_path, 'a')
 process.crawl(news_spider)
 process.start()
-filep.close()
