@@ -86,3 +86,5 @@ print(f"date,url", file=filep)
 process.crawl(url_spider)
 process.start()
 filep.close()
+
+os.system('python scrapy_news.py')
