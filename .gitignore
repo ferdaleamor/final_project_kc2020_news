@@ -2,5 +2,6 @@ notebook
 lemmatization_lists
 .DS_Store
 data
+*.csv
 .vscode
 key.json
