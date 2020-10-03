@@ -15,13 +15,28 @@ from datetime import datetime, date, time, timedelta
 import numpy as np
 import os.path
 
+import firebase_admin
+from firebase_admin import credentials
+from firebase_admin import firestore
+
 #CARGA DE DATOS
 
-df = pd.read_csv('../data/news.csv')
+cred = credentials.Certificate('../key.json')
+firebase_admin.initialize_app(cred)
+
+db = firestore.client()
+
+today = date.today()
+up_limit = datetime.timestamp(datetime.strptime(str(today)+' 23:59:59','%Y-%m-%d %H:%M:%S'))
+low_limit = datetime.timestamp(datetime.strptime(str(today)+' 00:00:00','%Y-%m-%d %H:%M:%S'))
+news = db.collection('news').where('date', '>=', low_limit).where('date', '<=', up_limit).stream()
+news_list = []
+for new in news:
+    new = new.to_dict()
+    news_list.append(new)
+
+df = pd.DataFrame(news_list)
 df.dropna(inplace=True)
-today = np.datetime64(date.today())
-df['scraping_date'] = pd.to_datetime(df['scraping_date'], format="%Y/%m/%d")
-df = df.loc[df.loc[:, 'scraping_date'] == today]
 df_es = df.drop(df[df.lang != 'es'].index)
 df_es = df_es['headline']
 
@@ -82,24 +97,15 @@ lda_model = LdaModel(
 #DESCARGA DE DATOS A FICHEROS
 
 word_dict = {}
-today = date.today()
-today_path = '../data/topic_today.csv'
-hist_path = '../data/topic_history.csv'
+now = datetime.now()
+today = datetime.timestamp(now)
 
 for i in range(num_topics):
     words = lda_model.show_topic(i, topn = 10)
     word_dict['date'] = today
     word_dict['Topic'] = [i[0] for i in words]
 
-topic_today = pd.DataFrame(word_dict)
-topic_today.to_csv(today_path, index=False)
-
-if os.path.isfile(hist_path):
-    topic_hist = pd.read_csv(hist_path)
-    topic_hist = pd.concat([topic_hist, topic_today])
-    topic_hist.to_csv(hist_path, index=False)
-else:
-    topic_today.to_csv(hist_path, index=False)
+db.collection('topics').add(word_dict)
 
 
 
