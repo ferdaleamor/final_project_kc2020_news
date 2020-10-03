@@ -97,7 +97,7 @@ class news_spider(scrapy.Spider):
             headline = headline.replace(char, "").strip()
 
         new = {
-            'date': datetime.today(),
+            'date': datetime.timestamp(datetime.now()),
             'url': response.url,
             'headline': headline,
             'text': clean_text,
